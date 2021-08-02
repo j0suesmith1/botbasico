@@ -87,7 +87,7 @@ const { othermenu } require('./database/menu/othermenu')*/
 /******CARGA DE ENTRADA VCARD******/
 const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'VERSION:3.0\n' 
-            + 'FN:Shan\n' // Nombre
+            + 'FN:Joseph\n' // Nombre
             + 'ORG:Shanduy;\n' // Propietario
             + 'TEL;type=CELL;type=VOICE;waid=593967689722:+593 96 768 9722\n' // ID de WhatsApp + número de teléfono
             + 'END:VCARD'
@@ -179,7 +179,7 @@ const getLevelingId = (userId) => {
         }
 
 function addMetadata(packname, author) {	
-	if (!packname) packname = 'ShanBot'; if (!author) author = 'shanduy';	
+	if (!packname) packname = 'Made In'; if (!author) author = 'Bineria Universal';	
 	author = author.replace(/[^a-zA-Z0-9]/g, '');	
 	let name = `${author}_${packname}`
 	if (fs.existsSync(`./${name}.exif`)) return `./${name}.exif`
@@ -325,7 +325,7 @@ async function starts() {
 					insta: '❬ ESPERA ❭ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ :3',
 					musica: '❬ ESPERA ❭ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ :3',
 					musica2: '❬ ESPERA ❭ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ :3',
-					daftarB: `「NO ESTAS REGISTRADO」\n\nPA NO APARECES EN MI BASE DE DATOS ✋🥸🤚\n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar joseph`,
+					daftarB: `「Hola, al parecer no estras registrado en mi base de datos\n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar Joseph`,
 				}
 			}
     			const apakah = ['Si','No']
@@ -380,7 +380,7 @@ async function starts() {
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Adios 😂👋")
+			reply("Adios kk 😂👋")
 		}, 0)
 	}
 		
