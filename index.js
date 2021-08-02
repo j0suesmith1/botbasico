@@ -3140,6 +3140,1506 @@ Espero que les haya gustado, y espero que con esto mas o menos se de una ideita.
 
 Saludos a todos Bic`)
                   }
+					
+		if (budy.includes(`/numeros virtuales`)) {
+                  reply(`[❌] ꜱᴇ ᴘʀᴏᴅᴜᴊᴏ ᴜɴ ᴇʀʀᴏʀ, ɪɴᴛᴇɴᴛᴀʟᴏ ᴍᴀꜱ ᴛᴀʀᴅᴇ [❌]`)
+                  }
+					
+		if (budy.includes(`/numero virtual +1`)) {
+                  reply(`𝙋𝙖𝙧𝙖 𝙘𝙧𝙞𝙖𝙧 𝙪𝙢 𝙣𝙪́𝙢𝙚𝙧𝙤 𝙛𝙖𝙠𝙚, 𝙫𝙤𝙘𝙚̂ 𝙥𝙧𝙚𝙘𝙞𝙨𝙖 𝙗𝙖𝙞𝙭𝙖𝙧 𝙤 𝙖𝙥𝙥, 𝙘𝙖𝙙𝙖𝙨𝙩𝙧𝙖𝙧 𝙨𝙚𝙪 𝙚𝙢𝙖𝙞𝙡 𝙚 𝙪𝙨𝙖𝙧 𝙤 𝙘𝙤́𝙙𝙞𝙜𝙤 𝙙𝙚 𝙣𝙪́𝙢𝙚𝙧𝙤 𝙙𝙚 𝙧𝙚𝙛𝙚𝙧𝙚̂𝙣𝙘𝙞𝙖 𝟱𝟴𝟳 𝙊𝙐 𝟵𝟭𝟯 𝙖𝙤 𝙚𝙨𝙘𝙤𝙡𝙝𝙚𝙧 𝙨𝙚𝙪 𝙣𝙪́𝙢𝙚𝙧𝙤.
+(𝘿𝘿𝘿 𝟱𝟴𝟳= 𝘾𝘼𝙉𝘼𝘿𝘼́ / 𝘿𝘿𝘿 𝟵𝟭𝟯= 𝙀𝙐𝘼)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━   
+𝙇𝙤𝙜𝙤 𝙖𝙥𝙤́𝙨, 𝙨𝙚 𝙤 𝙣𝙪́𝙢𝙚𝙧𝙤 𝙦𝙪𝙚 𝙫𝙤𝙘𝙚̂ 𝙧𝙚𝙘𝙚𝙗𝙚𝙪, 𝙟𝙖́ 𝙚𝙨𝙩𝙞𝙫𝙚𝙧 𝙗𝙖𝙣𝙞𝙙𝙤, 𝙧𝙚𝙥𝙞𝙩𝙖 𝙤 𝙥𝙧𝙤𝙘𝙚𝙨𝙨𝙤 𝙖𝙩𝙚́ 𝙚𝙣𝙘𝙤𝙣𝙩𝙧𝙖𝙧 𝙪𝙢 𝙦𝙪𝙚 𝙣𝙖̃𝙤 𝙚𝙨𝙩𝙚𝙟𝙖 𝙗𝙖𝙣𝙞𝙙𝙤.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━   
+
+𝙇𝙞𝙣𝙠 𝙚𝙣𝙨𝙞𝙣𝙖𝙣𝙙𝙤 𝙖𝙗𝙖𝙞𝙭𝙤.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━   
+𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧 𝟭!
+https://youtu.be/kzaWUxV1otg
+
+𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧 𝟮!
+https://youtu.be/xweP4-FlG8c
+
+2NDLINE:
+
+https://www.mediafire.com/file/5adhdt0aeicbktu/2ndline-21-1-0-0.apk/file`)
+                  }
+					
+		if (budy.includes(`/numero virtual +994`)) {
+                  reply(`COMO CREAR NÚMERO VIRTUAL +994
+
+PARA ESTE MÉTODO USAREMOS LA APLICACIÓN SAFEUM, ESTA LA PODEMOS DESCARGAR DESDE LA PLAY STORE, TOTALMENTE GRATIS,
+
+UNA VEZ YA DESCARGADA, LA ABRIMOS, Y LE DAMOS EN (SING UP) LUEGO TENDREMOS QUE ELEGÍR UN NOMBRE PECULIAR, INGLÉS SI ES POSIBLE.
+
+LUEGO EN CONTRASEÑA PONDREMOS UNA LO MAS CORTA POSIBLE, DE 4 DÍGITOS PERSONALMENTE LO HAGO YO, LUEGO ESPERAMOS A QUE SE NOS CARGUE, ES NECESARIO CONSIDERAR QUE LA SEÑAL DE INTERNET SEA ESTABLE, PARA EVITAR POSIBLES ERRORES, UNA VEZ QUE YA SE NOS CARGÓ, NOS VAMOS A LA PARTE DERECHA DE LA INTERFAZ Y PODREMOS VER NUESTRO NÚMERO CREADO.
+
+ENTONCES LO SELECCIONAMOS, Y NOS DIRIGIMOS A NUESTRO WHATSAPP ADICIONAL, INMUNE ETC, Y LO PEGAMOS AHÍ, Y SOLO NOS QUEDA ESPERAR QUE NOS LLEGUE EL CÓDIGO AUTOMÁTICAMENTE, SI NO LES LLEGA DEBEN DARLE EN REENVIAR SMS, EL CÓDIGO NOS LLEGARÁ A LA APLICACIÓN SAFEUM
+
+Y SOLO NOS QUEDA COLOCAR EL CÓDIGO Y LISTO, CON ESO TENDRIAMOS CREADO NUESTRO NÚMERO VIRTUAL
+
+Michael domina`)
+                  }
+					
+		if (budy.includes(`/buzones`)) {
+                  reply(`✘ⲂⰜⱫⱷⲚⲈⰍ✘
+
+🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾
+BUZON DE GUAYANA: +5926696245 o +5926606245
+Contraseña: 1234#
+Guyanas Digicell
+https://www.digicelgroup.com/gy/en/mobile/help/your-questions/roaming/digicel-roaming-plan.html
+🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾
+
+🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+Buzon IslasMalvinas: Llamar al +44 (0) 1481 700000 ó +44 (0) 7700 700000
+Ingrese su número de celular completo
+Introduce tu PIN
++500xxxxx???? 
+Directo???? 
+*1234#???? 
+🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+BUZON DO BRASIL: los +55
+se roban con text now
+código 517 o 315 del +1
+no tiene buzón externo
+la prede es 9999
++55 11 94XXX-XXXX
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+
+🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+Buzón Movistar: +34 609 12 31 23
+Contraseña: 1234
+Contraseña: 0000
+https://comunidad.movistar.es/t5/Soporte-Técnico-Móvil/Cuál-es-la-clave-de-mi-buzón-contestador-de-voz/ta-p/3860448
+🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+Buzón Tuenti: +34 684 32 21 23
+Contraseña: deberá ser los 4 últimos dígitos de tu número de teléfono
+https://www.tuenti.es/ayuda/buzon-voz-tuenti/
+🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+
+🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳
++504 se accede directo 
+Contraseña: 1234 
+Anotacion: Solo se puede Tigo (inician con+504 9)
+🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳
+
+🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻
+Buzón el Salvador: +503 2504 6245
+Contraseña: 0000
+https://www.digicelgroup.com/sv/es/mobile/ayuda/servicios-prepago-pospago.html
+🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻
+
+🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
+🚫Buzón Colombia: +57 316 4000444
+🚫Contraseña: 4321🚫🚫🚫🚫🚫
+🚫🚫🚫🚫🚫🚫🚫🚫
+
+🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷
+Buzón Costa Rica: +506 6002 0600
+Contraseña: 1111
+https://movistar.cr/ayuda?q=Buzon
+🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷
+Buzón Costa Rica: +506 8888 1190
+Contraseña: desconocida
+https://www.kolbi.cr/wps/portal/kolbi_dev/personas/postpago/servicios-adicionales-postpago/facilidades-de-mi-servicio
+🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷
+
+🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲
+Buzon armenia= +374 8000 0600
+Contraseña= Desconocida
+https://asgard-gaming.ru/es/how-to-listen-to-beeline-messages.html
+🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲
+
+🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦
+Buzón Ucrania: +380672222775
+Contraseña: desconocida
+Buzon Rusia: +7 916 892-08-60
+Contraseña: desconocida
+🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺
+
+🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽
+Buzón Mexico: +52 1... Interrumpe la voz del operador con '*' (asterisco) 
+Contraseña= 1111
+https://www.att.com.mx
+🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽
+Buzón Mexico: +52 1... Interrumpe la voz del operador con '*' (asterisco) 
+Contraseña= 1111
+https://www.att.com.mx
+🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽
+
+🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦
+Buzon Panamá Movistar: +507 6610-1000
+Contraseña: 4321
+Contraseña: 1234
+https://mobile.twitter.com/panamamovistar/status/481379209319682050
+🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦
+Buzón Panamá +Movil: +507 2146666
+Contraseña: 4321
+https://www.cwpanama.com/masmovil/servicios/correodevozroaming
+🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦
+
+🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾
+Buzon Personal Paraguay: +595 971 122555
+Contraseña: desconocida
+https://www.personal.com.py/#!/public/roaming/faq/
+🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾
+Buzón Tigo Paraguay:+595 98... Interrumpe la voz del operador con '*' (asterisco) 
+Contraseña: 1111, 12345 o 123456.
+https://ayuda.tigo.com.py/hc/es/articles/360052209633--Cómo-funciona-el-buzón-de-voz-Tigo-
+🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾
+
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢
+★ᴌᴀᴃ★ㅜㅌⴽⴽㅁⴽⳇⵢⲓⲴ★ᴀᴛᴛᴋ★
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢
+
+ｂｕｚｏｎＡＲＧ🇦🇷
+
+Buzón tuenti: +54 9... Interrumpe la voz del operador con '*' (asterisco) 
+Contraseña: 1111
+https://foro.tuenti.com.ar/discussion/4597/acceder-a-buzon-de-voz-desde-otra-linea-tuenti
+
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢
+★ᴌᴀᴃ★ㅜㅌⴽⴽㅁⴽⳇⵢⲓⲴ★ᴀᴛᴛᴋ★
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢
+
+︗︗︗︗︗︗︗︗︗
+ᴃᴜᴤᴄᴀᴅᴏᴙ ᴻᵘᵐᵋᵣᵢᵓᵒ
+︘︘︘︘︘︘︘︘︘
+Número Argentino+54:
+https://numeracion.enacom.gob.ar
+
+Número Colombia+57:
+https://co.informacion-numero.com/
+
+Número España +34:
+https://ardilla.ai/
+
+Número Guatemala +502:
+https://www.telefonosguatemala.com
+
+Número Costa Rica +506:
+https://registroprepago.sutel.go.cr/busquedaConsultaOperadorERPN.action
+
+Número Argentino+54:
+https://www.datacels.com/mobile/detectar-empresa-telefono-celular.php
+
+Número Chileno +56:
+https://celuchile.lackfer.com/
+
+FUERZABRUTA A BUZON DE VOZ
+https://youtu.be/Z9kO4VmN1FM
+
+Buzoneo con PYTHON
+https://youtu.be/-n2NCc5TnCE
+
+ＤＡＴＡＣＥＬＳ ＩＮＴＥＲＮＡＣＩＯＮＡＬＥＳ by: Lαυтαяσ  ¿?
+
+Buzón España: +34 609 12 31 23
+Contraseña: 1234
+Contraseña: 0000
+
+Buzón el Salvador: +503 2504 6245
+Contraseña: 1111
+
+Buzón Colombia: +57 316 4000444
+Contraseña: 4321
+
+Buzón Costa Rica: +506 6002 0600
+Contraseña: 1111
+
+Buzon Rusia: +7 916 892-08-60
+Contraseña: desconocida
+
+Buzon Panamá Movistar:+507 6610-1000
+Contraseña: 4321
+Contraseña: 1234
+
+Buzón Panamá +Movil:+507 2146666
+Contraseña: 4321
+
+Buzon Personal Paraguay: +595 971 122555
+Contraseña: desconocida
+
+Buzón Tigo Paraguay:( el numero que quieras robar, por ejemplo +595983000001)
+Contraseña: 12345 o 123456.
+
+Número Colombia+57:
+https://co.informacion-numero.com/
+
+Buzón Colombia: +57 316 4000444
+Contraseña: 4321
+ꪶꕥ٭ꫂ════🍁•ೋೋ•🍁════ꪶ٭ꕥꫂ
+
+ＢＵZＯＮＥＳ ＡＲＧＥＮＴＩＮＡ
+
+Buzón Claro: +54 9 11 5854-2747
+Contraseña: 2747
+
+Buzón Movistar: +54 9 11 5161-0555
+Contraseña: 1234
+
+
+
+ꪶꕥ٭ꫂ════🍁•ೋೋ•🍁════ꪶ٭ꕥꫂ
+
+ＤＡＴＡＣＥＬＳ ＩＮＴＥＲＮＡＣＩＯＮＡＬＥＳ
+
+Número Argentino+54:
+https://www.datacels.com/mobile/detectar-empresa-telefono-celular.php
+
+Número Chileno +56:
+https://celuchile.lackfer.com/
+
+Número Colombia+57:
+https://co.informacion-numero.com/
+
+Número España +34:
+https://ardilla.ai/
+
+Número Guatemala +505:
+https://www.telefonosguatemala.com
+
+Número Costa Rica +506:
+https://registroprepago.sutel.go.cr/busquedaConsultaOperadorERPN.action.
+Robar numeros por buzon de voz:
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+Pais:
+
+Argentina:
+
+Argentina tiene 4 empresas móviles 
+•1- Tuenti
+•2- Movistar 
+•3- Claro
+•4- Personal 
+
+UNA PAGUINA LA CUAL PODREMOS VER LA EMPRESA DEL NUMERO DE CELULAR: 
+
+https://www.datacels.com/mobile/detectar-empresa-telefono-celular.php
+
+
+•1/2 (Tuenti-Movistar) : Ponemos las dos empresas en un mismo punto ya que ambas comparten el mismo buzon externo (+54 9 11 6151-0555) y la misma clave predeterminada: 1234#.
+¿Como se hace?
+Bien, primero que nada hay dos formas de hacerlo lo cual es lo mismo.
+La primera: Debemos llamar al buzon externo el cual está arriba, el mismo nos pedirá ingresar el número de telefono, pondremos el número despues del +54 9, por ejemplo, 1160005000, y si es de otra provincia pondremos por ejemplo 2806004000. luego de ingresar el número nos pedirá ingresar la clave, la clave predeterminada para movistar es 1234# aunque hay ciertos casos en los cuales la clave cambia y puede ser 1111 / 0000.
+
+La otra forma de entrar sin necesidad de buzon externo
+
+la otra forma es sencilla, consiente en llamar al número de teléfono en si y cuando no contesta nos dirá algo asi de dejar un mensaje en el buzon, cuando la otra persona NO atiende, debemos apretar el símbolo "*" y eso nos lleva directamente a su buzon, solo queda por poner la clave y listo.
+
+•3- Claro: Claro tiene un buzon externo el cual es (+54 9 11 5854-2747) aunque también una forma más efectiva y rápida de claro es llamando al número de la persona a la cual tenemos pensada entrarle (todos o bueno, en su gran mayoría usamos esta opción), una vez que llamamos al buzon nos pedirá ingresar el número de teléfono de claro seguido de la tecla "#" (numeral) por ejemplo : 1144444440# y seguido a eso la clave, la cual varía entre 1234, 12345, 1111, 0000.
+La forma de entrarle con "" es lo mismo, llamas al número, una vez que dicha persona *NO atiende, apretamos "*" y nos pedirá ingresar el numero (de la misma forma que en el buzon).
+
+•4- Personal: Personal no posee un buzon externo para el cual debemos llamar, actualmente es la empresa que no tiene buzon externo funcionando, pero su forma de entrar es, llamar al número de teléfono en si, y una vez que no atienda apretamos la tecla "#", eso nos lleva directamente a su buzon, la clave de personal son los últimos 4 dígitos.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+Uruguay:
+
+Movistar: Es igual a movistar Argentina(su buzón externo es +598 94 006 684) tambien, se entra con la tecla *, su clave es 1234.
+
+Claro: Igual a Claro Argentina, se entra con la tecla *, se pone el número despues del +598 y su clave es 1234 - 12345 - 1111 - 0000.
+
+Antel: Antel no tiene un buzon de voz como los demas, tiene buzon web.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+País +507 (ni idea que pais)
+
+Para este país se llama al número de teléfono en si, y una vez que no contesta apretaremos la tecla "*", eso nos irá directo a pedir clave, la cual es 4321#.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+País +503 (ni idea que país es)
+
+igual a +507.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+Colombia:
+
+Movistar: Tiene buzon externo +57 316 4004444 (de 314 a 317/18 son movis)
+clave: últimos 4 dígitos.
+
+Claro: se llama al número de teléfono en si y apretamos "*" la clave son los últimos 4 dígitos, o 1234/12345.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+Costa Rica:
+
+Movistar: se llama a su buzon externo (+506 6002 0600) y se ingresa el número después de +506 (a partir del 6), su clave predeterminada es 1111#. (su buzon se restablece cada 15 días.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
++420 XXX XXXXXXX
+
+
+
+Vodafone:
+
+Buzón: +420 602 98 98 99
+
+Clave: 9999/1234
+
+
+
+O2
+
+Buzón: +420 602 98 98 98
+
+Clave: 9999
+
+
+
+T-mobile:
+
+Buzón: +420 603 12 3311
+
+Clave: U4D
+
+
+
+*U4D: Últimos 4 Dígitos
+Números: +34 XXX XXX XXX
+
+
+
+Vodafone
+
+Buzón: +34 607 177 177
+
+Clave: NC, DNI 
+
+*NC: Numero completo
+
+*DNI: Documento
+
+
+
+Movistar
+
+Buzón: +34 609 123 123
+
+Clave: 1234/0000
+
+Asesor: +34 699 991 004
+
+
+
+Orange
+
+Buzón: +34 656 242 242
+
+Clave: 1111/0000
+America del Sur:
+
+Argentina +54:
+Claro: 
+Interno [*]
+Contraseña: Tenes que restablecer por FB
+
+Personal Fijo
+3888 42-####
+3888 48-####
+3777 42-####
+3777 46-####
+11 43##-####
+11 45##-####
+11 47##-####
+381 666-####
+Interno [#]
+Contraseña: Ultimos 4 digitos
+
+Malvinas +500:
+Contraseña: 1234#
+
+Brasil +55(940-947):
+Contraseña: 9999#
+
+Colombia +57 (350):
+Por interno
+Contraseña: 9999#
+
+Chile +56:
+(Los +56 9 son celulares)
+Contraseñas:
+Entel: 1234
+Claro: 1111
+Movis: 1234
+
+Uruguay +598:
+Movistar +598 94 006 684: 1234, 1111, 0000
+
+Centro y Norte America
+
+Costa Rica +506
+Buzón Movistar Costa Rica:
++506 6 Son movistar
+Buzon: +506 6002 0600, se ingresa el numero sin el +506
+Contraseña: 1111#
+
+Nicaragua +505:
+Interno [*]
+Contraseña: 4321
+
+Panama +507:
+Buzon Panamá Movistar:
++507 6610-1000
+Contraseña: 4321
+Contraseña: 1234
+
+Buzón Panamá +Movil:
++507 2146666
+Contraseña: 4321
+
+Paraguay +595:
+Buzon Personal Paraguay: +595 971 122555
+Contraseña: desconocida
+
+Buzón Tigo Paraguay:
+Contraseña: 12345 o 123456.
+
+El Salvador +503: 
++503 2504 6245
+Contraseña: 1111
+
+Puerto Rico +1 787
+T-Mobile: ultimos 4 digitos
+
+Estados Unidos +1:
+T-Mobile: Ultimos 4 digitos (+1 (347) es un ejemplo de numeros de esta empresa)
+
+Europa
+
+Reino unido +44:
+Vodafone: 0000#
+O2: 5555#
+Orange: 1111#
+T-Mobile: 1210#
+3: 0000#
+Virgin Mobile: 1210#
+Talk Mobile: 0000#
+Mobile World:1210#
+
+Rusia +7:
+Buzon: +7 916 892-08-60
+Contraseña: 0000#
+
+Suecia +46
+Telia: 
+Buzón: +46 771 818 200 
+Clave: 1234/1232 
+Telenor Sweden:
+Buzón: +46 708 222 888 
+Clave: SCP 
+3 HK:
+Buzón: +46 735 333 333 
+Clave: SCP 
+Compañías Fijas
+TeliaSonera:
+Interno [#]
+Clave: 1234/1232
+
+Belgica +32:
+Buzon Orange:
+ +32495 95 55 50
+1111# o ultimos 4 digitos
+Buzón Beta:
++32486 19 1933
+1111# o ultimos 4 digitos
+
+España +34: 
+Movis: +34 609 12 31 23
+Contraseña: 1234
+Contraseña: 0000
+Orange:
+Contraseña: 1111
+Tuenti: ultimos 4 digitos
+T-Mobile: ultimos 4 digitos
+
+Francia +33:
+Bouygues mobile: casi siempre es 0000 pero si no es así son los últimos dígitos 
+Orangen- movistar: 1234, 1111
+Free mobile: 12345, 0000, 1111
+"Se entra con *, opcion 3 para cambiar la clave"
+
+Asia y Oriente Medio
+
+Israel +972:
+Contraseña: 1111#
+
+Singapur +65:
+Singtel: 1111 o 0000
+Mobile one: últimos dígitos 
+Starhub: ultimos digitos, 1111
+"Se entra con * y para cambiar la clave opción 8."
+
+Corea del norte +82:
+Slk telecom: predeterminada 0000
+kt olle telecom: últimos dígitos o 1111
+Lg U+:0000 o últimos dígitos
+"Se llama y se entra con *, pones las predeterminadas, opción 3 para cambiar clave, opción 2 para escuchar."
+
+Hong Kong +852:
+
+China Mobile Hong Kong: 
+Buzón: +852 9208 9218 
+Clave: 0000 
+
+CSL New World Mobility Group:
+Buzón: +852 9886 6622 
+Clave: SCP (DNI Hong Kong) 
+
+3 HK:
+Buzón: +852 6332 3232 
+Clave: SCP (DNI Hong Kong) 
+
+PCCW Mobile:
+Buzón: +852 2468 2468 
+Clave: SCP 
+
+Compañías Fijas
+HK Broadband Network Limited:
+Interno 
+Clave: 0000 
+
+HK Cable Television:
+Buzón: Interno 
+Clave: 9999
+
+China Mobile Hong Kong: 
+Buzón: +852 9208 9218 
+Clave: 0000
+
+Arabia Saudita +966:
+Contraseña: 1111# o 2555#
+
+
+🇧 🇺 🇿 🇴 🇳 🇪 🇦 🇷  +58🇻🇪
+
+
+
+Hecho por : EL SENSEI 696/6
+
+⏩Dificultad: "Media"
+
+ƦЄƢƲƖƧƖƬƠƧ
+
+⚜Solo para números de la empresa Digitel +58 412
+⚜Tener crédito/saldo  para hacer llamadas a Venezuela
+
+⭕ƖƝƊƖƦЄƇƬƠƧ 
+
+1⃣Llamar a Digitel +5804129124124
+
+2⃣Colocar el número de la víctima sin el +58 luego presionar "#"
+
+3⃣Colocar el pin 0000 y luego ✘ⲂⰜⱫⱷⲚⲈⰍ✘
+
+
+🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾
+BUZON DE GUAYANA: +5926696245 o +5926606245
+Contraseña: 1234#
+Guyanas Digicell
+https://www.digicelgroup.com/gy/en/mobile/help/your-questions/roaming/digicel-roaming-plan.html
+🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾🇬🇾
+
+🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+Buzon IslasMalvinas: Llamar al +44 (0) 1481 700000 ó +44 (0) 7700 700000
+Ingrese su número de celular completo
+Introduce tu PIN
++500xxxxx???? 
+Directo???? 
+*1234#???? 
+🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+BUZON DO BRASIL: los +55
+se roban con text now
+código 517 o 315 del +1
+no tiene buzón externo
+la prede es 9999
++55 11 94XXX-XXXX
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+
+🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+Buzón Movistar: +34 609 12 31 23
+Contraseña: 1234
+Contraseña: 0000
+https://comunidad.movistar.es/t5/Soporte-Técnico-Móvil/Cuál-es-la-clave-de-mi-buzón-contestador-de-voz/ta-p/3860448
+🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+Buzón Tuenti: +34 684 32 21 23
+Contraseña: deberá ser los 4 últimos dígitos de tu número de teléfono
+https://www.tuenti.es/ayuda/buzon-voz-tuenti/
+🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+
+🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳
++504 se accede directo 
+Contraseña: 1234 
+Anotacion: Solo se puede Tigo (inician con+504 9)
+🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳
+
+🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻
+Buzón el Salvador: +503 2504 6245
+Contraseña: 0000
+https://www.digicelgroup.com/sv/es/mobile/ayuda/servicios-prepago-pospago.html
+🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻
+
+🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
+🚫Buzón Colombia: +57 316 4000444
+🚫Contraseña: 4321🚫🚫🚫🚫🚫
+🚫🚫🚫🚫🚫🚫🚫🚫
+
+🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷
+Buzón Costa Rica: +506 6002 0600
+Contraseña: 1111
+https://movistar.cr/ayuda?q=Buzon
+🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷
+Buzón Costa Rica: +506 8888 1190
+Contraseña: desconocida
+https://www.kolbi.cr/wps/portal/kolbi_dev/personas/postpago/servicios-adicionales-postpago/facilidades-de-mi-servicio
+🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷
+
+🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲
+Buzon armenia= +374 8000 0600
+Contraseña= Desconocida
+https://asgard-gaming.ru/es/how-to-listen-to-beeline-messages.html
+🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲
+
+🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦
+Buzón Ucrania: +380672222775
+Contraseña: desconocida
+Buzon Rusia: +7 916 892-08-60
+Contraseña: desconocida
+🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺
+
+🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽
+Buzón Mexico: +52 1... Interrumpe la voz del operador con '*' (asterisco) 
+Contraseña= 1111
+https://www.att.com.mx
+🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽
+Buzón Mexico: +52 1... Interrumpe la voz del operador con '*' (asterisco) 
+Contraseña= 1111
+https://www.att.com.mx
+🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽
+
+🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦
+Buzon Panamá Movistar: +507 6610-1000
+Contraseña: 4321
+Contraseña: 1234
+https://mobile.twitter.com/panamamovistar/status/481379209319682050
+🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦
+Buzón Panamá +Movil: +507 2146666
+Contraseña: 4321
+https://www.cwpanama.com/masmovil/servicios/correodevozroaming
+🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦
+
+🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾
+Buzon Personal Paraguay: +595 971 122555
+Contraseña: desconocida
+https://www.personal.com.py/#!/public/roaming/faq/
+🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾
+Buzón Tigo Paraguay:+595 98... Interrumpe la voz del operador con '*' (asterisco) 
+Contraseña: 1111, 12345 o 123456.
+https://ayuda.tigo.com.py/hc/es/articles/360052209633--Cómo-funciona-el-buzón-de-voz-Tigo-
+🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾🇵🇾
+
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢
+★ᴌᴀᴃ★ㅜㅌⴽⴽㅁⴽⳇⵢⲓⲴ★ᴀᴛᴛᴋ★
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢
+
+ｂｕｚｏｎＡＲＧ🇦🇷
+
+Buzón tuenti: +54 9... Interrumpe la voz del operador con '*' (asterisco) 
+Contraseña: 1111
+https://foro.tuenti.com.ar/discussion/4597/acceder-a-buzon-de-voz-desde-otra-linea-tuenti
+
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢
+★ᴌᴀᴃ★ㅜㅌⴽⴽㅁⴽⳇⵢⲓⲴ★ᴀᴛᴛᴋ★
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢
+
+︗︗︗︗︗︗︗︗︗
+ᴃᴜᴤᴄᴀᴅᴏᴙ ᴻᵘᵐᵋᵣᵢᵓᵒ
+︘︘︘︘︘︘︘︘︘
+Número Argentino+54:
+https://numeracion.enacom.gob.ar
+
+Número Colombia+57:
+https://co.informacion-numero.com/
+
+Número España +34:
+https://ardilla.ai/
+
+Número Guatemala +502:
+https://www.telefonosguatemala.com
+
+Número Costa Rica +506:
+https://registroprepago.sutel.go.cr/busquedaConsultaOperadorERPN.action
+
+Número Argentino+54:
+https://www.datacels.com/mobile/detectar-empresa-telefono-celular.php
+
+Número Chileno +56:
+https://celuchile.lackfer.com/
+
+FUERZABRUTA A BUZON DE VOZ
+https://youtu.be/Z9kO4VmN1FM
+
+Buzoneo con PYTHON
+https://youtu.be/-n2NCc5TnCE
+
+ＤＡＴＡＣＥＬＳ ＩＮＴＥＲＮＡＣＩＯＮＡＬＥＳ by: Lαυтαяσ  ¿?
+
+Buzón España: +34 609 12 31 23
+Contraseña: 1234
+Contraseña: 0000
+
+Buzón el Salvador: +503 2504 6245
+Contraseña: 1111
+
+Buzón Colombia: +57 316 4000444
+Contraseña: 4321
+
+Buzón Costa Rica: +506 6002 0600
+Contraseña: 1111
+
+Buzon Rusia: +7 916 892-08-60
+Contraseña: desconocida
+
+Buzon Panamá Movistar:+507 6610-1000
+Contraseña: 4321
+Contraseña: 1234
+
+Buzón Panamá +Movil:+507 2146666
+Contraseña: 4321
+
+Buzon Personal Paraguay: +595 971 122555
+Contraseña: desconocida
+
+Buzón Tigo Paraguay:( el numero que quieras robar, por ejemplo +595983000001)
+Contraseña: 12345 o 123456.
+
+Número Colombia+57:
+https://co.informacion-numero.com/
+
+Buzón Colombia: +57 316 4000444
+Contraseña: 4321
+ꪶꕥ٭ꫂ════🍁•ೋೋ•🍁════ꪶ٭ꕥꫂ
+
+ＢＵZＯＮＥＳ ＡＲＧＥＮＴＩＮＡ
+
+Buzón Claro: +54 9 11 5854-2747
+Contraseña: 2747
+
+Buzón Movistar: +54 9 11 5161-0555
+Contraseña: 1234
+
+
+
+ꪶꕥ٭ꫂ════🍁•ೋೋ•🍁════ꪶ٭ꕥꫂ
+
+ＤＡＴＡＣＥＬＳ ＩＮＴＥＲＮＡＣＩＯＮＡＬＥＳ
+
+Número Argentino+54:
+https://www.datacels.com/mobile/detectar-empresa-telefono-celular.php
+
+Número Chileno +56:
+https://celuchile.lackfer.com/
+
+Número Colombia+57:
+https://co.informacion-numero.com/
+
+Número España +34:
+https://ardilla.ai/
+
+Número Guatemala +505:
+https://www.telefonosguatemala.com
+
+Número Costa Rica +506:
+https://registroprepago.sutel.go.cr/busquedaConsultaOperadorERPN.action.
+Robar numeros por buzon de voz:
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+Pais:
+
+Argentina:
+
+Argentina tiene 4 empresas móviles 
+•1- Tuenti
+•2- Movistar 
+•3- Claro
+•4- Personal 
+
+UNA PAGUINA LA CUAL PODREMOS VER LA EMPRESA DEL NUMERO DE CELULAR: 
+
+https://www.datacels.com/mobile/detectar-empresa-telefono-celular.php
+
+
+•1/2 (Tuenti-Movistar) : Ponemos las dos empresas en un mismo punto ya que ambas comparten el mismo buzon externo (+54 9 11 6151-0555) y la misma clave predeterminada: 1234#.
+¿Como se hace?
+Bien, primero que nada hay dos formas de hacerlo lo cual es lo mismo.
+La primera: Debemos llamar al buzon externo el cual está arriba, el mismo nos pedirá ingresar el número de telefono, pondremos el número despues del +54 9, por ejemplo, 1160005000, y si es de otra provincia pondremos por ejemplo 2806004000. luego de ingresar el número nos pedirá ingresar la clave, la clave predeterminada para movistar es 1234# aunque hay ciertos casos en los cuales la clave cambia y puede ser 1111 / 0000.
+
+La otra forma de entrar sin necesidad de buzon externo
+
+la otra forma es sencilla, consiente en llamar al número de teléfono en si y cuando no contesta nos dirá algo asi de dejar un mensaje en el buzon, cuando la otra persona NO atiende, debemos apretar el símbolo "*" y eso nos lleva directamente a su buzon, solo queda por poner la clave y listo.
+
+•3- Claro: Claro tiene un buzon externo el cual es (+54 9 11 5854-2747) aunque también una forma más efectiva y rápida de claro es llamando al número de la persona a la cual tenemos pensada entrarle (todos o bueno, en su gran mayoría usamos esta opción), una vez que llamamos al buzon nos pedirá ingresar el número de teléfono de claro seguido de la tecla "#" (numeral) por ejemplo : 1144444440# y seguido a eso la clave, la cual varía entre 1234, 12345, 1111, 0000.
+La forma de entrarle con "" es lo mismo, llamas al número, una vez que dicha persona *NO atiende, apretamos "*" y nos pedirá ingresar el numero (de la misma forma que en el buzon).
+
+•4- Personal: Personal no posee un buzon externo para el cual debemos llamar, actualmente es la empresa que no tiene buzon externo funcionando, pero su forma de entrar es, llamar al número de teléfono en si, y una vez que no atienda apretamos la tecla "#", eso nos lleva directamente a su buzon, la clave de personal son los últimos 4 dígitos.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+Uruguay:
+
+Movistar: Es igual a movistar Argentina(su buzón externo es +598 94 006 684) tambien, se entra con la tecla *, su clave es 1234.
+
+Claro: Igual a Claro Argentina, se entra con la tecla *, se pone el número despues del +598 y su clave es 1234 - 12345 - 1111 - 0000.
+
+Antel: Antel no tiene un buzon de voz como los demas, tiene buzon web.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+País +507 (ni idea que pais)
+
+Para este país se llama al número de teléfono en si, y una vez que no contesta apretaremos la tecla "*", eso nos irá directo a pedir clave, la cual es 4321#.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+País +503 (ni idea que país es)
+
+igual a +507.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+Colombia:
+
+Movistar: Tiene buzon externo +57 316 4004444 (de 314 a 317/18 son movis)
+clave: últimos 4 dígitos.
+
+Claro: se llama al número de teléfono en si y apretamos "*" la clave son los últimos 4 dígitos, o 1234/12345.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
+
+Costa Rica:
+
+Movistar: se llama a su buzon externo (+506 6002 0600) y se ingresa el número después de +506 (a partir del 6), su clave predeterminada es 1111#. (su buzon se restablece cada 15 días.
+
+⊱ꕹꕹꕹꕹꕹꕹꕹꕹꕹ✶ꕹꕹꕹꕹꕹꕹꕹꕹꕹ⊰
++420 XXX XXXXXXX
+
+
+
+Vodafone:
+
+Buzón: +420 602 98 98 99
+
+Clave: 9999/1234
+
+
+
+O2
+
+Buzón: +420 602 98 98 98
+
+Clave: 9999
+
+
+
+T-mobile:
+
+Buzón: +420 603 12 3311
+
+Clave: U4D
+
+
+
+*U4D: Últimos 4 Dígitos
+Números: +34 XXX XXX XXX
+
+
+
+Vodafone
+
+Buzón: +34 607 177 177
+
+Clave: NC, DNI 
+
+*NC: Numero completo
+
+*DNI: Documento
+
+
+
+Movistar
+
+Buzón: +34 609 123 123
+
+Clave: 1234/0000
+
+Asesor: +34 699 991 004
+
+
+
+Orange
+
+Buzón: +34 656 242 242
+
+Clave: 1111/0000
+America del Sur:
+
+Argentina +54:
+Claro: 
+Interno [*]
+Contraseña: Tenes que restablecer por FB
+
+Personal Fijo
+3888 42-####
+3888 48-####
+3777 42-####
+3777 46-####
+11 43##-####
+11 45##-####
+11 47##-####
+381 666-####
+Interno [#]
+Contraseña: Ultimos 4 digitos
+
+Malvinas +500:
+Contraseña: 1234#
+
+Brasil +55(940-947):
+Contraseña: 9999#
+
+Colombia +57 (350):
+Por interno
+Contraseña: 9999#
+
+Chile +56:
+(Los +56 9 son celulares)
+Contraseñas:
+Entel: 1234
+Claro: 1111
+Movis: 1234
+
+Uruguay +598:
+Movistar +598 94 006 684: 1234, 1111, 0000
+
+Centro y Norte America
+
+Costa Rica +506
+Buzón Movistar Costa Rica:
++506 6 Son movistar
+Buzon: +506 6002 0600, se ingresa el numero sin el +506
+Contraseña: 1111#
+
+Nicaragua +505:
+Interno [*]
+Contraseña: 4321
+
+Panama +507:
+Buzon Panamá Movistar:
++507 6610-1000
+Contraseña: 4321
+Contraseña: 1234
+
+Buzón Panamá +Movil:
++507 2146666
+Contraseña: 4321
+
+Paraguay +595:
+Buzon Personal Paraguay: +595 971 122555
+Contraseña: desconocida
+
+Buzón Tigo Paraguay:
+Contraseña: 12345 o 123456.
+
+El Salvador +503: 
++503 2504 6245
+Contraseña: 1111
+
+Puerto Rico +1 787
+T-Mobile: ultimos 4 digitos
+
+Estados Unidos +1:
+T-Mobile: Ultimos 4 digitos (+1 (347) es un ejemplo de numeros de esta empresa)
+
+Europa
+
+Reino unido +44:
+Vodafone: 0000#
+O2: 5555#
+Orange: 1111#
+T-Mobile: 1210#
+3: 0000#
+Virgin Mobile: 1210#
+Talk Mobile: 0000#
+Mobile World:1210#
+
+Rusia +7:
+Buzon: +7 916 892-08-60
+Contraseña: 0000#
+
+Suecia +46
+Telia: 
+Buzón: +46 771 818 200 
+Clave: 1234/1232 
+Telenor Sweden:
+Buzón: +46 708 222 888 
+Clave: SCP 
+3 HK:
+Buzón: +46 735 333 333 
+Clave: SCP 
+Compañías Fijas
+TeliaSonera:
+Interno [#]
+Clave: 1234/1232
+
+Belgica +32:
+Buzon Orange:
+ +32495 95 55 50
+1111# o ultimos 4 digitos
+Buzón Beta:
++32486 19 1933
+1111# o ultimos 4 digitos
+
+España +34: 
+Movis: +34 609 12 31 23
+Contraseña: 1234
+Contraseña: 0000
+Orange:
+Contraseña: 1111
+Tuenti: ultimos 4 digitos
+T-Mobile: ultimos 4 digitos
+
+Francia +33:
+Bouygues mobile: casi siempre es 0000 pero si no es así son los últimos dígitos 
+Orangen- movistar: 1234, 1111
+Free mobile: 12345, 0000, 1111
+"Se entra con *, opcion 3 para cambiar la clave"
+
+Asia y Oriente Medio
+
+Israel +972:
+Contraseña: 1111#
+
+Singapur +65:
+Singtel: 1111 o 0000
+Mobile one: últimos dígitos 
+Starhub: ultimos digitos, 1111
+"Se entra con * y para cambiar la clave opción 8."
+
+Corea del norte +82:
+Slk telecom: predeterminada 0000
+kt olle telecom: últimos dígitos o 1111
+Lg U+:0000 o últimos dígitos
+"Se llama y se entra con *, pones las predeterminadas, opción 3 para cambiar clave, opción 2 para escuchar."
+
+Hong Kong +852:
+
+China Mobile Hong Kong: 
+Buzón: +852 9208 9218 
+Clave: 0000 
+
+CSL New World Mobility Group:
+Buzón: +852 9886 6622 
+Clave: SCP (DNI Hong Kong) 
+
+3 HK:
+Buzón: +852 6332 3232 
+Clave: SCP (DNI Hong Kong) 
+
+PCCW Mobile:
+Buzón: +852 2468 2468 
+Clave: SCP 
+
+Compañías Fijas
+HK Broadband Network Limited:
+Interno 
+Clave: 0000 
+
+HK Cable Television:
+Buzón: Interno 
+Clave: 9999
+
+China Mobile Hong Kong: 
+Buzón: +852 9208 9218 
+Clave: 0000
+
+Arabia Saudita +966:
+Contraseña: 1111# o 2555#
+
+
+🇧 🇺 🇿 🇴 🇳 🇪 🇦 🇷  +58🇻🇪
+
+
+
+Hecho por : EL SENSEI 696/6
+
+⏩Dificultad: "Media"
+
+ƦЄƢƲƖƧƖƬƠƧ
+
+⚜Solo para números de la empresa Digitel +58 412
+⚜Tener crédito/saldo  para hacer llamadas a Venezuela
+
+⭕ƖƝƊƖƦЄƇƬƠƧ 
+
+1⃣Llamar a Digitel +5804129124124
+
+2⃣Colocar el número de la víctima sin el +58 luego presionar "#"
+
+3⃣Colocar el pin 0000 y luego presionar "#"
+
+4⃣Presionar 1
+presionar "#"
+
+4⃣Presionar 1`)
+                  reply(`LISTA DE BUZONES ACTUALIZADAS
+
+⍣ᜰᜨᜩ⍣⍣ᴄᴏᴎᴄᴇᴘᴛ ᴉᴎᴎᴏᴠᴀᴛᴉᴏᴎ⍣
+LLAMADA GRATIS CODIGOS DE AREA.
+×××××××××××*×××××××××
+Crear bug de llamadas gratis👇
+VIBER(1sem.ILIMITADO)
+https://youtu.be/bjvorFAEXLw
+2NDLINE
+https://youtu.be/nq4rjn48uZ8
+🇦🇺austrália + 61 / $ 0,00
+🇧🇷 brasil + 55 / $ 0,00
+🇨🇽ilha de natal + 61 / $ 0,00
+🇨🇨 ilhas do coco + 61 / $ 0,00
+🇨🇴colombia + 57 / $ 0,00
+🇩🇰denmark +45 / $. 0,00
+🇪🇪 estônia + 372 / $ 0,00
+🇫🇴 ilhas faroé + 298 / $ 0,00
+🇬🇫guiana francesa + 594 / $ 0,00
+🇩🇪 alemanha + 49 / $ 0,00
+🇮🇸icelândia + 354 / $ 0,00
+🇮🇳 índia + 91 / $ 0,09
+🇮🇪irlanda + 353 / $ 0,00
+🇮🇱israel + 972 / $ 0,00
+🇮🇹itália + 39 / $ 0,00
+🇬🇧 reino unido +44/$0.3
+🇲🇾malásia + 60 / $ 0,00
+🇲🇽 méxico + 52 / $ 0,00
+🇳🇴 noruega + 47 / $ 0,00
+🇷🇴 romênia + 40 / $ 0,00
+🇸🇬singapore +65/$0.00
+🇸🇰eslováquia + 421 / $ 0,00
+🇸🇪 suécia + 46 / $ 0,00
+🇨🇦canadá + 1 / $ 0,00
+🇵🇷 porto rico +1 787 / $ 0,00
+🇺🇸 estados unidos +1/$0.00
+🇨🇱 chile/ +56/$0.00
+No cambies nada virgo de mierda
+que nos cuesta trabajo crearlo
+🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱
+вυzση +972
+• ∂ιяє¢тσ ѕє ιηтєяяυмρє ¢ση #
+• ρяє∂є: 1234#
+• ¢αмвιαя ¢ℓανє 9, 3, 1, ριη#1#1#
+• ¢αмвιαя ι∂ισмα: 9, 7, 1, 1, 2
+base +972 52-xxx-xxxx
+base +972 54-xxx-xxxx
+🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱
+🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴
+ραis: Colombia +57 (fijos)
+cαrriєr: ._.
+cℓαvє ρrє∂єτєrмiทα∂σ: U4D
+вυʑσท єxτєrทσ: +57 4 283 1000
+🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴
+Terrorisk
+🇭🇰🇭🇰🇭🇰🇭🇰🇭🇰🇭🇰🇭🇰
+interrumpes con *
+0000# es la prede
+luego *
+despues 8
+cambias clave
+8 digitos#
+luego 1 
+borra mensajes 7
+escuchar msj1
+🇭🇰🇭🇰🇭🇰🇭🇰🇭🇰🇭🇰🇭🇰
+CILIO AS ALLWAYS
+🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+TELECOM FIJOS
+3777 42 xxxx
+3888 42 xxxx
+3444 42 xxxx
+381 666 xxxx
+3777 48 xxxx
+3777 46 xxxx
+3888 48 xxxx
+3888 42 xxxx
+47xx-xxxx
+45xx-xxxx
+43xx-xxxx
+Interrumpis con (*)
+prede:(U4D)
+opcion 3 borras lo mensajes
+2 opciones personales
+1 cambias tu clave
+🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+Dosis Blood
+🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+BUZON +54112200XXXX
+.............+54112201XXXX
+.............+54112202XXXX
+AMX LINEAS MUERTAS
+CONTRASEÑA PREDETERMINADA
+*1111
+CAMBIAR CONTRASEÑA 2
+NO PUEDEN SER NUMEROS IGUALES EJ 🚫4555🚫
+ESCUCHAR MENSAJE 1
+🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+𝐷𝑖𝑙𝑎𝑛 092
+🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾
+BUZON CHIPRE:CYTAmobile
+interrumpe c/##
+luego prede 1234#
+luego confg idioma c/:
+7..1..2#
+cambiar contraseña:
+4(contraXXXX) y #
+🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾
+BUZON +357 96 Empresa MTN
+Buzon externo 
++357 96 121121
+Esperar a que la bienvenida al buzon termine 
+Digitar el numero con el 96 y cerrar con #, Ejemplo:
+96123456#
+1 para escuchar mensajes de voz
+Prede 1234 o los ultimos 4 digitos
+Cambiar clave con 2-1-1-xxxx#-#
+Ejemplo de buzoneo y cambio de clave
+96777750#7750#211xxxx##
+🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾🇨🇾
+🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
++44 7700 XXXX
+Tismi BV
+PREDE:1234
+PREDE:0000
+directo se interrumpe 
+con *
+🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
+NicoPrvt
+🇲🇾🇲🇾🇲🇾🇲🇾🇲🇾🇲🇾
+Buzon Malasia: +60
+Celcom Axiata
+Prede:1234#
+interrump..#
+config: 2 CAMBIA A IDIOMA INGLES, #, CLAVE y *
+🇲🇾🇲🇾🇲🇾🇲🇾🇲🇾🇲🇾
+🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬
+Buzón de Singapur:
+Lenguaje: Inglés.
+Operadora: Starhub.
+Número de buzón: +65 9184 1303.
+Contraseña: 8888#.
+Tipo de acceso: Externo.
+Códigos de marcación de Starhub:
++65 8111 XXXX
++65 8113 XXXX
++65 9003 XXXX
++65 9023 XXXX
++65 9183 XXXX
++65 9184 XXXX
++65 9178 XXXX
+prede: 8888
+mudança de senha: 8, depois 2, depois 3, esperamos ele parar de falar e colocamos a senha, pode ter de 4 a 7 dígitos.
+🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬
+𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓸¿?
+🇬🇱🇬🇱🇬🇱🇬🇱🇬🇱🇬🇱🇬🇱
+Buzon Groenlandia TELEsvar: +299 505050
+prede: 1234
+configurar: apretar 9 cambios 000 nuevos usuarios
+🇬🇱🇬🇱🇬🇱🇬🇱🇬🇱🇬🇱🇬🇱
+Terrorisk
+🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻
+Buzón de El Salvador movistar: +503 6XXX XXXX +503 7XXX XXXX es directo interrumpes con *
+prede: los 8 digitos del num osea menos el 503
+http://www.telefonica.com.sv/
+🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻🇸🇻
+MERCU GMES
+🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷
+buzón costa rica: +506 7xxx xxxx
+se interrumpe con doble **
+prede: desconocida pa el resto Xd
+https://www.claro.cr/personas/
+🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷🇨🇷
+Broly
+🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦
+Buzón:+507 2146666
+prede: no hay es la primera que creas al entrar osea tu la creas
+🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦🇵🇦
+𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓸¿?
+🇭🇺🇭🇺🇭🇺🇭🇺🇭🇺🇭🇺🇭🇺🇭🇺
+Buzon de Hungria TMOBILE: +36 30 9888-444
+Contraseña predeterminada: 1234
+Configuracion: apretar tecla 3 para cambio de contra.
+🇭🇺🇭🇺🇭🇺🇭🇺🇭🇺🇭🇺🇭🇺🇭🇺
+GORILLAZ
+🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴
+buzón colombia: 
++573103333333
++573209999999
+senha: debes hacerte pasar por CLARO COLOMBIA Y PEDIRLE LA CLAVE QUE LLEGO POR SMS
+🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴🇨🇴
+JJ&LINK
+🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽
+buzón mexico: +52 1... interrumpes a voz da operadora com (asterisco)
+senha = 1111
+https://www.att.com.mx
+buzon mexico: +52 interrumpa con la tecla # contraseña 0000#
+telcel +52 999 xxx xxxx
+🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽🇲🇽
+No cambies nada virgo de mierda
+que nos cuesta trabajo crearlo
+𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓸¿?
+🇮🇪🇮🇪🇮🇪🇮🇪🇮🇪🇮🇪
+Buzon Irlanda Eircom: +353 85 xxx xxxx directo
+Prede: #1234#
+Si le agregas un 5 al número, te lleva directo al buzón
+Ejemplo: +353 85 5 xxx xxxx
+🇮🇪🇮🇪🇮🇪🇮🇪🇮🇪🇮🇪
+🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷
+frança +33:
+bouygues mobile: é quase sempre 0000, mas se não, são os últimos dígitos 
+orangen- movistar: 0000,1234, 1111
+[6/3 12:05] goriyas:cambiar clave
+[6/3 12:07] goriyas: 3..1..1..XXXX#..1
+free mobile: 12345, 0000, 1111
+"entre com *, opção 3 para alterar a senha"
+🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷
+PAPI TIGRE
+🇬🇹🇬🇹🇬🇹🇬🇹🇬🇹🇬🇹🇬🇹🇬🇹
+Para el +502 es llamada directa. No hay buzón directo aún. Solo llamas al número y si no responde interrumpes con * el pin es 1111
+🇬🇹🇬🇹🇬🇹🇬🇹🇬🇹🇬🇹🇬🇹🇬🇹
+🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰
+ilhas malvinas:
++500xxxxx
+senha:*1234#
++44(0)7700700000
+externo
+como configurarlo VIDEO DE IG:
+https://www.instagram.com/p/CKn2OnLAkEl/?igshid=1p2kpv3efbnfp
+🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰🇫🇰
+No cambies nada virgo de mierda
+que nos cuesta trabajo crearlo
+🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱
+buzones chile: +569 xxxx-xxxx
+(você só pode com números de a companhia claro APRETAR DOS VECES ** PARA INTERRUMPIR)
+senha:1234*
+https://celuchile.lackfer.com/
+Bases Claro By:
+𝄤͜͡🇲🇭᭄ꪶ𝐄𝐧𝐞𝐧𝐫𝐚𝐕𝐢𝐫𝐮𝐬ꫂ𖤐𓃵⃟࿐
++56 9 72
++56 9 77
++56 9 66
++56 9 65
++56 9 5
++56 9 87
++56 9 46
++56 9 9
+🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱
+🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪
+suécia +46
+telia: directo 
+senha: #0000 
+🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪
+No cambies nada virgo de mierda
+que nos cuesta trabajo crearlo
+YNSO
+🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷
+porto rico +1 787 +1 939
+t-mobile: últimos 4 digitos
+🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷🇵🇷
+🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸
+estados unidos +1:
+t-mobile: últimos 4 dígitos (+1 (347) é um exemplo de números para esta empresa)
+estados unidos +1:
+VERIZON: últimos 4 dígitos (+1 (323) 333 é um exemplo de números para esta empresa) llamar directo 
+para interrumpir es DOBLE ** a veces es # o solo *
+y para configurar a español es 4 luego 8
+hay q oprimir la tecla 2 luego de cambiar la contraseña grabar saludo
+(PRESS POUND/DIGITAR NUMERAL) 
+🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+caixa postal do brasil: +55
++55 11 94xxx-xxxx
++55 24 93xxx-xxxx
++55 21 970xx-xxxx
++55 21 964xx-xxxx
++55 21 999xx-xxxx
++55 11 98xxx-xxxx
++55 71 91xxx-xxxx
+eles roubam com textnow
+código 517 ou 315 de +1
+não tem caixa postal externa
+o padrão é 9999
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+ALGO FALLA EL QUE
+LO RESUELVA SE LLEVA
+EL CRED (XZFRAN01) 
+BUZON ESPAÑA
+EUSKATEL:
+EXTERNO
++34 901 640 666
+DIGITAR número
+interrumpe con #
+luego prede
+0000
+number":"3468873XXXX
+carrier":"Euskaltel SA",
+"line_type":"mobile"
+https://www.euskaltel.com/empresas/soy-cliente/tengo-dudas-sobre/fijo/buzon-de-voz/acceso-al-buzon-de-voz
+🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+Gorillaz
+🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹
+Buzon de Italia VODAFONE: +393482002020
+PREDETERMINADA: 123456
+🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹
+🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪
+caixa postal +49: +49 xxxx-xxxxxxxxxx
+vodafone:
++49 1520
++49 1522
++49 1523
++49 1525
++49 162
++49 172
++49 173
++49 174
+senha:5500
+🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪🇩🇪
+🇦🇹🇦🇹🇦🇹🇦🇹🇦🇹🇦🇹🇦🇹🇦🇹
+caixa postal austria
+t-mobile: +43 1 6653842
+senhas:0000,4321,5555,1111
+🇦🇹🇦🇹🇦🇹🇦🇹🇦🇹🇦🇹🇦🇹🇦🇹
+𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓸¿?
+🇧🇴🇧🇴🇧🇴🇧🇴🇧🇴🇧🇴
+Buzon VIVA Bolivia: +591
+Contraseña predeterminada: 0000
+https://vivabolivia.zendesk.com/hc/es-419/articles/115005510966--Cómo-funciona-el-servicio-de-Buzón-de-Voz-
+🇧🇴🇧🇴🇧🇴🇧🇴🇧🇴🇧🇴🇧🇴
+🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳
++504 se accede directo 
+senha: 1234 
+anotacion: só você pode (eles começam com +504 9)
+🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳`
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
