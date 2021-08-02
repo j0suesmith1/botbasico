@@ -93,7 +93,7 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
-prefix = '*'
+prefix = '/'
 blocked = []
 
 /******CONFIGURACION DE CARGA******/
@@ -1312,35 +1312,1215 @@ break
 					})
 					break
                 default:
-                if (budy.includes(`Hola`)) {
-                  reply(`wtf y este random?`)
+                if (budy.includes(`/introduccion bins`)) {
+                  reply(`📢 INTRODUCCION BINS ✅
+
+🔱 PRIMERO QUE NADA DEBEMOS SABER CADA COSA QUE VAMOS USAR OK.
+
+☪️ ¿Que es un Bin?
+
+Un BIN son los 6 primeros números de una tarjeta lo cual identifica al banco y al tipo de tarjeta que es. Los BINs nos permiten generar tarjetas de crédito o debito.
+  
+🌈 Ejemplo: 541111xxxxxxxxxx
+
+Y BUENO, QUE HARE CON LAS x Y COMO OBTENDRÉ LA FECHA Y EL CODIGO DE SEGURIDAD...🤠
+
+Se ingresara a cualquiera de estas paginas...
+
+https://namso-gen.com/
+
+https://www.bestccgen.com/namso-ccgen/
+
+https://cc-gen.us/
+
+📡 INGRESANDO A CUALQUIERA DE ESAS PAGINAS OBTENDREMOS LA TARJETA DE CREDITO/DEBITO CON SU FECHA Y CVV...🛰
+
+🙆‍♂️ RECUERDA.....ESTAS TARJETAS GENERADAS SON FALSAS...💫
+
+🤡 NO SON REALES, SINO TODO AQUEL QUE BINEE ESTUVIERA EN CANADÁ...🤗
+
+🕉 BUENO YA SABIENDO QUE ES UN BIN...PASAREMOS A ENSEÑARLES QUE ES UN VPN...✅
+
+PUES BASICAMENTE UN VPN ES UNA HERRAMIENTA QUE USAREMOS CASI SIEMPRE XD. CON LA VPN NOSOTROS PODREMOS CREAR CUENTAS PREMIUN...YA QUE ESTA APP, OSEA LA VPN, NOS PODRA CAMBIAR NUESTRA DIRECCIÓN IP, OSEA SUPONGAMOS QUE SOMOS DE VENEZUELA 🇻🇪...Y BUENO EN LA INFORMACIÓN DEL BIN DICE QUE SU PROCEDENCIA ES DE BRAZIL 🇧🇷...PUES BÁSICAMANTE LO QUE HAREMOS ES ENCENDER NUESTRA VPN. BUSCAR DICHO PAIS DEL BIN QUE COMO EJEMPLO ES BRAZIL 🇧🇷. Y LISTO XD.
+
+♌ COMO TERCER PASO, SERIA SABER O TENER UNA NOCIÓN DE QUE ES UN LIVE...
+
+Básicamente las lives son tarjetas de crédito aprobadas por el mercado, es decir, tienen fondos. Estás sirven para realizar pequeñas, grandes compras fisicas y/o renovar suscripciones.
+
+A CONTINUACIÓN LES DEJO PAGINAS FUNCIONALES PARA SACAR LIVES...🐊
+
+https://karmeyhesed.org/
+
+https://dzi.org/make-a-donation 
+
+https://www.habitat.org/ 
+
+https://secure.givewell.org/
+
+Y ESTO SE PREGUNTARA COMO SACO LIVES....EN RESUMEN... CONECTAN SU VPN AL PAIS DEL BIN....GENERAN TARJETAS EN CUALQUIERA DE LAS PAGINAS QUE LES MANDE... Y FINALMENTE LE DAN EN COMPRAR - START O UNA MAMADA ASI XD...SI DICE ALGUN MENSAJE DE ERROR...SIGNFICA QUE LA TARJETA ESTA MUERTA...Y EN CASO LA TARJETA PASE....SIGNFICA QUE ESTA LIVE = VIVA. EL UNICO REQUISITO ES TENER PACIENCIA...🙃
+
+A, POR SI QUIEREN BINS,MÉTODOS Y CURSOS TOTALMENTE GRATUITO UNANSE A NUESTRO CANAL DE TELEGRAM...🖤
+
+https://t.me/joinchat/2xJmxMcHVW9lMDdh
+
+🛐 ¿COMO CREAR UN BIN?
+
+Un bin se hace a base de una cc real, solo debemos copiar los 6 primeros números de la cc y agregamos 10 equis (x)
+
+Ejemplo: 5411112364745823
+
+Bin: 541111xxxxxxxxxxx
+
+En caso no tengas tarjeta de credito o debito hay un canal donde suben bins a diario, lo único que tendrias que hacer es ponerte a calar (probar) en que paginas jala (funciona)
+
+Canal Donde Pueden Sacar Bins: https://t.me/MacacosCC...🤑
+
+ ☮¿EN QUE PAGINAS JALAN?
+
+Bueno, esto es depende de donde sea el bin. Hay bins que jalan en una sola pagina ejemplo (crunchyroll) y hay otros que son multifuncionales ejemplo (crunchyroll, mubi, Onlyfans, entre otras).
+
+Posdata: solo tome esas páginas para el ejemplo ._.XD
+
+✝️ ¿QUE ES CHAVELO?
+
+Se le denomina “Chabelo” a un bin que pese a que es viejo sigue funcionando en varias páginas.
+
+♉ ¿Corremos riesgo al utilizar un bin?
+
+Los BINS no son tan peligrosos, con la acción de “binear”, solo se estafa a la empresa en donde la usaste la cc generada.
+
+Las tarjetas no son de dueños reales, solo son algoritmos, que de alguna manera pasan en una
+página.
+
+Lo más malo que te puede pasar, es que una página bloquee tu IP real permanentemente o tu dispositivo.
+
+La otra cosa, es que tu IP puede estar en una lista negra de SPAM, eso es
+provocado usualmente por VPN’s como Hola que vende este tipo de datos de sus usuarios a otras compañías, lo cual es algo que Hola no te especifica. Igual, hay muchos mejores VPN’s .
+
+Es muy raro que pase, binear no es peligroso, si es que no abusas o llegas a un extremo muy pero muy elevado.
+
+♐ ¿Qué es BAN?
+
+Seguramente en los diversos grupos has escuchado esto, literalmente Ban significa prohibir esto es que se te pone una restricción; ya sea total, parcial, temporal o permanente, al sitio en donde has realizado la compra
+
+Bueno Geys espero les haya servido esta breve introducción recuerden que si quieres aprender más sobre esto puedes descargar nuestra aplicación donde encontraras tutoriales,bins y métodos funcionales. Eso seria todo con esto me despido.
+`)
                   }
-		if (budy.includes(`Todo bien`)) {
-                  reply(`Si amigo todo bien, vite`)
+		if (budy.includes(`/encontrar un bin`)) {
+                  reply(`Hay varias formas de sacar Bins, una de estas es por la página web Bankbinlist. [Ver Video Completo]
+
+Pasos:
+
+Primer Paso: Abrir su navegador preferido e ir al siguiente link:
+
+https://www.bankbinlist.com/?hl=es
+
+Segundo Paso: Buscar el pais del Bin que desean obtener. En mi caso escogi Estados Unidos 🇺🇸
+
+Tercer Paso: Nos saldra una gran variedad de Bins, escogen cualquiera. Una ves hecho esto les saldra toda la información de ese Bin [banco,marca,nivel,etc]
+
+Cuarto Paso: Ponerse a calar (probar) en que paginas (plataformas) pasa nuestro Bin.`)
                   }
 
-		if (budy.includes(`Buenos dias`)) {
-                  reply(`Buenos Dias trolos de mierda`)
+		if (budy.includes(`/extrapolar un bin`)) {
+                  reply(`⚜ ¿QUE ES EXTRAPOLACIÓN? ⚜
+
+Extrapolar es cuando sacamos un bin a partir de una tarjeta de credito existente, Por Ejemplo:
+
+3764010x5xxx03x
+37640101x526xxx
+3764010xx5x6xx7
+3764010xxx2xxxxx
+
+Hay 3 métodos de extrapolación: básica,  y avanzada.
+
+🔰 𝗕𝗔𝗦𝗜𝗖𝗔:
+
+Consiste en 2 tipos de extrapolación:
+
+Similitud. 
+Activación.
+
+✅ ACTIVACIÓN
+
+Simplemente tomas una tarjeta Generada con tu bin carbon y cambias los ultimos 6 digitos por la letra 𝘅
+
+Ejemplo:
+
+Tarjeta Usada: 5292202302315781
+
+Resultado: 5292202302xxxxxx 
+
+✅ SIMILITUD
+
+Requiere tener 2 CC del mismo BIN, que son:
+ 
+T1: 5292203820803126
+T2: 5292207483033368
+
+Debemos separar los 6 primeros números de la CC:
+
+[529220] [3820803126]
+[529220] [7483033368]
+
+Y, se van a fijar en el segundo grupo:
+
+[3820803126] y [7483033368]
+
+Después, van a comprobar SIMILITUDES entre estos dos, es decir, vas al segundo grupo que se separó:
+ 
+[3820803126]
+[7483033368]
+
+Ordenarlas de este modo, y después, comparar.Si tienen el mismo número, se quedan iguales, si no, se reemplazan por una X, es decir:
+
+T1: [3820803126]
+T2: [7483033368]
+
+Quedaria asi: [xxxxxx3xxx]
+
+Ahora, juntas el bin con tu resultado: 
+
+New Bin: 529220xxxxxx3xxx
+
+Y ese es tu nuevo bin extrapolado
+
+🔰 𝗔𝗩𝗔𝗡𝗭𝗔𝗗𝗔:
+
+Esta es una compleja, pero muy buena para generar lives.
+Muy poca gente la conoce, ya que esta fue extraída de el software de generación de tarjeta SoFlA de un banco b10*sum:
+
+T1: 5292208177212441 
+T2: 5292204657663815 
+
+Para este método, debemos usar únicamente los 10 dígitos de dos CCs. 
+Pero, como hago si las CCs tienen diferentes números? 
+Bueno. Del tercer grupo, solo se usarán los 2 números de la tarjeta.
+
+5292 2081 x72x xxxx 
+5292 2081 x76x xxxx
+
+Se suman
+
+7+2= 09 
+7+6= 13
+ 
+A partir de estos resultado, se divide el número entre 2: 
+
+7+2= 09÷2=4.5 
+7+6= 13÷2=7.5 
+
+Después, se multiplica por 5. 
+
+7+2= 09÷2=4.5=22.5 
+7+6= 13÷2=7.5 =37.5 
+
+Si existe un decimal (.) y el número es de dos cifras, se borra el decimal. 
+
+Y el resultado se suma: 
+
+22+37 =59 
+
+Así que terminaria:
+ 
+5292 2081 59xx xxxx
+
+✅ INDENTACION LOGICA:
+
+5292208177212441
+ 
+Debemos separar los 6 primeros números de la CC:
+
+[ 529220] [8177212441]
+
+Y, se van a fijar en el segundo grupo
+
+[8177212441]
+
+Después, este grupo lo deben separar en modo (3-4-3), es decir: 
+
+[817] [7212] [441]
+
+Y, eliminan el número central: 
+
+[8x7] [7xx2 [4x1] 
+
+Después, ordenan el BIN con el resto: 
+
+Resultado Final: 5292208x77xx24x1
+
+✅ MATERIALDINVERTER
+
+Este es algoritmo privado el cual afecta a las tarjetas generadas después de mediados del 2017, fue tomado del software SoFlA del Banco de Bogotá. 
+
+Este es el mas, mas complejo de todos y tiene un 100% de seguridad de sacar lives si lo usas bien. 
+
+Este método requiere 2 CCs, las cuales comúnmente son expedidas entre Octubre 2016 a Febrero 2017. 
+Así que:
+
+T1: 5292208177212441 
+T2: 5292204657663815
+
+Tienes que separar T1 y T2 en 2 grupos de 8 digitos 
+
+T1:[52922081 [77212441 
+T2:[52922046 [57663815 
+
+Ahora, vas a agarrar T2 y vas a ordenarlo del siguiente orden para poder multiplicarlo 
+5×5= 25 
+2×7= 14 
+9×6= 54 
+2×6= 12 
+2×3= 6 
+0×8= 0 
+4×1= 4 
+6×5= 30 
+
+Vas a escribir cada resultado en una línea pegado: 
+2514541260430
+
+Como pueden ver, hay 13 números, debemos hacer que sean 8, así que borramos los últimos 
+
+5 para que nos queden 8 que serían: 
+
+Nos queda: 25145412 
+
+Ahora, vamos a pegar el primer grupo con nuestro resultado: 
+
+=5292204625145412 
+
+Ahora, vamos a realizar extrapolación basica, similitud entre T1 y el resultado, por eso, separamos: 
+
+T1: 5292208177212441 
+
+R1: 5292204625145412 
+
+Nuestro resultado seria: 529220xxxxxxx4xx 
+
+Ahora, si el último dígito termina siendo una X, este se reemplaza por 1 
+
+El resultado final sería: 529220xxxxxxx4x1`)
                   }
 
-		if (budy.includes(`Bot gay`)) {
-                  reply(`Miren a este boludito`)
+		if (budy.includes(`/verificar un bin`)) {
+                  reply(`Bueno geys. En esta oportunidad les enseñare a Verificar su BIN
+Primero necesitaremos un BIN. La ves pasada les enseñe como sacarlo xd.
+
+Para ahorrar toda esa clase usaremos al bot del grupo, bueno una ves obtenido el BIN ( 410453 ). 
+
+Luego nos dirigimos a https://www.bincodes.com/bin-checker/
+
+Una ves abierta la pagina. Buscamos el apartado Bank Identification o en español ( Número De Identificación ).Y ahi colocaremos nuestro BIN ( 410453 )
+
+Ahora tendremos que validar,completar el Captcha.
+
+Una ves hecho esto, damos clic en la opción CHEQUE.
+
+Esperamos unos minutos y nos saldra la información de nuestro BIN.
+
+Resultado de la validación de BIN
+
+410453 es un BIN válido.
+
+Detalles del BIN
+
+COMPARTIMIENTO: 410453
+
+Banco emisor: KEMBA CREDIT UNION, INC.
+
+Marca de carro: VISA
+
+Tipo de tarjeta: CRÉDITO
+
+Nivel de tarjeta: CLÁSICO
+
+Nombre de país: ESTADOS UNIDOS
+
+BY: @JOSEPHBINERO`)
                   }
 
-		if (budy.includes(`Gracias`)) {
-                  reply(`De nada padre`)
+		if (budy.includes(`/que es live`)) {
+                  reply(`-Una live es una Cc que será aprobada en el lugar de donde es el bin
+
+Una live igual es una cc que tiene fondos.
+
+¿Cómo sacar una live?
+
+Las Lives se pueden sacar de diferentes maneras
+
+1- Una live se puede sacar desde un bot de Telegram ya sea gratuito o de paga, esos son los checkers spam [Anti Spam]
+
+2- Otra forma de sacar una Live es comprando un checker web, esos son checkers que no tienen [Anti Spam] y puedes cargar varias ccs sin necesidad de esperar un molesto [Anti Spam]
+
+¿Qué es un checker y cuanto valen?
+
+-Un checker es un sistema el cual se encarga de verificar que una cc está live
+
+-El precio de un checker varía de cada dueño del checker
+
+¿Qué es un Gate? Un Gate es un lugar especifico para meter una cc, existen varios tipos de Gate como:
+
+-Multigata
+
+-CVV gate
+
+-CCN GATE
+
+¿Qué es CCN Y CVV?
+
+-Una CCN es una cc que tiene correcto los 16 dígitos y la fecha correcta pero el código de seguridad es incorrecta
+
+-Una CVV es una cc que tiene todo correcto
+
+¿Para qué sirve una CVV?
+
+La CVV sirve para hacer compras físicas u comprar algún servicio sin riesgo a que el mismo se caiga a las semanas o días.`)
                   }
 
-		if (budy.includes(`Bien gracias y tu?`)) {
-                  reply(`wtf y esta random?`)
+		if (budy.includes(`/carol bot checker`)) {
+                  reply(`💢》 ¿Como se usa Carol Bot?
+
+🍿| Bueno gente primero ingresamos al Bot : @Carol5_bot
+ahora ponemos en iniciar , bueno aca tienen que poner la targeta con los datos pero antes el comando    /ch y despues la targeta , esperas algunos segundos y listo , te sale si es live o no , si marca una X significa que no vale  si marca una ✅ es que la targeta si vale , haslo cada 30 segundos
+
+🔧| Bot para sacar lives : @Carol5_bot`)
                   }
 					
-		if (budy.includes(`opa`)) {
-                  reply(`opaaaaa`)
+		if (budy.includes(`/iban`)) {
+                  reply(`⚠️| Método Iban.
+
+Bueno chicos hoy les voy a enseñar un metodo sencillo que puede sacarlos de un apuro, se llama Iban o Sepa...
+
+¿Y que es esto?
+
+El International Bank Account Number "Código Internacional de Cuenta Bancaria" en su traducción al español, es un código alfanumérico que identifica una cuenta bancaria determinada en una entidad financiera en cualquier lugar del mundo. 
+Es decir, a cada cuenta le corresponde un único IBAN mediante el cual se identifica el país, la entidad, la oficina y la cuenta. 
+Se trata de un estándar del Comité Europeo de Estándares Bancarios, que a su vez cumple con el estándar ISO 13616.
+
+A continuación les mostrare una lista de países que usan este metodo (esta actualizada así que aprecienlo)
+
+Caracteres Albania [🇦🇱]~[28]: AL35202111090000000001234567     
+  Caracteres Andorra [🇦🇩]~[24] AD1400080001001234567890  
+Caracteres Azerbaiyán [🇦🇿]~[28] AZ96AZEJ00000000001234567890         
+ Caracteres Bahréin [🇧🇭]~[22] BH02CITI00001077181611  
+Caracteres Bélgica [🇧🇪]~[16]
+BE71096123456769  
+Caracteres Bosnia [🇧🇦]~[20]: BA275680000123456789 
+Caracteres Brasil [🇧🇷]~[29]: BR1500000000000010932840814P2          
+ Caracteres Bulgaria [🇧🇬]~[22]:
+BG18RZBB91550123456789 
+Caracteres Costa Rica [🇨🇷]~[22] CR37012600000123456789  
+Caracteres Dinamarca [🇩🇰]~[18]: DK9520000123456789 
+Caracteres Alemania [🇩🇪]~[22]: DE91100000000123456789  
+Caracteres Salvador [🇸🇻]~[28]:
+SV43ACAT00000000000000123123     
+ Caracteres Estonia [🇪🇪]~[20]:
+EE471000001020145685    
+Caracteres Finlandia [🇦🇽]~[18]:
+FI1410093000123458  
+Caracteres Francia [🇨🇵]~[27]: FR7630006000011234567890189   
+  Caracteres Georgia [🇬🇪]~[22]:
+GE60NB0000000123456789   
+Caracteres Polonia [🇵🇱]~[28]:
+PL10105000997603123456789123  
+  Caracteres Portugal [🇵🇹]~[25]:
+PT50002700000001234567833  
+Caracteres Rumania [🇲🇩]~[24]:
+RO09BCYP0000001234567890  
+Caracteres Suiza [🇨🇭]~[21]:
+CH5604835012345678009 
+Caracteres Serbia [🇷🇸]~[22]
+RS35105008123123123173    
+Caracteres Eslovenia [🇸🇮]~[19] SI56192001234567892
+
+⚠️| Método Iban Parte ²
+
+~Basicamente esa es la teoría de que es Iban 😛.
+
+¿Para que funciona?
+
+•Se utiliza como metodo alternativo al Bin, ya que puede que funcione de diferente manera en paginas destinadas a otros servicios como es el caso mas común con Napster.
+ Su uso puede varias, ya es cuestión de ustedes Intentar.
+
+Iba a utilizar Napster para enseñarles, pero Alemania fue baneada de sus servidores así que no funciona Pero no se preocupen cualquier pagina con un dominio Aleman o de los países anteriormente mostrados servira.
+
+¿Que necesitamos para este metodo?
+
+[✓] VPN activado en Alemania (puede que funcione cualquier VPN pero recomiendo uno como HMA).
+
+[✓] Entrar en la página fake-it.ws y seleccionar la Bandera de Alemania.
+
+[✓]  Intentar en sitios que acepten este tipo de pago. 
+
+[1️⃣] En primer lugar con nuestro VPN Activado, ingresamos a fake-it.ws
+
+[⚠️] Chicos las identidades falsas son clave en este mundo. 
+
+[⚠️]Algunas paginas piden minimo algo de relación entre nombre y vivienda
+
+[⚠️] Incluso numero de celular, que aunque no lo verifiquen puede llegar a molestar buscarlo.
+
+[✓] Así que usen fake-it.ws
+
+[✓] La interfaz de la pagina es bastante intuitiva,fácil de entender y usarla.`)
                   }
                  
-		if (budy.includes(`Fua`)) {
-                  reply(`el diegote pa`)
+		if (budy.includes(`/carding limite`)) {
+                  reply(`Tutorial Carding Avanzado
+
+Necesitas dinero para ganar dinero. Simple y claro.
+Lo que significa que es la unica forma que usted va ser capaz de conseguir CCs.
+Si usted no tiene dinero es imposible que pueda obtener CCs, si usted es tiene 100 tarjetas tendra exito. (Pero qué novato tiene 100 tarjetas)?
+amenos que si usted tiene algún acceso la base de datos de datos de una empresa o si usted conoce alguien que esta dispuesto a darle ccs todo el dia
+Sé que es una declaración desalentadora para todos ustedes, pero tenemos que mantener ** realista. La forma más fácil de
+Obtener ccs es comprarlos
+"Pero no puedo conseguir un trabajo / no quiero trabajar!"
+
+Tener un trabajo regular de 9 a 5 no es una mala idea en la escena de carding. No sólo tendrás algún tipo de coartada
+A por qué tienes todo esto gatito caro en tu casa, pero también puedes usar el dinero (que no puede
+Hoy en día) para pagar las facturas. Usted no puede tarjeta para siempre, y usted no puede sostenerse por cardar solo.
+Porque usted tendra todo esto caro en su casa pero también debe utilizar dinero (que no puede hoy en dia) para pagar sus facturas. Usted no puede usar tarjetas para siempre y
+[HIDE-REPLY] usted no puede sostenerse con solo cardear.
+si usted esta realmente atado con correa para el efectivo, usted también que ir con la alternativa: El comercio para sus recursos(Negociar con otras personas en este arte del carding). Tu tienes que ser ingenioso para el carding, lo que significa que tienes que usar lo que tienes.
+¿Tienes una cuenta de administrador de psybnc?
+Ofrezca al usuario psybnc una o dos. ¿Puede hacer llamadas de verificación? Solo preguntate
+"¿Qué tengo que pueda ser valioso para otra persona?" Y trabajar con eso. No tiene que ser grande, solo
+Tiene que conseguir ccs en sus palmas.
+Una vez que haya obtenido su primer cosa cardeada con CC, no gaste todas sus ganancias. Ahorre y vuelva a invertir de vuelta.
+
+"¿Dónde puedo comprobar mi CC?"
+Saber si su cc es válido o no es realmente importante para ahorrar algo de tiempo y energía.Puede hacern en un sitio de verificación,
+se puede comprobar bajo hxxp: //www.sinfulcherries.com/? Aid = 525390.
+La forma de la idea para comprobar ccz es a través de un comerciante en línea (authorize.net, linkpintcentral.) Estos
+comerciantes pueden verificar las cantidades de cc sin cobrar sus ccs. Buena suerte para encontrar uno.
+
+Otros métodos para verificar las cc es registrar su cc en un banco en línea. (Usted necesitará al menos
+Una tarjeta de nivel 2, nivel 3 para tarjetas ATM). Un montón de bancos en línea puede darle límite, facturación addy, etc ectc pero que
+Requieren por lo menos un nivel 2 cc (más información en de la cc)
+
+TARJETA DE CRÉDITO FRAUDE: LA INFORMACIÓN ES CLAVE.
+
+Quiero dejar algo claro ahora mismo. El secreto de la tarjeta no es el número de tarjetas que posee, sino
+Qué puedes hacer con las tarjetas. ¿Qué quiero decir con eso? Sencillo.
+Hipotetica situación
+
+Mi nombre es Johnny y tengo 3 ccs con SSN, DOB, CVV NUMBER, MMN, NAME,
+DIRECCIÓN DE LA CALLE, CIUDAD, ZIP, Y NÚMERO DE TELÉFONO, DIRECCIÓN FACTURACIÓN.
+Tengo un amigo llamado Billy. Billy tiene 300
+CCCZ con CVV, MMN, NOMBRE, DIRECCIÓN DE CALLE, CIUDAD, ZIP, Y FACTURACIÓN TEL. NÚMERO. ¿Quién es más probable?
+Para la tarjeta de éxito algo?
+En pocas palabras, yo (Johnny) am. ¿Por qué? Porque tengo más información que puede probar que soy la persona que
+Posee este CC que Billy sus 300 CCVZ. ¿Eso significa que Billy no va a cardear nada? no,
+Sólo significa que Billy va a tener dificultades para cardear cualquier cosa sin verificación.
+
+Así que para resumir esta lección, usted tiene que obtener información sobre su victima (la persona que está suplantando.)
+# 1 regla en el cardado es: cuanto más información que tiene sobre una persona, las mejores posibilidades que tiene para un
+Transacción exitosa.
+
+Aquí está la información que estás buscando (nota: los niveles de una tarjeta no es un término de carding técnico, yo sólo he usado NIVEL 1,2,3 para simplificar ** a lo largo del tutorial.):
+
+(NIVEL 1: CVV REGULAR) Si usted tiene esta información, usted tiene un cc regular.
+NOMBRE:
+DIRECCIÓN:
+CIUDAD:
+ESTADO:
+CÓDIGO POSTAL:
+TEL. NÚMERO DE FACTURACIÓN:
+NÚMERO DE TARJETA:
+TARJETA EXP DATE:
+CODIGO CVV:
+Esta información sirve mucho para cardear algo muchas veces, vale la pena mencionar. Si usted tiene menos que esta información.
+Número de Seguro Social (SSN):
+Fecha de Nacimiento (DOB):
+Nombre de soltera (MMN):
+
+NIVEL 2: (PARCIAL FULL-INFO) Si usted tiene esta información, su ccs están en otro nivel
+Con esta información, Usted debe ser capaz de cardear PayPal, C2IT, y otros sitios sin demasiado de un h * le.)
+NÚMERO DE CUENTA BANCARIA:
+NÚMERO DE RUTA:
+NOMBRE DEL BANCO:
+NÚMERO DE BANCO:
+NÚMERO DE CARNET DE CONDUCIR:
+NÚMERO DE PIN (Para la tarjeta CC o ATM)
+
+Nivel 3:
+Si tiene esta información, tu CC está listo para cualquier cosa que su corazón desee
+Ahora si todo lo que tienes es un cc regular, no desanimarse, también son muy utiles.
+
+SEGURIDAD, ANONIMATO
+
+La seguridad es clave. Nadie quiere dar a los federales la satisfacción de revolvernos y cerrar
+Producción, por lo que tenemos que permanecer tan anónimo como sea posible.
+Primero déjeme empezar diciendo que no se puede 100% de protegerse. No dejes que la gente te engañe pensando eso.
+Usted puede estar detrás de todos los proxies, wingates, Socks, y cualquier otra cosa en el mundo, pero deja "digital
+Huellas dactilares" donde quiera que vaya.
+
+Para mis beneficios personales, uso un ISP combinado con un anonymizer
+Cuenta (www.anonymizer.com) y un nivel 1 proxy. Pero no lo recomiendo para todo el mundo.
+Www.anonymizer.com: ofrece excelentes servicios para aquellos que quieren permanecer anónimos.
+Es un servicio y como cualquier otro servicio prestado, usted tiene que pagar por el uso
+
+El único problema del servicio es que tienen algunos problemas con los sitios que utilizan Applets de Java, lo que significa que podría tener que
+Saltar en algunos de los principales sitios que requieren JAVA.
+Usted puede también obtener proxies gratis de www.anonymitycheker.com/page1.htm este es un sitio de descenso que clasifica los Proxies de "transparente" (filtra su ip) a "altamente anónimo". También realizan pruebas de proxy en tiempo real y
+Otros **.
+
+Stealther:
+Este Programa se llama Stealther. Stealther puede ser registrado vía Key (así que usted puede ir a #serialz en efnet y conseguir una
+Clave) y es un programa anónimo de descenso.
+
+EvidenceEliminator: Si usted es realmente serio sobre cardear, éste es un programa que usted NECESITA haber instalado, encender Su HD en TODOS LOS TIEMPOS! Los agentes federales tienen varios programas que les permiten extraer información de
+Su PC, como las páginas que ha visitado, los archivos que ha eliminado y los correos electrónicos que ha escrito.
+Cada vez que su PC se reinicia, EE entra en acción, lo que le proporciona la seguridad de borrar cualquier registro de testigos e historial
+Archivos. Siempre quieres estar preparado para lo peor.
+
+JAVA: siempre asegúrese de desactivar JAVA en su navegador.
+CARDED ISP: No sé si la tarjeta de un ISP es seguro o no. He oído comentarios mezclados sobre esto. Sin embargo,
+Puedo atestiguar que he tenido experiencia con tal asunto y yo nunca he tenido un problema hasta ahora.
+
+Estos no son los únicos métodos de sigilio, estos son sólo los más populares. Si usted siente que tiene
+Un método de anonimato que funciona, por todos los medios probarlo. Nunca se sabe qué funciona hasta que
+Usted experimenta.
+Si usted necesita saber si esta usted anonimo realmente, hay algunas maneras simples de probar esto.
+Www.whatismyip.com: la primera prueba (y la más básica) que debe tomar. Whatismyip.com es un método simple de
+Saber sobre su IP en la web.
+
+www.multiproxy.org/env_check.htm: esto es una comprobación básica de su nivel de anonimato. Debe tener JAVA
+Habilitado - el verdadero propósito del sitio es promover su software (multiproxy)[/HIDE-REPLY]
+
+🛍 De regalo les dejo esto :3
+
+🔱 @BineriaUniversal
+
+https://mega.nz/folder/3BNWVZRb#ZfEyVq_H16dkc-08NggSnw`)
+                  }
+					
+					
+	if (budy.includes(`/termux`)) {
+                  reply(`📱TERMUX📱
+
+Si eres nuevo en este mundo de la informática y el hacking, debes estar pensando... ¿Cómo empezar en este mundo?
+Debido a que muchas personas les interesa este mundo pero no saben como empezar, me he dado el trabajo de escribir esta pequeña guía sobre el uso de Termux para que aprendas a navegar en esta terminal de entorno linux disponible para los dispositivos android que tengan una versión android 5.0.1 o superior, cabe aclarar que Termux se encuentra disponible de forma gratuita en la Play Store así que no te preocupes por su instalación ya que es algo muy básico instalar aplicaciones de la Play Store.
+También quiero aclarar que ésta pequeña guía está hecha en base a mis conocimientos y también está hecha para que los nuevos en este mundo puedan comprender su uso, es decir, no te voy a nombrar las características de Termux ni nada por el estilo ya que eso solo te confundiría al empezar y yo quiero que lo comprendas, mas no darte conceptos que no sabes que significan.
+Antes de empezar, quiero que comprendas bien la respuesta a estas pequeñas preguntas:
+
+📱¿Qué es Termux?📱
+
+Termux es una terminal de entorno linux para dispositivos android, es decir, así como Windows, Kali Linux, Ubuntu, Parrot, etc... tienen su terminal de comandos, android también cuenta con una de ellas y ésta se llama Termux.
+Esta terminal de comandos puede ser instalada sin la necesidad de realizar complicadas configuraciones, es decir, al instalar esta terminal en tu dispositivo android, ocupara muy poco espacio ya que ésta viene desde cero, no tiene instalado ningún paquete y tampoco tiene permisos de almacenamiento, todo tendrás que realizarlo tú de forma manual a medida que vayas avanzando. Termux avanza al igual que tú, así que esta terminal depende de ti, tú tienes el control, tú decides qué hacer con ella.
+Comprendido todo ésto, te estarás preguntando...
+
+📱¿Para qué sirve Termux?📱
+
+Termux puede servir para realizar varias pruebas de hacking, como por ejemplo, hacking a redes sociales, redes Wi-Fi, páginas web, e incluso puede servir para programar, es decir, con Termux tendrás oportunidad de aprender a hackear y ver lo vulnerables que pueden ser las redes sociales, páginas web, routers, entre otras.`)
+                  }
+					
+					
+	if (budy.includes(`/gta san andreas`)) {
+                  reply(`Acerca De:
+
+Grand Theft Auto: San Andreas es un videojuego de acción-aventura de mundo abierto desarrollado por Rockstar North y publicado por Rockstar Games.
+
+Link De Descarga:
+
+https://www.mediafire.com/file/ln6r3kx0ie77r9t/GTA_San_Andreas_2021.zip/file`)
+                  }
+					
+	if (budy.includes(`/annelids`)) {
+                  reply(`Acerca De:
+
+Annelids: Es un juego de acción y aventuras en el que nos veremos inmersos en medio de una guerra subterránea de gusanos armados. A través de esta original premisa, nos mantendremos enganchados a la pantalla de nuestro dispositivo Android mientras intentamos acabar con todos los enemigos.
+
+Link De Descarga: https://play.google.com/store/apps/details?id=cz.gdmt.AnnelidsDemo&hl=es&gl=US`)
+                  }
+					
+	if (budy.includes(`/deezer`)) {
+                  reply(`Acerca De:
+
+Deezer Music Player, Songs, Playlists & Podcasts: Es un reproductor de música, radio y podcast que seguro te encantará. Puede acceder a muchas canciones populares y gratuitas en diferentes países y encontrar sus canciones favoritas. Al mismo tiempo, a veces desea una experiencia de entretenimiento diferente, entonces puede buscar la función de escucha de radio y podcasts que brinda la aplicación. De hecho, la experiencia del usuario se verá satisfecha por muchos factores.
+
+Link De Descarga: https://files.moddroid.com/Deezer/Deezer_6.2.31.68.6211404.apk`)
+                  }
+					
+	if (budy.includes(`/netflix`)) {
+                  reply(`Acerca De:
+
+Netflix: Es una empresa de entretenimiento y un servicio por suscripción estadounidense que opera a nivel mundial y cuyo servicio principal es la distribución de contenidos audiovisuales a través de una plataforma en línea o servicio de video bajo demanda por streaming.
+
+Link De Descarga (No Mood): https://play.google.com/store/apps/details?id=com.butacapremium.play
+
+Link De Descarga (Mood 1): https://mega.nz/#!lFlEzI5S!nisjSAODd7v0qL4QXQIj0jNoqhkYJXqVDMkqqUrovWI
+
+Link De Descarga (Mood 2): https://files.moddroid.com/Netflix/Netflix_SV4_v7.111.1.apk`)
+                  }
+					
+	if (budy.includes(`/prime video`)) {
+                  reply(`Acerca De:
+
+Prime Video, también comercializado como Amazon Prime Video, es un servicio de videos disponible en retransmisión en directo, creado y gestionado por Amazon.com. La plataforma ofrece miles de títulos sin coste adicional a la afiliación mensual o anual a Prime Video
+
+Link De Descarga (No Mood): https://gp.moddroid.com/Amazon%20Prime%20Video/Amazon%20Prime%20Video-3.0.300.8457.apk
+
+
+Link De Descarga (Mood): https://files.moddroid.com/Amazon%20Prime%20Video/Prime_Video_3.0.298.12657_MOD_Viva.apk`)
+                  }
+					
+	if (budy.includes(`/disney plus`)) {
+                  reply(`Acerca De:
+
+Disney Plus: Es un servicio de suscripción de vídeo a la carta en streaming propiedad de la división de Distribución de Medios y Entretenimiento de The Walt Disney Company y gestionado por la misma.​
+
+Link De Descarga (No Mood): https://play.googleapis.com/download/by-token/download?token=AOTCm0RnPNDb4JLgYA9QX77sPeifys-oahQUNFSmRmXSh6c5nGSRfgcE5A2V5nTqNPUDrxTwU2K3BDAJ3Ru7kfvVbbLcFPlMqdYGq2w9syr0pwwndMJCyBTp1Ks6UVuhIdqrGHaV0iFN_6Cv8ab6tqkswpESSKiwP8NMZTISBjB97Fy3GrmjZy2Nye9ETJ33toVYe4IOjDEXwceki4_MSFF3teYRSzcPc5hw3VsqIXVpW5fOTXNTOZuA8GjCQCtWMTew51wKDEuCxuGWaoPXOxyqRuOz2SIDhkupSo0EfW07sZepLuUiG1hC9Y5rKuaRs1DPgpkL9HNdkGpNoz9oaxpWNcMeEzifXw8lpROFgMXisteGU22x3qCiXPaAeHaGvFpqkeAaibsOrlDWj59C8TwSBSyuEQ&amp;cpn=BM-U_rvyIO3DC0b9
+
+Link De Descarga (Mood): https://file.hapmod.com/uploads/Disney-Plus-1.16.0-Mod-CoiMobile.Com.apk`)
+                  }
+					
+	if (budy.includes(`/crunchyroll`)) {
+                  reply(`Acerca De:
+
+Crunchyroll: Es una empresa distribuidora, editorial, de producción y de licencias estadounidense centrada en la transmisión de anime, manga y dorama.
+
+Link De Descarga (No Mood): https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid&ddl=1&pcampaignid=web_ddl_1
+
+Link De Descarga (Mood): https://techbigs.com/download/mod/crunchyroll-premium-893-13785#`)
+                  }
+					
+	if (budy.includes(`/viki rakuten`)) {
+                  reply(`❌ SE PRODUJO UN ERROR. INTENTALO MÁS TARDE ❌`)
+                  }
+					
+	if (budy.includes(`/onlyfans`)) {
+                  reply(`Ultra Mega Pack
+
+1 - Isabella Y Aída 
+https://exe.io/IsabelOnly
+
+2 - Jeniffer Ponce 
+https://exe.io/JennfiponceOnly
+
+3 - Tanza Mattel
+https://exe.io/TanzaOnly
+
+
+4 - Tessa
+https://exe.io/TessaOnly
+
+5 - Ferxiita
+https://exe.io/FerxitaaOnly
+
+6 - Angela White
+https://exe.io/AngelaWiteOnly
+
+7 - Lily Adrianne 
+https://exe.io/LilyOnly
+
+8 - Andyy Tok 
+https://exe.io/AndyTokOnly
+
+9 - Karina Rodríguez
+https://exe.io/KarinaRodrigesOnly
+
+10 - Angigss
+https://exe.io/AngigssOnly
+
+11. Victoria Matosa
+https://exe.io/VictoriaMOnly
+
+12. Luna Benna
+https://exe.io/LunaBenmaOnly
+
+13. Sky Wallace
+https://exe.io/SkWallaceOnly
+
+14. Dalma Vanesa
+https://exe.io/DalmaVaOnly
+
+15. Baby Selling
+https://exe.io/BabySellinOnly
+
+16. Hott4lexi 
+https://exe.io/HottaLexiOnly
+
+17. Jennifer Ponce
+https://exe.io/JeniferPonceOnly
+
+18. Viking Barbie
+https://exe.io/VikingBarbieOnly
+
+19. Juanita belle
+https://exe.io/JuanitaBellaOnly
+
+20. Lady dusha
+https://exe.io/LadyDushaOnly
+
+21. Lana rhoades
+https://exe.io/LanaOnly
+
+22. Seleneitor
+https://exe.io/SeleneitorOnly
+
+23. T.Y.G.A
+https://exe.io/TygaOnly
+
+24. Increíble😏🤭
+https://exe.io/IncreibleOnly
+
+25. Brutal🥵
+https://exe.io/BrutalOnly`)
+                  }
+					
+	if (budy.includes(`/onlyfans 2`)) {
+                  reply(`🔥 JUANITA BELLE 🔥
+
+https://mega.nz/#F!upwCmCAZ!xOQidcy4vgLmByOWTn7QQA!zwwmlASB`)
+                  }
+					
+	if (budy.includes(`/canal de inmunes`)) {
+                  reply(`╔═╦╗───────────╔══╗
+║╔╣╚╦═╗╔═╦╦═╦╗─║═╦╩╦╦╗
+║╚╣║║╬╚╣║║║╩╣╚╗║╔╣╬║╔╝
+╚═╩╩╩══╩╩═╩═╩═╝╚╝╚═╩╝
+╔══╗────────────╔═╗
+╚║║╬═╦╦══╦╦╦═╦╦═╣═╣
+╔║║╣║║║║║║║║║║║╩╬═║
+╚══╩╩═╩╩╩╩═╩╩═╩═╩═╝
+
+➣ 到 - ARCADIA MODS ϟ
+
+https://m.youtube.com/channel/UCljRgCGtjvlPcEqvw5jsA7A
+
+➣ Beto a.m.g Tutoriais
+
+https://m.youtube.com/channel/UCTRms5xeyZezhGZQ8LDOotQ
+
+➣ Castillo OFC
+
+https://m.youtube.com/channel/UCScibil7BzjEpjZK-jZkTrw
+
+➣ 岌~THE ZEUS_YT卐
+
+https://m.youtube.com/channel/UCZvfahHM_N_6Pi5tZK_i31Q
+
+➣ KrazModder
+
+https://m.youtube.com/channel/UC_VBfeDcgZkPZ5x6n3uUmhQ
+
+➣ THE NILF
+
+https://m.youtube.com/channel/UCo74LtnVg35Wm80Hfs0bZtQ
+
+➣ REALITY OFC
+
+https://m.youtube.com/channel/UC9U-569ecvLihT_6iXROG-g
+
+➣ MaLz 41
+
+https://m.youtube.com/channel/UC-1YnvlNc6Y4QTzZ9STrWIA
+
+➣ SS MODS❶☇
+
+https://m.youtube.com/channel/UC9EV0BMByKr-zFDXTE4ERlQ
+
+➣ KING DARK MODS. WA
+
+https://m.youtube.com/channel/UCL9q-_s0yWBSewdCEKNo6xA
+
+➣ Night Dynasty
+
+https://m.youtube.com/channel/UCM4jlmc1fX-ZVRw3ex3VGNQ
+
+➣ De momento un morro weyon
+
+https://m.youtube.com/channel/UCz3yFwVsRiDs_qFtfoaohgA
+
+➣ Lozt
+
+https://m.youtube.com/channel/UCx7Yg_RxHc9i75nnR4JdJvA
+
+➣ AN1MA Z3R0 OFC
+
+https://m.youtube.com/channel/UCc4hYgWSpWx5NYWLr6wyUJg
+
+➣ TheMegaSpace
+
+https://m.youtube.com/channel/UC4vjfsYkYos3LnWTfbRw_HQ
+
+➣ Genious Hack
+
+https://m.youtube.com/channel/UChYEexcJ69Jy3I3ddpaDR6Q
+
+➣ camilo thunder mods
+
+https://m.youtube.com/channel/UCRbl9xqps8oiNe4SP7nPmOw
+
+➣ ૮ђષ૮ઝy66
+
+https://m.youtube.com/channel/UCxGPqPIvkU2IN1RJnmssjqg
+
+➣ GBZINNAYKER 👑
+
+https://m.youtube.com/channel/UCzTvyTeyPh4mSPgl4WfDEvQ
+
+➣ MasterKillerϟ
+
+https://m.youtube.com/channel/UCa0qnNsxwxVOxptwmjIt5Dw
+
+➣ WizardModz YT
+
+https://m.youtube.com/channel/UCojW8CZUn-2j_vCZrIJzBXg
+
+➣ XIANJIANG X
+
+https://m.youtube.com/channel/UCeGuzvdwfTxBIkgDEjvHDfA
+
+➣ TOM MODS YT OFC
+
+https://m.youtube.com/channel/UCEeDgxX5E7EVhZ8TSyTQBnQ
+
+➣ Keystone Baez
+
+https://m.youtube.com/channel/UCFqXDhp-h_FtIMkgw-EeKcA
+
+➣ Titan Mods
+
+https://m.youtube.com/channel/UC_mt5RPkXqZEhTj1ysU5D4w
+
+➣ Dan Del Zap ϟ
+
+https://m.youtube.com/channel/UC4t_VgOilV0huJtSQR-o3lg
+
+➣ SIXXTER PB
+
+https://m.youtube.com/channel/UCDWRb2k1KARDgWHQpnr_xpA
+
+➣ BERTH 1981 OFC
+
+https://m.youtube.com/channel/UCA_wuEUZOUr3uY6w7rgRHGg
+
+➣ FredX 尢
+
+https://m.youtube.com/channel/UCH6dMAuCt7PJkQVOrVfAuYQ
+
+➣ Enigma Modder OFC
+
+https://m.youtube.com/channel/UC-XQmRekHo0dDDXgItEo6uQ
+
+➣ LouKoh Modz 炎
+
+https://m.youtube.com/channel/UCl8CmLL9cfYaNViUQ-_hE6Q`)
+                  }
+					
+	if (budy.includes(`/wa inmunes`)) {
+                  reply(`LISTA DE WATSAPP IMNUNES
+
+🤬 PRIMARIO - DEMON SLAYER
+
+https://www.mediafire.com/file/7ddydax8g1khau1/file
+
+👺 SECUNDARIO - YO WHATSAPP
+
+https://www.mediafire.com/file/8u3ple4wa4y04nu/file
+
+👺 SECUNDARIO - TIK TOK
+
+https://www.mediafire.com/file/qxnok1prxdstpw2/file
+
+🥰 TERCIARIO - GOLD VIP
+
+https://www.mediafire.com/file/uym0vdhbm0tobpk/file
+
+👺 SECUNDARIO - PROYECTO X
+
+https://www.mediafire.com/file/uym0vdhbm0tobpk/file
+
+👺 SECUNDARIO - ZENITZU V4
+
+https://www.mediafire.com/file/x2fy1msycq3wym2/file
+
+👺 SECUNDARIO - ZERTO TWO V2
+https://www.mediafire.com/file/26tyouohprazap0/file
+
+👺 SECUNDARIO - CASTILLO MOODS
+
+https://www.mediafire.com/file/rf4hjld82grqdd6/2529.apk/file
+
+👺 SECUNDARIO - DOTA V2
+
+https://www.mediafire.com/file/kiuykmel1r508l4/file
+
+👺 SECUNDARIO 5K - BLACK
+
+https://www.mediafire.com/file/yoza00ga4k0lp5c/5K_-_BLACK%25281%2529.apk/file
+
+👺 SECUNDARIO DESTELLA V4
+
+https://www.mediafire.com/file/17lyg04co0bq5sa/file
+
+🤬 PRIMARIO - TÓXICA
+
+https://www.mediafire.com/file/0gdrb1ze7guxgug/file
+
+🤬 PRIMARIO - 𝑻𝑶́𝑿𝑰𝑪𝑶 2.0																																																											
+https://www.mediafire.com/file/gmmzfk78qg2p4mh/file
+
+👺 SECUNDARIO - TURBO NITRO V10
+
+https://www.mediafire.com/file/87zw0nl6cx4036v/file
+
+👺 SECUNDARIO - RAIOS
+
+https://www.mediafire.com/file/fz4jmhvp4fsd6ae/file`)
+                  }
+					
+	if (budy.includes(`/castillo moods`)) {
+                  reply(`Mi Canac: https://www.youtube.com/channel/UCScibil7BzjEpjZK-jZkTrw
+
+Descarga mi u´ltima versión de whatsapp...
+
+Información del Mood:
+
+Nuevo WhatsApp Inmune Castillo V2.. 
+
+Nombre de paquete com.castillov2
+
+Botones de inmunidad ✔️
+Inmunidad a a texto Mejorada. ✔️
+Inmunidad a Emoji.✔️
+Inmunidad a Fotografía. ✔️
+Inmunidada a corta net.✔️
+Mejor rennvio. ✔️
+Inmunidad a contacto/ CTT✔️
+Animaciones a CTT/VCF ✔️
+Anti delete de mensajes ✔️
+Buen diseño ✔️
+Backup ✔️
+Restore ✔️
+Puedes aumentar la velocidad de los audios. ✔️
+Texto bomba de Ios ✔️
+
+📲 ZONA DE DESCARGA 📥
+Está es la primer apk (sin inmunidad) esta limpia la razón es qué le e incrementado un método de Caducidad para qué dure mucho más tiempo, entonces necesitan descargar la primer apk qué es esta y después descargar la segunda apk qué tiene la inmunidad y lo qué muestra en el video.. 
+
+https://www.mediafire.com/file/6yc9xxr7vikvnis/.apk/file
+
+Seguido se debe de instalar la segunda apk cuando ya estén dentro del whatsapp, para así tener todo los botones e inmunidad a travas..
+
+https://www.mediafire.com/file/76e68cb8eisoj8h/.apk/file
+`)
+                  }
+					
+	if (budy.includes(`/inmunizar`)) {
+                  reply(`━━━━━━━━━━━━━━━━━━━━
+
+〘 𝙈𝙀́𝙏𝙊𝘿𝙊𝙎 𝘿𝙀 𝙄𝙈𝙐𝙉𝙄𝙕𝘼𝙍 〙
+
+━━━━━━━━━━━━━━━━━━━━
+
+
+
+➥๖ۣۜ𝙄𝙢𝙪𝙣𝙞𝙯𝙖𝙧 𝙖 𝙇𝙤𝙘𝙖𝙡𝙞𝙯𝙖𝙘̧𝙖̃𝙤 🎲
+
+💠๖ۣۜ𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧 𝟭!
+https://youtu.be/bVZG1v_HWoE
+
+💠๖ۣۜ𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧 𝟮!
+https://youtu.be/cD0wYuhD1pM
+
+
+➥๖ۣۜ𝙄𝙢𝙪𝙣𝙞𝙯𝙖𝙧 𝙖 𝙏𝙚𝙭𝙩𝙤 🎲
+
+💠๖ۣۜ𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧 𝟭!
+https://youtu.be/mLw-_GP0IV0
+
+💠๖ۣۜ𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧 𝟮!
+https://youtu.be/VRI5UbbR2hc
+
+
+➥๖ۣۜ𝙄𝙢𝙪𝙣𝙞𝙯𝙖𝙧 𝙖 𝘾𝙤𝙣𝙩𝙖𝙩𝙤 🎲
+
+💠๖ۣۜ𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧!
+https://youtu.be/uFPisMfQEWU
+
+
+➥๖ۣۜ𝙞𝙢𝙪𝙣𝙞𝙯𝙖𝙧 𝙖 𝙀́𝙢𝙤𝙟𝙞 🎲
+
+💠๖ۣۜ𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧 𝟭!
+https://youtu.be/mLw-_GP0IV0
+
+💠๖ۣۜ𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧 𝟮!
+https://youtu.be/Z2wOQ1NRufU
+
+
+➥๖ۣۜ𝙄𝙢𝙪𝙣𝙯𝙖𝙧 𝙖 𝘾𝙖𝙩𝙖́𝙡𝙤𝙜𝙤 🎲
+
+💠๖ۣۜ𝙎𝙚𝙜𝙪𝙚 𝙤 𝙩𝙪𝙩𝙤𝙧!
+https://youtu.be/_3bBMlu_YUo`)
+                  }
+					
+	if (budy.includes(`/binarios`)) {
+                  reply(`¿ϙᴜᴇ sᴏɴ ʟᴏs ʙɪɴᴀʀɪᴏs?
+
+ sᴏɴ ᴛᴇxᴛᴏs ɢʀᴀɴᴅᴇs ᴇᴄʜᴏs ᴀ ʙᴀsᴇ ᴅᴇ ʟᴇᴛʀᴀs ᴏ sɪᴍʙᴏʟᴏs ᴘᴇsᴀᴅᴏs ᴇɴᴄᴏɴᴛʀᴀᴅᴏs ᴇɴ ʟᴀ ᴀᴘᴋ ᴄʜᴀʀᴀᴄᴛᴇʀ ᴛᴀʙʟᴇ , ϙᴜᴇ ᴛɪᴇɴᴇɴ ᴇɴ ᴄᴀɴᴛɪᴅᴀᴅ ᴅᴇ ʟᴇᴛʀᴀs 60000 ᴀ 65000 ᴄᴀʀᴀᴄᴛᴇʀᴇs ᴏ ʟᴇᴛʀᴀs ғᴜᴇʀᴏɴ ᴇᴄʜᴏs ᴘᴀʀᴀ ᴘᴏᴅᴇʀ ᴛʀᴀʙᴀʀ ᴇʟ ʟᴇᴄᴛᴏʀ ᴅᴇ ʟᴇᴛʀᴀs ᴇɴ ᴡsᴘ , ϙᴜᴇ sɪɢɴɪғɪᴄᴀ ϙᴜᴇ ʟᴀ ᴀᴘᴋ ᴅᴇ ᴡsᴘ ᴛɪᴇɴᴇ ʟᴇᴄᴛᴏʀᴇs ᴅᴇ ᴅɪғᴇʀᴇɴᴛᴇs ᴛɪᴘᴏs ᴄᴏᴍᴏ ᴄᴏɴᴛᴀᴄᴛᴏs ɢᴘs ᴍsᴊ ᴇᴛᴄ . ʟᴀ ᴄᴜᴇsᴛɪᴏᴍ ᴅᴇ ᴀʟ sᴇʀ ᴇᴍᴠɪᴀᴅᴏ ᴜɴ ʙɪɴᴀʀɪᴏ ᴇʟ ʟᴇᴄᴛᴏʀ ᴅᴇᴍᴏʀᴀʀᴀ  ᴇɴ ʟᴇᴇʀ ᴛᴏᴅᴀs ʟᴀs ʟᴇᴛʀᴀs ᴘᴀʀᴀ sᴇʀ ᴠɪsᴛᴀs ᴘᴏʀ ᴇʟ ʀᴇᴄᴇᴘᴛᴏʀ ᴇɴᴛᴏɴsᴇs ʟᴀs ᴍᴀɴᴇʀᴀs ᴅᴇ ᴇᴠɪᴛᴀʀ ᴇʟ ʟᴀɢᴇᴏ sɪ ᴛɪᴇɴᴇs ᴜɴ ᴡsᴘ ɴᴏʀᴍᴀʟ ᴇs ᴄᴏɴ ᴅᴇsᴛʀᴀʙᴀᴅᴏʀᴇs ᴏ ʙᴏʀʀᴀᴅᴏ ᴅᴇ ᴄᴀᴄʜᴇ ᴏ ᴍᴀs ғᴀᴄɪʟ ᴜɴ ᴡsᴘ ɪɴᴍᴜɴᴇ ᴇɴᴛᴏɴsᴇs ϙᴜᴇ ᴀsᴇɴ ᴇsᴛᴏs ᴇʟ ᴅᴇsᴛʀᴀʙᴀ ᴀsɪ ᴛ ᴘᴀsᴇɴ 1000000 ʙɪɴᴀʀɪᴏs ᴄᴏɴ sᴏʟᴏ ᴜɴᴀ ᴅᴇsᴛʀᴀʙᴀ  sᴇ ᴅᴇsʟᴀɢᴇᴀ  ʀᴇᴄᴏᴍᴇᴍᴅᴀʙʟᴇ ᴜɴ ᴡsᴘ ɪɴᴍᴜɴᴇ ᴇɴᴛᴏɴsᴇs ʟᴏs ʙɪɴᴀʀɪᴏs sᴏʟᴏ ʟʟᴇɴᴀɴ ᴇʟ ᴄᴀᴄʜᴇ ᴅᴇ ᴡsᴘ ᴀsɪ ϙᴜᴇ ᴀʟɢᴜɴᴀ ᴅᴜᴅᴀ ᴅᴇsɪʀʟᴀ`)
+                  }
+					
+	if (budy.includes(`/quemado de codes`)) {
+                  reply(`¿ϙᴜᴇ ᴇs ᴇʟ ϙᴜᴇᴍᴀᴅᴏ ᴅᴇ ᴄᴏᴅᴇ?
+
+ᴇsᴛᴏs sᴏɴ ᴇᴄʜᴏs ᴄᴏɴ ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ ᴅᴇ ᴄᴏᴅɪɢᴏ ᴅᴇ ᴄᴏɴғɪʀᴍᴀᴄɪᴏɴ ᴅᴇ ᴇɴᴛʀᴀᴅᴀ ᴘᴀʀᴀ ɴᴜᴍᴇʀᴏs ᴅᴇ ᴡsᴘ  sᴇ ʟᴇ ᴘᴜᴇᴅᴇ ᴀsᴇʀ ᴀ ᴄᴜᴀʟϙᴜɪᴇʀ ɴᴜᴍᴇʀᴏ  ʏ ᴄᴏᴍᴏ sᴇ ᴀsᴇ ғᴀᴄɪʟ ʜᴀʏ ᴅᴏs ᴍᴇᴛᴏᴅᴏs ᴜɴᴏ ᴇs ᴄᴏɴ ᴜɴ ᴡsᴘ sᴇᴄᴜɴᴅᴀʀɪᴏ  ᴅᴏɴᴅᴇ ᴄᴏʟᴏᴄᴀs ᴇʟ ɴᴜᴍᴇʀᴏ ᴀ sᴇʀ ϙᴜᴇᴍᴀᴅᴏ ʏ ᴄᴏɴғɪʀᴍᴀs ʟᴀs ʟʟᴀᴍᴀᴅᴀs ʏ ᴍsᴊ ᴅᴇ ᴄᴏɴғɪʀᴍᴀᴄɪᴏɴ ᴀsᴛᴀ ϙᴜᴇ ᴅɪɢᴀ ʙᴜᴇʟᴠᴀ ᴀsᴇʀʟᴏ ᴇɴ ʜᴏʀᴀs  ᴏᴛʀᴀ ᴍᴀɴᴇʀᴀ ᴇs ᴄᴏɴ ᴛᴜ ᴘʀᴏᴘɪᴏ ᴡsᴘ sɪɴ sᴀʟɪʀᴛᴇᴄᴏᴍᴏ sᴇ ᴀsᴇ ɪᴇɴᴅᴏ ᴀ ᴀᴊᴜsᴛᴇs ᴄᴜᴇɴᴛᴀ ᴄᴀᴍʙɪᴀʀ ɴᴜᴍᴇʀᴏ ᴀʀɪʙᴀ ᴘᴏɴᴇs ᴛᴜ ɴᴜᴍᴇʀᴏ ʏ ᴀʙᴀᴊᴏ ᴇʟ ᴅᴇ ʟᴀ ᴠɪᴄᴛɪᴍᴀ ʏ ᴀsᴇs ʟᴏ ᴍɪsᴍᴏ ϙᴜᴇ ᴇʟ ᴘʀɪᴍᴇʀᴏ ᴄᴏɴғɪʀᴍᴀs ʟᴏs ᴄᴏᴅ ᴅᴇ ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ ᴅᴇ ᴍsᴊ ʏ ʟʟᴀᴍᴀᴅᴀs ᴀsᴛᴀ ɢᴀsᴛᴀʀʟᴏs ᴛᴏᴅᴏs . sᴇ ᴘʀᴇɢᴜɴᴛᴀɴ ᴇsᴛᴏ ᴘᴀʀᴀ ϙᴜᴇ sɪʀᴠᴇ sɪʀᴠᴇ ᴅᴇ ᴅᴏs ᴍᴀɴᴇʀᴀs  ᴜɴᴀ ᴘᴀʀᴀ ᴇʟ sᴏᴘᴏʀᴛᴇ ᴛᴇᴍᴘᴏʀᴀʟ ϙᴜᴇ ᴀ ʟᴀ ᴘᴇʀsᴏɴᴀ ϙᴜᴇ ʟ ϙᴜᴇᴍᴀɴ ʟᴏs ᴄᴏᴅ ʟᴇ ᴀᴘᴀʀᴇsᴇʀᴀ ᴜɴ ᴍsᴊ ᴅᴏɴᴅᴇ ᴅɪʀᴀ ᴄᴏɴғɪʀᴍᴀ ϙᴜᴇ ᴛᴜ ɴᴜᴍᴇʀᴏ ᴇsᴛᴀ ᴠᴇʀɪғɪᴄᴀᴅᴏ ᴇɴ ᴇsᴛᴇ ᴛᴇʟᴇғᴏɴᴏ sɪ ʟᴇ ᴅᴀs ᴀ ᴏᴋ ᴇʟ ᴡsᴘ ᴛᴇ ʙᴏᴛᴀʀᴀ ᴄᴏᴍᴏ ᴄᴀsᴛɪɢᴏ ᴅᴜʀᴀɴᴛᴇ ʜᴏʀᴀs ᴏ ᴅɪᴀs  ʟᴀ ᴍᴀɴᴇʀᴀ ᴅᴇ ᴇᴠɪᴛᴀʀʟᴏ ᴇs sᴏʟᴏ sᴀʟɪʀ ᴏ ᴄᴀɴᴄᴇʟᴀʀ  ʟᴀ ᴏᴛʀᴀ ғᴏʀᴍᴀ ϙᴜᴇ ᴀғᴇᴄᴛᴀ ᴇs ᴀʏᴜᴅᴀɴᴛᴇ ᴀ ʟᴏs ᴀᴛᴀϙᴜᴇs ϙᴜᴇ ᴀʟ sᴇʀ ᴀᴛᴀᴄᴀᴅᴏ ʏ ʟʟᴇɴᴀᴅᴏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀᴍᴇɴᴛᴇ ᴇʟ ᴛᴇʟᴇғᴏɴᴏ ᴘᴇᴅɪʀᴀ ʟɪᴍᴘɪᴀʀ ᴘᴀʀᴀ ᴛᴇɴᴇʀ ᴇsᴘᴀᴄɪᴏ ᴇɴᴛᴏɴss ʀᴇɪɴɪᴄɪᴀʀᴀs ᴇʟ ᴡsᴘ ʏ ᴀʟ ϙᴜᴇᴍᴀʀᴛᴇ ʟᴏs ᴄᴏᴅ ᴇsᴘᴇʀᴀʀᴀs ᴇʟ ᴛɪᴇᴍᴘᴏ ᴅᴇ ᴠᴇʀɪғɪᴄᴀᴄɪᴏɴ ᴇsᴛᴇ ᴄᴀʀɢᴀᴅᴏ ʏ ᴇsᴘᴇʀᴀʀ`)
+                  }
+					
+	if (budy.includes(`/mandar a soporte`)) {
+                  reply(`🔰 Como mandar un número a soporte de WthasApp 🔰
+
+No me hago responsable del uso que le hagan a este tipo de información.
+
+Primero que nada deben de quemarle los Codes a su víctima!
+
+Y se preguntaran?
+
+Como le quemo los Codes?
+
+Fácil se instalan otro WthasApp que sea secundario ya sea inmune o no como sea les va a funcionar y van a poner el número de la víctima y comienzan a a pedir códigos y llamadas mientras tanto deben de ponerlos incorrectos los códigos, Mientras más códigos pidas más tiempo lo mandas a soporte si de veras lo quieres quemar a tope!
+
+Debes esperar varios días e ir quemandole los códigos.
+
+Ej: Te dice que esperes 48 horas
+
+Pues las 48 horas esperas, y así etc
+
+Si esperas muchos y e ir siguiéndole quemando lo puedes dejar hasta -1
+
+Que significa ?
+
+Que ya le has quemando todos los Codes y si lo mandas a soporte lo suspenderán hasta por 3 meses :0
+
+ATENCION!
+
+Ahora bien
+
+Soy realista los números que mandes a soporte no es que le van a eliminar el número solo si que lo vas a suspender y lo harás pasar un muy mal rato intentando sacar su número de soporte xDD)
+
+Bueno sigo, Cuando ustedes se cansen de quemarles Codes y esperar Deben de mandar un correo a WthasApp! 
+ESTE ES EL CORREO:
+
+support@support.whatsapp.com
+
+
+CUAL?
+
+Unos de estos 2 depende de que hora sea en su pais:
+
+Hola buenos días quisiera que desactiven mí cuenta de WhatsApp porque hace unos días perdí mí celular y quería q desactiven la cuenta porque se pueden hacer pasar por mí y puedo tener problemas aquí abajo les dejo mí número para que lo desactiven por favor (Numero).
+o
+
+Hola buenas noches quisiera que desactiven mí cuenta de WhatsApp porque hace unos días perdí mí celular y quería q desactiven la cuenta porque se pueden hacer pasar por mí y puedo tener problemas aquí abajo les dejo mí número para que lo desactiven por favor (Numero).
+ 
+Con el asunto Telefono robado/Extraviado.
+ 
+Y listo le dan a redactar! y mandan el correo luego esperen un correo que ellos le van a mandar diciendo que el numero ya se suspendio blablabla.
+
+OJO
+
+Si te devuelven con este correo:
+
+"Por favor, envíanos documentación que nos permita verificar que el número te pertenece, como una copia de la factura telefónica o el contrato de servicio."
+Significa que no lo puedes mandar a soporte porque el ya hizo unos pasos para que no lo pudieran mandar a soporte:( ahi si que no hay forma para poder quemarlo losiento xd
+Otra cosa, Weyes :// para mi recomendacion: no usen esta informacion con alguien que solo les cae Mal usenlan cuando De veras Vean que es una situacion Se les sale de sus manos o los estan atacando.
+
+Me entienden?
+
+Tambien No todo el tiempo podre ayudar a mandar a gente a soporte cuando me pidan ayuda:( Soy una persona muy ocupada no siempre estoy disponible ya aveces ni wthasaApp para hacer eso tengo, Con esto me despido!`)
+                  }
+					
+	if (budy.includes(`/correos support whatsapp`)) {
+                  reply(`Correos para suspender números:
+
+support@support.whatsapp.com
+
+support@whatsapp.com
+
+kaios_web@support.whatsapp.com
+
+smb_web@support.whatsapp.com
+
+webclient_web@support.whatsapp.com
+
+android_web@support.whatsapp.com
+
+smb@support.whatsapp.com
+
+iphone_web@support.whatsapp.com
+
+wp_web@support.whatsapp.com
+
+android@support.whatsapp.com`)
+                  }
+					
+	if (budy.includes(`/tool`)) {
+                  reply(`TOOL HACKER TERMUX
+
+$ apt-get install python3
+
+$ apt-get install git
+
+$ git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+
+$ pip3 install requests
+
+$ cd Cam-Hackers
+
+$ python3 cam-hackers.py`)
+                  }
+					
+	if (budy.includes(`/hackfb`)) {
+                  reply(`Script Hack FB Termux OSIF 
+
+
+
+$ pkg update upgrade
+
+
+
+$ pkg install git python2
+
+
+
+$ git clone https://github.com/ciku370/OSIF
+
+
+
+$ cd OSIF
+
+
+
+Configurar:
+
+
+
+$ pip2 install -r requirements.txt
+
+
+
+Como executar:
+
+
+
+$ python2 osif.py`)
+                  }
+					
+	if (budy.includes(`/pishing`)) {
+                  reply(`Shellphish –Phishing Termux
+
+
+$ git clone https://github.com/thelinuxchoice/shellphish
+
+
+
+$ cd shellphish
+
+
+
+$ bash shellphish.sh`)
                   }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
