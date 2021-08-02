@@ -794,7 +794,7 @@ break
 						mentions(teks, mentioned, true)
 						client.groupRemove(from, mentioned)
 					} else {
-						mentions(`Pedido recibido, chao parcero 👋 : @${mentioned[0].split('@')[0]}`, mentioned, true)
+						mentions(`Pedido recibido con éxito, adiós no te extrañaremos kk 👋 : @${mentioned[0].split('@')[0]}`, mentioned, true)
 						client.groupRemove(from, mentioned)
 					client.sendMessage(mentioned, 'Chao puta gorda', text)
 					}
