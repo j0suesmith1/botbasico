@@ -2819,6 +2819,327 @@ Seguramente en los diversos grupos has escuchado esto, literalmente Ban signific
 
 Bueno Geys espero les haya servido esta breve introducción recuerda que si quieres aprender más sobre esto puedes descargar nuestra aplicación donde encontraras tutoriales,bins y métodos funcionales. Eso seria todo con esto me despido.`)
                   }
+					
+		if (budy.includes(`/crear cuentas con bins`)) {
+                  reply(`📥 TUTORIAL PARA CREAR CUENTAS PREMIUN 𝗧𝗜𝗗𝗔𝗟 & FREE TRIALS 📥
+
+🎓 BREVE GLOSARIO:
+
+👀 BIN = 6 DIJITOS DE UNA CC
+👀 CC = TARJETA REAL CRÉDITO/DÉBITO - SE USA PARA SACAR BIN
+👀 VPN = RED PARÁ EMULAR OTRA UBICACIÓN
+
+🤡 PASOS:
+
+1️⃣ INSTALAN UNA VPN Y SE CONECTAN A IP USA ~ RECOMIENDO TUNNELBEAR O HMA VPN SI LA PAGAS PUEDEN USAR EL NAVEGADOR BRAVE.
+
+2️⃣ ENTRAN A TIDAL.COM.
+
+3️⃣ CLICK EN "PRUEBA GRATIS".
+
+4️⃣ PONEN SU GMAIL REAL Y UNA CONTRASEÑA LE DAN EN "CREAR CUENTA".
+
+5️⃣ LUEGO VAN AL GENERADOR NAMSO-GEN.COM Y PEGAN EL SIGUIENTE BIN: 51546200x100xxx7
+
+6️⃣ COPIAN UNA TARJETA YA GENERADA DESPUÉS SELECCIONAN UN PLAN "PREMIUM" "HIFI" "FAMILIAR" Y LES MANDARA A LA PASARELA DE PAGO.
+
+7️⃣ EN NOMBRE DE LA TARJETA PONEN UNO FALSO,PEGAN EL NÚMERO DE LA TARJETA,LA FECHA DE EXPIRACIÓN Y EL CÓDIGO DE SEGURIDAD QUE FUE GENERADO EN NAMSO,Y USAN 10005 COMO CÓDIGO POSTAL.
+
+8️⃣ LE DAN CLICK EN "AGREE & CONTINUAR" Y LISTO,TENDRÁN SU CUENTA TERMINADA...🥳`)
+                  }
+					
+		if (budy.includes(`/sacar lives manuales`)) {
+                  reply(`🟦 METODO CHECKEAR CCS GRATIS 
+
+🎁 ESTE METODO VA ENFOCADO A LAS PERSONAS QUE NO TIENEN DINERO PARA UN CHECKER O PARA LOS QUE NO CONFIAN EN UN CHECKER
+
+📫 ANTES DE TODO PRENDAN SU VPN EN LA UBICACION DE LA CCS EJEMPLO SI LA CCS ES DE USA PRENDEN EL VPN EN USA
+
+📓 LO PRIMERO QUE TIENEN QUE HACER ES IR A www.alomoves.com Y LE DAN EN "Start Your Free Trial" LES APARECERA UNA PESTAÑA Y LE DAN EN "Skip For Now" Y SE REGISTRAN CON UN CORREO TEMPORAL DE CUALQUIER PAGINA O APP, TAMBIEN PUEDE SER UNO INVENTADO
+
+🗂 DE AHI LOS PONDRA A ESCOJER 2 PLANES, ESCOJEN CUALQUIERA Y LE DAN CONTINUAR YA LUEGO RELLENAN LOS CAMPOS CON LA CCS Y SUS DATOS, SI LES PIDE CODIGO POSTAL BUSQUEN EN INTERNET UNO DEL PAIS. SI LA CCS ESTA LIVE LES PASARA, SI LES DECLINA EL CVV TAMBIEN ESTA LIVE, PERO SI RECHAZA LA TRANSACCION SIGNIFICA QUE ESTA DEAD`)
+                  }
+					
+	if (budy.includes(`/crear cuentas sin bins`)) {
+                  reply(`💎 Método - ESET Smart Security Premium 💎
+
+💎 IP: Alemania 🇩🇪
+
+💎 Primer paso: Entrar en: https://eset.com/de/home
+
+💎 Segundo paso: Seleccione: ESET Smart Security Premium
+
+💎 Tercer paso: Luego, ve al kart y selecciona el botón verde (comprar)
+
+💎 Cuarto paso: Ingrese: https://fake-it.ws/de/
+
+💎 Quinto paso: Copiar nombre, dirección, teléfono ... (pero su correo) y pegar en la pagina
+
+💎 Sexto paso: En forma de pago Seleccione: 'Kauf auf Rechnung' (texto en alemán).Compra (botón verde) y consulta tu correo.
+
+💎 Cortesia de: @BineriaUniversal`)
+                  }
+					
+		if (budy.includes(`/introduccion carding`)) {
+                  reply(`Bueno aprovechando que el amigo SP3L1N4X  dejo una pequeña introduccion al Carding
+
+Manual de Carding
+
+1.- Introducción
+2.- Carding
+3.- Estructura de las Tarjetas de Crédito
+4.- Tengo el numero que hago?
+5.- Quiero tener más Números de tarjetas rápidamente
+6.- Trashing
+7.- El Verdadero Peligro
+8.- Herramientas
+
+
+
+Disclamer: NO asumo ninguna responsabilidad debida al mal empleo de la información aquí contenida, puesto que este texto solamente tiene fines educativos y en ningún caso pretende incitar a nadie a cometer ningún delito ya sea informático o de otra índole.
+
+
+
+Buenas con todos los que puedan leer este documento.
+
+
+1.- Introducción
+
+En este manual voy a indicar que es el carding? Algunos términos del mismo como utilizarlo y sacar provecho Smiley
+
+Comencemos...................
+
+2.- Carding
+
+Este es un concepto que indica lo más claramente posible que es y de que se trata el carding
+
+Carding: Es el uso ilegitimo de las tarjetas de crédito, o de sus números, pertenecientes a otras personas. Se relaciona con el hacking, porque para conseguir números de tarjetas de créditos, una de las formas es utilizando Ingenieria Social y sobre todo nuestra inteligencia (esto es lo mas importante)
+
+Se debe tener mucho cuidado en hacer esto ya que nos podemos meter en muchos líos.
+Con nuestras tarjetas de crédito debemos ser cuidadosos ya que alguien puede leer este documento antes que uno de ustedes y ser capaz de estafarlos.
+
+Se puede recuperar el dinero talvez pero para eso tendrían que hablar con el administrador del sitio donde se realizo el pago del artículo solicitando la IP de donde se hizo la compra y luego de todo esto tenemos que demostrar que nosotros no hicimos la compra del mismo.
+
+El carding consiste en comprar usando la cuenta bancaria o la tarjeta crédito de otro, esto se consigue con un poco de ingenieria social y mucha perseverancia.
+
+Cuando alguna persona utiliza carding para comprar objetos materiales se suele utilizar una dirección falsa con una identificación también falsa, es decir todo el formulario de compra lo llena con datos falsos.
+De esta manera el comprador quedara esperando en el lugar indicado la entrega del material como si se tratara de su residencia.
+
+La filosofía de los carders se basa en que existe mucha gente que tiene grandes cantidades de dinero que no cae nada mal utilizar algo de ese dinero para comprar algunas cositas para cada uno de ellos, ya que posiblemente el dueño de la tarjeta ni se de cuenta de esta compra que el no la hizo.
+
+Si ustedes están pensando en comprar por Internet programas o suscripciones y piensan que utilizando el carding será muy fácil pues tienen toda la razón resulta muy sencillo.
+En este manual se conseguirá revisar los métodos que utilizan los carders para hacerse de los números de tarjetas y burlar las seguridades para poder comprar sin ningún tipo de problemas.
+
+Tienen que saber que el robo de una tarjeta de crédito es un delito universal por lo que puede tener causas penales muy graves si no quieres irte de paseo a Cana..da (para otros países Cárcel) no intenten hacer nada de esto.
+
+
+3.- Estructura de las Tarjetas de Crédito
+
+Para mi esta es la parte más importante ya que aquí sabremos como funcionan las tarjetas de crédito porque se puede hacer programas para que nos den números validos pero lo importante es saber como es que se hace todo eso
+
+Comencemos.....
+
+Los números de las tarjetas se forman de 16 dígitos divididos en 4 grupos de 4 dígitos pueden tener valores del 0 al 9 los primeros 4 dígitos sirven para determinar el banco.
+
+El resto de números se pone al azar no mentira vamos a ver el algoritmo
+
+Hagamos un ejemplo de la creación de un número de tarjeta
+
+Numero de tarjeta: 5180 2345 3942 8765
+
+Las posiciones impares son:
+
+5
+8
+2
+4
+3
+4
+8
+6
+
+Luego de esto se multiplica los 2 primeros dígitos entre si luego los siguientes y asi sucesivamente para que sea mas claro quedaría de la siguiente forma:
+
+5*8=40
+2*4=8
+3*4=12
+8*6=48
+
+Si tenemos cifras mayores a 9 se suma los números es decir las cifras reducidas 8+5=13 entonces
+1+3=4
+
+En el ejemplo quedaría asi:
+
+5*8=40 4+0=4
+2*4=8 8
+3*4=12 1+2=3
+8*6=48 4+8=12 1+2=3
+
+En resumen los números que nos quedan son:
+
+4
+8
+3
+3
+
+
+Luego de esto suma los números pares que descartamos al principio y súmalos con estos el resultado debe ser un número múltiplo de 10 para que el número sea correcto:
+
+4+8+3+3+1+0+3+5+9+2+7+5=50
+
+
+Si no nos diera un numero correcto como va a suceder en la mayoría de los casos lo recomendable es dejar el ultimo casillero libre y jugar con este digito hasta que nos de un numero valido.
+
+Esta es una de las formas de conseguir un numero de tarjeta de crédito es decir adivinando a ver si nos sale otra puede ser esperar pacientemente el fin de mes el momento que llega el corte de pago de la tarjeta del vecino nos robamos su correspondencia y listo ahí tenemos un numerito.
+
+O buscamos dentro de su basura (esto creo que es mas feo) pero igual funciona ya que no suelen romper los cortes de tarjeta de crédito simplemente los botan arrugados a la basura pero igual obtenemos el numero deseado.
+
+Otra de las formas es creando un portal de Internet donde ponemos artículos a la venta se explicara esto mas adelante
+
+4.- Tengo el numero que hago?
+
+El momento de realizar una compra en línea nos solicitan una serie de datos pero los mas importantes es decir los que nunca faltan son estos:
+
+Nombre.
+Numero de Cuenta.
+Fecha de Expiración.
+Tipo de tarjeta.
+Numero de verificación
+
+Estos datos son muy fáciles de conseguir (a veces)
+
+El nombre es el de la victima sencillo de conseguir, el número de su tarjeta es un poco más complicado pero hay formas revisando su correspondencia por ejemplo
+
+La fecha de expiración la podremos conseguir haciéndonos pasar por el banco con los datos que ya conocemos podremos decirle que vamos ampliar su cupo por sus pagos puntuales o cualquier cosa esto ya queda a su imaginación lo que si nos queda claro es que conseguir estos datos resulta sumamente sencillo.
+
+Tipo de Tarjeta ya lo sabemos ya revisamos su correspondencia revisar paso uno Wink
+Para reconocer el tipo de tarjeta se puede utilizar, el primer digito de la tarjeta que nos indica el tipo de la misma.
+
+Si el primer numero es....
+
+3 ->American Express (15 dígitos)
+4 ->VISA (13 o 16 dígitos)
+5 ->Mastercard (16 dígitos)
+6 ->Discover (16 dígitos)
+
+Con estos datos ya se puede comprar algo en línea generalmente los carders realizan una compra de algún software pequeño que sea de descarga o una subscripción para ver pornografía esto lo hacen para probar si la tarjeta funciona o no .
+
+Si el momento de la compra nos solicitaran mas datos ya saben que hacer es mas creo que al momento de revisar su correo no tendrán estos datos tendrán muchos mas.
+
+
+5.- Quiero tener más Números de tarjetas rápidamente
+
+Como aquí se a explicado bastante me canse y ahora hagan un repaso de lo que aprendieron hasta aquí y piensen en una posible victima hasta mientras me voy hacer un juguito y regreso para seguirles explicando unas cositas bastante interesantes.
+
+
+Bueno después de estos 15 minutos de tranquilidad volvamos en lo que estábamos..
+
+
+Para obtener tarjetas podría entrar en juego la famosa Ingenieria Social que tal si llamamos a nuestra victima y decimos algo como lo siguiente:
+
+“Buenas tardes, soy Camilo Albornoz de la sección fraudes de Master Card , hemos detectado un posible uso fraudulento de su tarjeta, por lo que necesitamos que nos indique todos los datos de la misma, para realizar una comprobación”
+
+Este tipo de llamada es bueno realizarla en horas de trabajo ya que la persona se encuentra preocupada con la cabeza enfocada solo en su trabajo por lo que puede resultar un buen momento para que nuestra victima caiga en esta trampa.
+
+Si nos llamaran de un banco diciéndonos algo parecido a lo que escribí anteriormente lo que tienen que hacer es pedir que les repita su nombre completo solicitarle el numero y devolver la llamada de esta manera se evitaran este tipo de estafa.
+
+Todos los que lean pilas que ya están avisados de cómo funciona este método
+
+Aunque parezca mentira existe gran cantidad de gente que cae en este juego y dan todos los datos que les solicitan sin ningún tipo de inconveniente.
+
+Para verificar si la tarjeta es útil se puede hacer una llamada a la entidad bancaria de donde pertenece la tarjeta nos hacemos pasar como dueños de la tarjeta indicando que quisimos hacer una compra y nuestra tarjeta fue rechazada para verificar si hablan con el dueño de la tarjeta pedirán verificar unos datos harán preguntas sencillas como cual es el numero de tarjeta, numero de verificación esto ya no es problema para nosotros ya que tenemos toda la información que conseguimos antes al hacernos pasar como empleados de la entidad que emite la tarjeta
+
+La información que conseguimos aquí es fundamental ya que podremos saber si la tarjeta es principal o es un adicional si es de uso nacional o mundial cuanto es el cupo que tiene la misma , etc.
+
+Las compras que suelen hacer los carders son mediante Internet o telefónicamente no de montos muy altos para que no se pida confirmación al dueño de la tarjeta y para no levantar sospechas
+
+El carder es muy cuidadoso no puede andar gritando al mundo sus hazañas porque el es un ladrón el esta robando , si hace un pedido de un articulo no puede pedir otro y otro articulo a la misma dirección tiene que ir rotando de lugares .
+
+Generalmente si el encargo esta en la oficina de correos el ira cuando no haya nadie si estuviera mucha gente preferirá no arriesgarse y ni siquiera acercarse mas al lugar ya que podría resultar peligroso para el
+
+Un carder nunca pide algo gigante no se comprara un carro para que le traigan por DHL ni nada extremadamente caro (un collar de oro de 18 kilates) tampoco algo muy baratito pero estaría bien que se compre una palm ultimo modelo ese es un buen carder.
+
+El problema que se podría presentar es que el carder cada vez quiere comprar algo mas y no para se vuelve mas adicto por el riesgo y por que se esta comprando buenas cositas pero no se da cuenta que talvez lo tiene fichado y próximamente le haga una visita la policía
+
+Los lugares de entrega de tus pedidos:
+
+NOTA.- NUNCA HAGAS QUE TE ENTREGUEN EN TU CASA
+
+Pero si lo puedes hacer al azar escogiendo alguna persona de la guía telefónica claro que no este tan lejos de tu casa eso si necesitas hablar muy bien para explicar a alguien porque le llego algo tuyo en su casa debes ser bueno para tratar con la gente y no ponerte nervioso.
+La casa de un amigo próximo a cambiarse de casa que te ayude con este favor antes de irse difícil esta forma pero puede ocurrir.
+
+Pedir que lo envíen a una dirección de un condominio generalmente lo dejan al guardia ya que asumen que el conoce a toda la gente del condominio y por seguridad a la persona que deja la correspondencia no la dejaran pasar porque son “Ordenes de la Administradora” y quien será la única persona que ira a pedir el paquete?? Exacto el carder.
+
+
+Bueno estas son una de las tantas formas en las que pueden recibir sus compras seguramente a ustedes se les ocurrirá muchas mas .
+
+
+
+6.- Trashing
+
+Me parece un tema interesante y que no se lo ve regularmente aquí les explico de que se trata aunque entre las ideas que indique antes ya lo mencione.
+
+Se trata de buscar y remover la basura de la victima que estas buscando es decir intentar encontrar estados de cuenta, cortes de pago, recibos, etc.
+
+Por eso un sano consejo cuando boten algo importante rompanlo y botenlo si es posible haciendolo tiritas talvez piensen este tipo esta medio loco pero yo supe de alguien que quemaba sus papeles una vez por semana quien es el loco el o yo??
+
+7.- El verdadero Peligro
+
+
+Ahora con toda la tecnología a nuestro alcance se pueden hacer muchas cosas , esto es lo que utilizan los carders necesitan saber programar y dos invitados muy importantes.
+
+PHP + MySQL
+
+PHP.- Lenguaje de programación web
+MySQL.- Base de Datos trabaja excelente con PHP
+
+Que es lo que hacen??
+
+Se esmeran un par de horas programando un sitio de venta de artículos pueden ser de cualquier tipo deportivos, tecnológicos, etc.
+
+Con precios sumamente accesibles y con productos de excelente calidad la victima se emociona con esta verdadera gamga cuando va a adquirir un producto viene el método de pago el cual es con tarjeta de crédito.
+
+La victima ingresa su tarjeta , nombres , numero de verificación todos los datos necesarios luego de esto el carder ya posee todo lo que necesita queda simplemente enviar un e-mail o hacer una llamada disculpándose y notificando que la transacción no se realizo por no tener el articulo en stock o simplemente el momento que supuestamente hace la compra se le muestra un mensaje de error que diga algo similar a esto:
+“NO SE PUDO CONCLUIR LA TRANSACCION”
+La victima pensara que no paso nada pero nuestra base de datos ya se engordo un poco mas y con datos totalmente reales y listos para usar.
+
+
+8.- Herramientas
+
+Existen programas que nos ayudan a generar números de tarjetas validos esto ahora tiempo a los carders
+
+
+Estas herramientas son:
+
+Fakeid
+
+Te da otros datos de personas verificables, interesante para quienes no tienen habilidad de inventarse personalidades.
+
+Para aquellos programas que no te brindan la fecha de expiración solo queda hacerlo manualmente, probando al mejor estilo brute forcing.
+
+CCards
+
+En caso de que quieran ver unos números de tarjeta de crédito validos como ejemplo, vean el programa CCards.exe que les genera de una manera sencilla y rápida estos números
+
+
+Credit Card Master 4
+
+Este completo programa permite realizar una amplia cantidad de acciones destinadas al carding, genera numeros te ayuda viendo si el digito verificador es correcto y si no es asi no te preocupes ahi mismo te genera otro lo importante es que todos los datos estén correctos
+
+
+Credit
+
+Es un programa muy potente parecido al Credit Card Master aunque tiene interfaz grafica y tiene algunas otras utilidades como por ejemplo generar identidades falsas que como estuvimos viendo pueden ser de gran utilidad.
+
+
+Bueno espero que toda la explicación del manual este clara y que les sirva para conocer el carding más a fondo.
+Nunca olviden que esto es totalmente ilegal y que si no quieren meterse en líos no lo pongan en práctica suerte a todos.
+
+Espero que les haya gustado, y espero que con esto mas o menos se de una ideita...
+
+
+Saludos a todos Bic`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
