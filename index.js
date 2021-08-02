@@ -603,7 +603,7 @@ break
 	    case 'owner':
                 case 'creator':
                 client.sendMessage(from, {displayname: "Joseph", vcard: vcard}, MessageType.contact, { quoted: mek})
-		client.sendMessage(from, 'Arriba está el número del creador del bot <Joseph>\n\nNO SOY UN BOT LPM 🥸\n\nAhi puedes resolver tus preguntas y errores :)\n\nEste no es el numero del propietario del bot que estas usando, si no del creador de la base de datos del bot❗\n\nву ѕнαη∂υу',MessageType.text, { quoted: mek} )
+		client.sendMessage(from, 'Arriba está el número del creador del bot Joseph :)',MessageType.text, { quoted: mek} )
                 const none = fs.readFileSync('./mp3/shan.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 break
