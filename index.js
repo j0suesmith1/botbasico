@@ -88,8 +88,8 @@ const { othermenu } require('./database/menu/othermenu')*/
 const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'VERSION:3.0\n' 
             + 'FN:Joseph\n' // Nombre
-            + 'ORG:Shanduy;\n' // Propietario
-            + 'TEL;type=CELL;type=VOICE;waid=593967689722:+593 96 768 9722\n' // ID de WhatsApp + número de teléfono
+            + 'ORG:Joseph;\n' // Propietario
+            + 'TEL;type=CELL;type=VOICE;waid=51961361181:+51 961 361 181\n' // ID de WhatsApp + número de teléfono
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
