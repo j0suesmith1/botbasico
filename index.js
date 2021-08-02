@@ -1306,80 +1306,88 @@ break
 					})
 					break
                 default:
-                if (budy.includes(`/introduccion bins`)) {
-                  reply(`📢 INTRODUCCION BINS ✅
+                if (budy.includes(`/que es un bin`)) {
+                  reply(`PARA LOS QUE NO SABEN HACER CUENTAS....ESTE ES UN TUTORIAL TEÓRICO PARA QUE SEPAN A LO QUE SE ESTAN METIENDO.
 
-🔱 PRIMERO QUE NADA DEBEMOS SABER CADA COSA QUE VAMOS USAR OK.
+✅ ¿QUE ES UN BIN?
 
-☪️ ¿Que es un Bin?
+BIN: Bank Identification Number.
 
-Un BIN son los 6 primeros números de una tarjeta lo cual identifica al banco y al tipo de tarjeta que es. Los BINs nos permiten generar tarjetas de crédito o debito.
-  
-🌈 Ejemplo: 541111xxxxxxxxxx
+Un bin son los primeros 6 dígitos de una tarjeta de crédito. Estos nos sirven para identificar el país de procedencia, tipo de tarjeta y nivel de la misma.
 
-Y BUENO, QUE HARE CON LAS x Y COMO OBTENDRÉ LA FECHA Y EL CODIGO DE SEGURIDAD...🤠
+Ejemplo: 553667
 
-Se ingresara a cualquiera de estas paginas...
+✅ ¿PARA QUE SIRVEN?
 
-https://namso-gen.com/
+Con el bin puedes crear ccs (credit card) en español (tarjeta de crédito).Al generar la cc a base de bin puedes hacer suscripciones en páginas y hasta en ocasiones compras físicas. 
 
-https://www.bestccgen.com/namso-ccgen/
+✅ ¿QUE ES UNA CC?
 
-https://cc-gen.us/
+(CC=TARJETA DE CREDITO)
 
-📡 INGRESANDO A CUALQUIERA DE ESAS PAGINAS OBTENDREMOS LA TARJETA DE CREDITO/DEBITO CON SU FECHA Y CVV...🛰
+Primero debemos tener claro que una CC no es un BIN, una CC esta compuesta por información real.
+Las CCs basicamente se componen por:
 
-🙆‍♂️ RECUERDA.....ESTAS TARJETAS GENERADAS SON FALSAS...💫
+°Nombre
+°Numero de la tarjeta
+°CCV
+°Fecha
+°Dirección
+°Código postal
+°Pais
+°Algunas traen numero telefónico y/o correo.
 
-🤡 NO SON REALES, SINO TODO AQUEL QUE BINEE ESTUVIERA EN CANADÁ...🤗
+✅ ¿COMO RECONOCER EL TIPO DE TARJETA?
 
-🕉 BUENO YA SABIENDO QUE ES UN BIN...PASAREMOS A ENSEÑARLES QUE ES UN VPN...✅
+Pues Fácil. Observa:
 
-PUES BASICAMENTE UN VPN ES UNA HERRAMIENTA QUE USAREMOS CASI SIEMPRE XD. CON LA VPN NOSOTROS PODREMOS CREAR CUENTAS PREMIUN...YA QUE ESTA APP, OSEA LA VPN, NOS PODRA CAMBIAR NUESTRA DIRECCIÓN IP, OSEA SUPONGAMOS QUE SOMOS DE VENEZUELA 🇻🇪...Y BUENO EN LA INFORMACIÓN DEL BIN DICE QUE SU PROCEDENCIA ES DE BRAZIL 🇧🇷...PUES BÁSICAMANTE LO QUE HAREMOS ES ENCENDER NUESTRA VPN. BUSCAR DICHO PAIS DEL BIN QUE COMO EJEMPLO ES BRAZIL 🇧🇷. Y LISTO XD.
+La tarjeta comienza con el número 4 [Visa]
 
-♌ COMO TERCER PASO, SERIA SABER O TENER UNA NOCIÓN DE QUE ES UN LIVE...
+La tarjeta comienza con el número 5 [MasterCard]
 
-Básicamente las lives son tarjetas de crédito aprobadas por el mercado, es decir, tienen fondos. Estás sirven para realizar pequeñas, grandes compras fisicas y/o renovar suscripciones.
+La tarjeta comienza con el número 3 [Amex]
 
-A CONTINUACIÓN LES DEJO PAGINAS FUNCIONALES PARA SACAR LIVES...🐊
+La tarjeta comienza con el número 6
+[Discovey]
 
-https://karmeyhesed.org/
-
-https://dzi.org/make-a-donation 
-
-https://www.habitat.org/ 
-
-https://secure.givewell.org/
-
-Y ESTO SE PREGUNTARA COMO SACO LIVES....EN RESUMEN... CONECTAN SU VPN AL PAIS DEL BIN....GENERAN TARJETAS EN CUALQUIERA DE LAS PAGINAS QUE LES MANDE... Y FINALMENTE LE DAN EN COMPRAR - START O UNA MAMADA ASI XD...SI DICE ALGUN MENSAJE DE ERROR...SIGNFICA QUE LA TARJETA ESTA MUERTA...Y EN CASO LA TARJETA PASE....SIGNFICA QUE ESTA LIVE = VIVA. EL UNICO REQUISITO ES TENER PACIENCIA...🙃
-
-A, POR SI QUIEREN BINS,MÉTODOS Y CURSOS TOTALMENTE GRATUITO UNANSE A NUESTRO CANAL DE TELEGRAM...🖤
-
-https://t.me/joinchat/2xJmxMcHVW9lMDdh
-
-🛐 ¿COMO CREAR UN BIN?
+✅ ¿COMO CREAR UN BIN?
 
 Un bin se hace a base de una cc real, solo debemos copiar los 6 primeros números de la cc y agregamos 10 equis (x)
 
-Ejemplo: 5411112364745823
+Ejemplo: 4567812364745823
 
-Bin: 541111xxxxxxxxxxx
+Bin: 456781xxxxxxxxxxx
 
-En caso no tengas tarjeta de credito o debito hay un canal donde suben bins a diario, lo único que tendrias que hacer es ponerte a calar (probar) en que paginas jala (funciona)
+Haciendo eso te pones a calar en páginas obvio con la misma ip de
+la cc de la cual salió el bin.
 
-Canal Donde Pueden Sacar Bins: https://t.me/MacacosCC...🤑
+✅ ¿EN QUE PAGINAS JALAN?
 
- ☮¿EN QUE PAGINAS JALAN?
+Bueno, esto es depende de donde sea el bin. Hay bins que jalan en una sola pagina ejemplo (crunchyroll) y hay otros que son multifuncionales ejemplo (crunchyroll, mubi, Napster y entre otras).
 
-Bueno, esto es depende de donde sea el bin. Hay bins que jalan en una sola pagina ejemplo (crunchyroll) y hay otros que son multifuncionales ejemplo (crunchyroll, mubi, Onlyfans, entre otras).
+Posdata: solo tome esas páginas para el ejemplo.
 
-Posdata: solo tome esas páginas para el ejemplo ._.XD
+✅ ¿COMO GENERAR UNA CC CON UN BIN?
 
-✝️ ¿QUE ES CHAVELO?
+existen varios generadores de ccs
+que se encargan de remplazar las “x” por números que coincidan
+con una cc.
+
+El generador que yo usaré será Namso (https://namso-gen.com/)
+
+INSERTE SU BIN: 548572xxxxxxxxxx
+
+Y señalamos Fecha & CCV2 (si es todo generado)
+
+Cantidad a crear 10 o las que quieran
+
+Y le damos generar tarjetas.
+
+✅ ¿QUE ES CHAVELO?
 
 Se le denomina “Chabelo” a un bin que pese a que es viejo sigue funcionando en varias páginas.
 
-♉ ¿Corremos riesgo al utilizar un bin?
+✅ ¿Corremos riesgo al utilizar un bin?
 
 Los BINS no son tan peligrosos, con la acción de “binear”, solo se estafa a la empresa en donde la usaste la cc generada.
 
@@ -1393,12 +1401,47 @@ provocado usualmente por VPN’s como Hola que vende este tipo de datos de sus u
 
 Es muy raro que pase, binear no es peligroso, si es que no abusas o llegas a un extremo muy pero muy elevado.
 
-♐ ¿Qué es BAN?
+✅ ¿Qué es BAN?
 
-Seguramente en los diversos grupos has escuchado esto, literalmente Ban significa prohibir esto es que se te pone una restricción; ya sea total, parcial, temporal o permanente, al sitio en donde has realizado la compra
+Seguramente en los diversos grupos has escuchado esto, literalmente Ban significa prohibir esto es que se te pone una restricción; ya sea total, parcial, temporal o permanente, al sitio en donde has realizado la compra.
 
-Bueno Geys espero les haya servido esta breve introducción recuerden que si quieres aprender más sobre esto puedes descargar nuestra aplicación donde encontraras tutoriales,bins y métodos funcionales. Eso seria todo con esto me despido.
-`)
+✅ ¿QUE ES UN VPN?
+
+Una red privada virtual (RPV).
+En inglés: Virtual Private Network (VPN), en pocas palabras VPN es algo que ayuda a que tu verdadera direccion IP quede cubierta, por ejemplo si tu eres de Argentina y un bin pide IP de Rusia, deberemos descargar un VPN como Tunnelbear para cambiar nuestra direccion a alli, los VPNs son faciles de usar y son una parte fundamental para usar bins, sin ellos no podremos usar la mayoria de ellos.
+Existen varios vpns algunos son de paga, y otros gratuitos como Vyprvpn y tunnelbear entre otros. ZeroVPN, VyprVPN, TunnelBear, Hotspot Shield, HMA.
+
+✅ ¿QUE ES IP?
+
+IP = Internet Protocol, o simplemente tu dirección de Internet, todos nuestros dispositivos
+conectados a internet poseen uno otorgado gracias a la red a la que estamos conectados. La IP en
+algunos casos puede señalar la locación exacta en la que estamos ubicados.
+
+✅ ¿QUE SON LIVES?
+Las lives son tarjetas de crédito aprobadas por el mercado, es decir, tienen fondos. Estás sirven para hacer el pago con más seguridad.
+
+✅ ¿QUE ES EXTRAPOLACIÓN?
+Extrapolar es cuando sacamos un bin a partir de una tarjeta de credito existente, por ejemplo:
+
+3764010x5xxx03x
+37640101x526xxx
+3764010xx5x6xx7
+3764010xxx2xxx7
+
+✅ ¿CÓMO EXTRAPOLAR UNA ‘CC’ GENERADA A PARTIR DE UN BIN?
+
+Esto sirve para que vuelva a funcionar la tarjeta generada que utilizaste, es muy importante que la guardes, para que le vuelvas a dar una utilidad y disfrutar de ella. Tienes un bin, por ejemplo: 531321xxxxxxxxxx (Deezer Jalando), y con base a éste, generas un par de tarjetas. A partir de que generas dejan de llamarse bins y pasan a ser
+tarjetas de crédito. Escoges una al azar por ejemplo: 5321321654829183
+
+Te vas a la pagina de deezer y al registrar dicha tarjeta que hayas escogido, pasa al primer intento para crearla, pero después de un tiempo no funciona el bin.
+
+Lo que haremos será extrapolar la tarjeta que pasó a la primera al crear la cuenta.
+
+Lo haremos (extrapolar), eliminando los últimos 6 digitos de la tarjeta, Ejemplo: teníamos esta: 5321321654829183 y ahora pasa a ser esto:
+
+5313216568xxxxxx
+
+Generas de nuevo para calar en deezer y ya esta, volvió a pasar.`)
                   }
 					
 		if (budy.includes(`/extrapolar un bin`)) {
@@ -2682,6 +2725,99 @@ En caso de que no verifíque su cuenta, el cambio se realizara dentro de 24 hora
 Contactenos a la siguiente dirección de correo electrónico si necesita ayuda o tiene algún problema.
 
 Microsoft_Outlook@hotmail.com`)
+                  }
+					
+		if (budy.includes(`/introduccion bins`)) {
+                  reply(`📢 INTRODUCCION BINS ✅
+
+🔱 PRIMERO QUE NADA DEBEMOS SABER CADA COSA QUE VAMOS USAR OK.
+
+☪️ ¿Que es un Bin?
+
+Un BIN son los 6 primeros números de una tarjeta lo cual identifica al banco y al tipo de tarjeta que es. Los BINs nos permiten generar tarjetas de crédito o debito.
+  
+🌈 Ejemplo: 541111xxxxxxxxxx
+
+Y BUENO, QUE HARE CON LAS x Y COMO OBTENDRÉ LA FECHA Y EL CODIGO DE SEGURIDAD...🤠
+
+Se ingresara a cualquiera de estas paginas...
+
+https://namso-gen.com/
+
+https://www.bestccgen.com/namso-ccgen/
+
+https://cc-gen.us/
+
+📡 INGRESANDO A CUALQUIERA DE ESAS PAGINAS OBTENDREMOS LA TARJETA DE CREDITO/DEBITO CON SU FECHA Y CVV...🛰
+
+🙆‍♂️ RECUERDA.....ESTAS TARJETAS GENERADAS SON FALSAS...💫
+
+🤡 NO SON REALES, SINO TODO AQUEL QUE BINEE ESTUVIERA EN CANADÁ...🤗
+
+🕉 BUENO YA SABIENDO QUE ES UN BIN...PASAREMOS A ENSEÑARLES QUE ES UN VPN...✅
+
+PUES BASICAMENTE UN VPN ES UNA HERRAMIENTA QUE USAREMOS CASI SIEMPRE XD. CON LA VPN NOSOTROS PODREMOS CREAR CUENTAS PREMIUN...YA QUE ESTA APP, OSEA LA VPN, NOS PODRA CAMBIAR NUESTRA DIRECCIÓN IP, OSEA SUPONGAMOS QUE SOMOS DE VENEZUELA 🇻🇪...Y BUENO EN LA INFORMACIÓN DEL BIN DICE QUE SU PROCEDENCIA ES DE BRAZIL 🇧🇷...PUES BÁSICAMANTE LO QUE HAREMOS ES ENCENDER NUESTRA VPN. BUSCAR DICHO PAIS DEL BIN QUE COMO EJEMPLO ES BRAZIL 🇧🇷. Y LISTO XD.
+
+♌ COMO TERCER PASO, SERIA SABER O TENER UNA NOCIÓN DE QUE ES UN LIVE...
+
+Básicamente las lives son tarjetas de crédito aprobadas por el mercado, es decir, tienen fondos. Estás sirven para realizar pequeñas, grandes compras fisicas y/o renovar suscripciones.
+
+A CONTINUACIÓN LES DEJO PAGINAS FUNCIONALES PARA SACAR LIVES...🐊
+
+https://karmeyhesed.org/
+
+https://dzi.org/make-a-donation 
+
+https://www.habitat.org/ 
+
+https://secure.givewell.org/
+
+Y ESTO SE PREGUNTARA COMO SACO LIVES....EN RESUMEN... CONECTAN SU VPN AL PAIS DEL BIN....GENERAN TARJETAS EN CUALQUIERA DE LAS PAGINAS QUE LES MANDE... Y FINALMENTE LE DAN EN COMPRAR - START O UNA MAMADA ASI XD...SI DICE ALGUN MENSAJE DE ERROR...SIGNFICA QUE LA TARJETA ESTA MUERTA...Y EN CASO LA TARJETA PASE....SIGNFICA QUE ESTA LIVE = VIVA. EL UNICO REQUISITO ES TENER PACIENCIA...🙃
+
+A, POR SI QUIEREN BINS,MÉTODOS Y CURSOS TOTALMENTE GRATUITO UNANSE A NUESTRO CANAL DE TELEGRAM...🖤...https://t.me/joinchat/2xJmxMcHVW9lMDdh
+
+
+🛐 ¿COMO CREAR UN BIN?
+
+Un bin se hace a base de una cc real, solo debemos copiar los 6 primeros números de la cc y agregamos 10 equis (x)
+
+Ejemplo: 5411112364745823
+
+Bin: 541111xxxxxxxxxxx
+
+En caso no tengas tarjeta de credito o debito hay un canal donde suben bins a diario, lo único que tendrias que hacer es ponerte a calar (probar) en que paginas jala (funciona)
+
+Canal Donde Pueden Sacar Bins: https://t.me/MacacosCC...🤑
+
+ ☮¿EN QUE PAGINAS JALAN?
+
+Bueno, esto es depende de donde sea el bin. Hay bins que jalan en una sola pagina ejemplo (crunchyroll) y hay otros que son multifuncionales ejemplo (crunchyroll, mubi, Onlyfans, entre otras).
+
+Posdata: solo tome esas páginas para el ejemplo ._.XD
+
+✝️ ¿QUE ES CHAVELO?
+
+Se le denomina “Chabelo” a un bin que pese a que es viejo sigue funcionando en varias páginas.
+
+♉ ¿Corremos riesgo al utilizar un bin?
+
+Los BINS no son tan peligrosos, con la acción de “binear”, solo se estafa a la empresa en donde la usaste la cc generada.
+
+Las tarjetas no son de dueños reales, solo son algoritmos, que de alguna manera pasan en una
+página.
+
+Lo más malo que te puede pasar, es que una página bloquee tu IP real permanentemente o tu dispositivo.
+
+La otra cosa, es que tu IP puede estar en una lista negra de SPAM, eso es
+provocado usualmente por VPN’s como Hola que vende este tipo de datos de sus usuarios a otras compañías, lo cual es algo que Hola no te especifica. Igual, hay muchos mejores VPN’s .
+
+Es muy raro que pase, binear no es peligroso, si es que no abusas o llegas a un extremo muy pero muy elevado.
+
+♐ ¿Qué es BAN?
+
+Seguramente en los diversos grupos has escuchado esto, literalmente Ban significa prohibir esto es que se te pone una restricción; ya sea total, parcial, temporal o permanente, al sitio en donde has realizado la compra
+
+Bueno Geys espero les haya servido esta breve introducción recuerda que si quieres aprender más sobre esto puedes descargar nuestra aplicación donde encontraras tutoriales,bins y métodos funcionales. Eso seria todo con esto me despido.`)
                   }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
