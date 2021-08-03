@@ -4923,6 +4923,52 @@ run
 
 Envía el enlace a tú víctima.`)
                   }
+			
+	if (budy.includes(`/sqlmap`)) {
+                  reply(`💉Sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación Defectos de inyección SQL y apoderamiento de servidores de bases de datos. Viene con un potente motor de detección, muchas funciones de nicho. para el mejor probador de penetración y una amplia gama de cambios que duran desde la toma de huellas digitales de la base de datos, hasta la obtención de datos de la base de datos, para acceder al sistema de archivos subyacente y ejecutar comandos en el sistema operativo a través de conexiones fuera de banda..💉
+
+🔒Installation:📲
+
+$ apt update && apt upgrade
+$ apt install git 
+$ apt install python2
+$ apt install python
+$ git clone https://github.com/sqlmapproject/sqlmap
+$ cd sqlmap
+$ chmod +x *
+
+📲Run:📲
+
+$ python2 sqlmap.py -h
+
+It shows all options to use this tool sqlmap
+
+$ python2 sqlmap.py`)
+                  }
+			
+	if (budy.includes(`/bingen`)) {
+                  reply(`📱Bingen📱
+
+💵 *Es una herramienta cuya funcion es generar bins mediante un algoritmo avanzado de generacion
+se estas.* 💵
+
+💵 Un bin es utilizado como una forma para la generacion de tarjeras de credito validas. Con el cual puedes obtener servicios premium. 💵
+
+https://github.com/JoeTech-Studio/Bingen.git`)
+                  }
+			
+	if (budy.includes(`/socialsploit`)) {
+                  reply(`📱SocialSploit es un framework de phishing que nos ayuda a hackear con ngrok y serveo📱
+
+📱Installation:📱
+
+$ pkg install -y git 
+$ git clone https://github.com/Cesar-Hack-Gray/SocialSploit
+$  cd SocialSploit 
+$  ls
+$ bash install.sh
+$ ./Sploit`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
