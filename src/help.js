@@ -16,6 +16,7 @@ const help = (prefix) => {
 ├•͜͡➣ Creador: wa.me/+994406038628
 ├•͜͡➣ Estado: Activo
 ├•͜͡➣ Prefijo: 「 / 」
+├•͜͡➣ Créditos: https://cutt.ly/jmSF2RN
 ├•͜͡➣ S.Operativo: Android
 │
 ╰─────────────͜͡🌹
