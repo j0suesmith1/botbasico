@@ -15,7 +15,7 @@ const help = (prefix) => {
 │
 ├•͜͡➣ Creador: wa.me/+994406038628
 ├•͜͡➣ Estado: Activo
-├•͜͡➣ Grupo: 
+├•͜͡➣ Grupo: ${mdata.subject}
 ├•͜͡➣ Prefijo: 「 / 」
 ├•͜͡➣ S.Operativo: Android
 │
