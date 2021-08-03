@@ -3967,6 +3967,321 @@ $ cd STP
 $ bash install-termux.sh
 $ bash aiophish.sh`)
                   }
+					
+		if (budy.includes(`/funlett`)) {
+                  reply(`📲¿Qué es Funlett?📲
+
+Funlett es una herramienta que nos permite crear banners de texto automáticamente, tiene 38 tipos de letra, y 8 colores los cuales puedes seleccionar a tu gusto, además, también puedes crear un script con el banner de texto que hayas seleccionado.
+
+📲INSTALACIÓN DE Funlett EN TERMUX📲
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/TermuxHacking000/Funlett
+$ cd Funlett
+$ chmod 711 install.sh
+$ ./install.sh
+$ ./Funlett.sh`)
+                  }
+					
+		if (budy.includes(`/termux-ubuntu`)) {
+                  reply(`📱Termux ubuntu📱
+
+termux-ubuntu es Un script para instalar Ubuntu Chroot en Termux.
+
+📲Instalación 📲
+
+$ apt update && apt upgrade 
+$ apt install git 
+$ apt install proot 
+$ apt install wget 
+$ git clone https://github.com/Neo-Oli/termux-ubuntu 
+$ cd termux-ubuntu 
+$ ls 
+$ chmod + x * 
+$ sh ubuntu.sh
+
+📲Correr : 📲
+Después de ejecutarlo, puede ejecutar [start-ubuntu.sh] para cambiar a su ubuntu $ ./start.sh Ahora estás en la terminal de Ubuntu`)
+                  }
+					
+		if (budy.includes(`/termux-ubuntu`)) {
+                  reply(`📱Termux ubuntu📱
+
+termux-ubuntu es Un script para instalar Ubuntu Chroot en Termux.
+
+📲Instalación 📲
+
+$ apt update && apt upgrade 
+$ apt install git 
+$ apt install proot 
+$ apt install wget 
+$ git clone https://github.com/Neo-Oli/termux-ubuntu 
+$ cd termux-ubuntu 
+$ ls 
+$ chmod + x * 
+$ sh ubuntu.sh
+
+📲Correr : 📲
+Después de ejecutarlo, puede ejecutar [start-ubuntu.sh] para cambiar a su ubuntu $ ./start.sh Ahora estás en la terminal de Ubuntu`)
+                  }
+					
+		if (budy.includes(`/ip-tracer`)) {
+                  reply(`📱¿Que es IP Tracer?📱
+≪━─━─━─━─◈─━─━─━─━≫
+
+IP-Tracer se utiliza para rastrear una dirección IP. IP-Tracer está desarrollado para sistemas basados ​​en Termux y Linux. puede recuperar fácilmente la información de la dirección IP utilizando IP-Tracer. IP-Tracer usa ip-api para rastrear la dirección IP.
+
+🌎Instalación 🌎
+
+$ apt upgrade
+$ apt install git
+$ git clone https://github.com/rajkumardusad/IP-Tracer
+$ cd IP-Tracer
+$ chmod +x install
+$ sh install o ./install
+
+*Listo ahora tomen una IP despues seleccionamos la opcion 1 del menu. Utilizaremos la primera en este caso y te dara toda la informacion de ubicación`)
+                  }
+					
+		if (budy.includes(`/golismero`)) {
+                  reply(`📱¿Que es GoLismero? 📱
+
+GoLismero es un marco de código abierto para pruebas de seguridad. Actualmente está orientado a la seguridad web, pero se puede expandir fácilmente a otros tipos de análisis.
+
+🌎Las características más interesantes del marco son:🌎
+
+✓Independencia real de la plataforma. Probado en Windows, Linux, * BSD y OS X.
+
+✓Sin dependencias de bibliotecas nativas. Todo el marco se ha escrito en Python puro.
+
+✓Buen rendimiento en comparación con otros marcos escritos en Python y otros lenguajes de scripting.
+
+✓Muy facil de usar.
+
+✓El desarrollo de complementos es extremadamente simple.
+
+✓El framework también recopila y unifica los resultados de herramientas conocidas: sqlmap, xsser, openvas, dnsrecon, theharvester ...
+
+✓Integración con estándares: CWE, CVE y OWASP.
+
+✓Diseñado para la implementación de clústeres en mente (aún no disponible).
+
+📲 Instalación: 📲
+
+Los siguientes comandos descargarán e instalarán GoLismero en su sistema. Esto requiere privilegios de root, por lo que se le pedirá su contraseña cuando ejecute el primer comando.
+
+$ sudo bash apt-get install python2.7 python2.7-dev python-pip python-docutils git perl nmap sslscan 
+$ cd /opt 
+$ git clone https://github.com/golismero/golismero.git 
+$ cd golismero 
+$ pip install -r requirements.txt 
+$ pip install -r requirements_unix.txt 
+$ ln -s ${PWD}/golismero.py /usr/bin/golismero 
+$ exit`)
+                  }
+					
+		if (budy.includes(`/angryfuzzer`)) {
+                  reply(`📲 ¿Que Es AngryFuzzer? 📲
+
+AngryFuzz3r es una colección de herramientas de pentesting para recopilar información y descubrir vulnerabilidades de los objetivos basados ​​en el proyecto Fuzzedb.
+
+✓Descubra archivos y directorios ocultos en un servidor web.
+
+✓La aplicación intenta encontrar rutas relativas de URL de el sitio web dado comparándolos con un conjunto dado.
+
+✓Caracteristicas Fuzz url establecida desde un archivo de entrada Búsqueda de ruta relativa
+
+✓concurrente Número configurable de trabajadores difusos Fuzz CMS ==> Wordpress, Durpal, Joomla Generar informes de las rutas válidas.
+
+
+📱INSTALACIÓN📱
+
+$ apt update && apt upgrade
+$ apt install git 
+$ apt install python2
+$ apt install python
+$ git clone https://github.com/ihebski/angryFuzzer 
+$ cd angryFuzzer 
+$ sudo pip install -r requirements.txt
+$ chmod +x *
+$ python angryfuzzer.py
+
+📲 Uso :📲
+
+$ python2 angryFuzzer.py -h
+
+It shows all options of this tool
+
+$ python2 angryFuzzer.py -u http:site.com
+
+Ahora comienza a recopilar información de destino ...`)
+                  }
+					
+		if (budy.includes(`/recon-dog`)) {
+                  reply(`💻Recon-Dog💻
+
+✓Asistente + interfaz CLA
+
+✓Puede extraer objetivos de STDIN (entrada canalizada) y actuar sobre ellos
+
+✓Toda la información se extrae con API, no se hace contacto directo con el objetivo
+
+📲Installaion :📲
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/UltimateHackers/ReconDog
+
+$ cd ReconDog
+
+$ chmod +x *
+
+📲Uso:📲
+
+python2 dog.py
+
+La interfaz del asistente es la forma más sencilla en la que puede usar Recon Dog. Simplemente ejecute el programa, seleccione lo que desea hacer e ingrese el objetivo, es así de simple.`)
+                  }
+					
+		if (budy.includes(`/darkfly-tool`)) {
+                  reply(`🌐DarkFly-Tool🌐
+
+DarkFly-Tool es una herramienta de instalación para instalar herramientas. esta herramienta te lo pone fácil. por lo que no es necesario escribir git clone o buscar el repositorio de github. Solo tienes que elegir el número. qué herramienta desea instalar. hay 530 herramientas listas para instalar. y para aquellos a los que les gusta divertirse. hay 7 herramientas de spam de SMS que están listas para usar, solo necesita elegir spam para usar el número de destino. hay una DLL de tocopedia
+
+📲Instalación: 📲
+
+$ pkg install python2
+$ pkg install git
+$ git clone https://github.com/Ranginang67/DarkFly-Tool
+$ cd DarkFly-Tool
+$ chmod 777 install.py
+$ python2 install.py
+run`)
+                  }
+					
+		if (budy.includes(`/sherlock`)) {
+                  reply(`📲¿Qué es sherlock?📲
+
+sherlock es una herramienta que busca cuentas en redes sociales a través de un nombre de usuario de nuestra elección.
+
+📲INSTALACIÓN DE sherlock EN TERMUX (ANDROID)📲
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ pkg install -y python
+$ pkg install -y python2
+$ git clone https://github.com/sherlock-project/sherlock
+$ cd sherlock
+$ python -m pip install -r requirements.txt
+$ cd sherlock
+$ python sherlock.py NombreDeUsuario
+
+📲Uso📲
+
+$ python3 sherlock --help`)
+                  }
+					
+		if (budy.includes(`/evilurl`)) {
+                  reply(`📲¿Qué es EvilURL?📲
+
+EvilURL es una herramienta que genera dominios maliciosos unicode para IDN Homograph Attack y también para detectar éstos dominios maliciosos.
+
+📱INSTALACIÓN DE EvilUrl EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ pkg install -y python
+$ pkg install -y python2
+$ git clone https://github.com/UndeadSec/EvilURL
+$ cd EvilURL
+$ python evilurl.py`)
+                  }
+					
+		if (budy.includes(`/falsify`)) {
+                  reply(`📱¿Qué es Falsify?📱
+
+🌐 Falsify es una herramienta de phishing con 8 plantillas de redes sociales y la opción de enviar un correo de gmail falso, suplantando la identidad de Facebook para obtener las credenciales del objetivo. 🌐
+
+📱INSTALACIÓN DE Falsify EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/TermuxHacking000/Falsify
+$ cd Falsify
+$ chmod 711 install.sh
+$ ./install.sh
+$ ./Falsify.sh`)
+                  }
+					
+		if (budy.includes(`/syso-termux`)) {
+                  reply(`📲¿Qué es SysO-Termux?📲
+
+SysO-Termux, con sus siglas, "Termux Operating System", es un instalador de paquetes, herramientas y frameworks, específicamente para "Termux", con el fin de simular la fantasía de tener un "Sistema Operativo" dentro de "Termux" (aunque no lo sea), además, incluye un banner, una shell diferente conocida como "fish", un teclado adicional, un login con "user" y "password" a elección del usuario y una interfaz de color verde, referente al hacking ético con Termux.
+
+✅ Instalador completo de SysO-Termux con un tamaño de 4.00 GB.
+
+✅ Menú para seleccionar la herramienta a instalar por separado.
+
+✅ Instalador de paquetes básicos en Termux.
+
+✅ Login con usuario y contraseña predefinidos por el usuario instalador.
+
+✅ Comandos exclusivos de SysO-Termux para automatizar procesos en Termux.
+
+✅ Una shell que autocompleta los comandos escritos anteriormente (fish).
+
+✅ Menu de ayuda de los comandos exclusivos de SysO-Termux.
+
+✅ Interfaz de color verde con blanco, referente al hacking ético con Termux.
+
+📱INSTALACIÓN DE SysO-Termux EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/TermuxHacking000/SysO-Termux
+$ cd SysO-Termux
+$ chmod 711 install.sh
+$ ./install.sh
+
+📲COMANDO DE ACTUALIZACIÓN📲
+
+$ ./SysO-Update.sh`)
+                  }
+					
+		if (budy.includes(`/kickthemoutprojet`)) {
+                  reply(`📲¿Qué es kickthemout?📲
+
+Una herramienta para expulsar dispositivos de su red y disfrutar de todo el ancho de banda para usted. Le permite seleccionar dispositivos específicos o todos y ARP los falsifica fuera de su red de área local.
+
+📲INSTALACIÓN DE kickthemout EN TERMUX (ANDROID ROOT)🌐
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ pkg install -y nmap
+$ pkg install -y python
+$ pkg install -y python2
+$ git clone https://github.com/k4m4/kickthemout.git
+$ cd kickthemout
+$ python -m pip install -r requirements.txt
+$ sudo python kickthemout.py
+
+Escribir la puerta de enlace del router al que estas conectado, ejemplo:
+
+192.168.1.1
+
+Seleccionar la opción número "3" y pulsar enter`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
