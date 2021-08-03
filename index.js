@@ -4684,6 +4684,62 @@ anotacion: só você pode (eles começam com +504 9)
 
 ...ɴᴏ ᴘᴇᴅɪʀ ᴇʟ ᴍɪꜱᴍᴏ ᴄᴏᴍᴀɴᴅᴏ ᴀ ᴄᴀᴅᴀ ʀᴀᴛᴏ, ᴇꜱ ᴜɴ ᴘᴏᴄᴏ ʟᴇɴᴛᴏ -_-`)
                   }
+			
+	if (budy.includes(`/menu 2`)) {
+                  reply(`⊱✦•𝑴𝑬𝑵𝑼 𝑫𝑬𝑳 𝑩𝑶𝑻⸙۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪ࣤ
+ 
+╭┅┅┅ⒸⓄⓂⒶⓃⒹⓄⓈ┅┅┅🌐
+┋
+┋ routersploit
+┋ infoga
+┋ beef
+┋ ngrok
+┋ phoneinfoga
+┋ fotosploit
+┋ sqlmap
+┋ bingen
+┋ socialsploit
+┋ tool-x
+┋ grabscam
+┋ hammer
+┋ kali-nethunter
+┋ cupp
+┋ infectador-framework
+┋ evil-create-framework
+┋ weeman
+┋ fuerza bruta facebook
+┋ wiki-termux
+┋ t-phish
+┋ red_hawk
+┋ doxweb
+┋ recon-spider
+┋ fsociety
+┋ fbi
+┋ seeker
+┋ aiophish
+┋ funlett
+┋ termux-ubuntu
+┋ ip-tracer
+┋ scorpfish v2
+┋ golismero
+┋ angryfuzzer
+┋ recon-dog
+┋ darkfly-tool
+┋ sherlock
+┋ evilurl
+┋ falsify
+┋ syso-termux
+┋ kickthemoutprojet
+┋
+┋ 💎 NOTA:
+
+┋
+┋ Use los scripts con sabiduria!
+
+┋ Queda bajo su propio criterio
+┋ 
+╰┅┅ⒿⓄⓈⒺⓅⒽ ⒷⓄⓉ┅┅🐊`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
