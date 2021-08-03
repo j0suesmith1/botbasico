@@ -537,6 +537,18 @@ async function starts() {
 						client.groupMakeAdmin(from, mentioned)
 					}
 					break
+		case 'neon':
+if (!q) return reply('*Y el texto para crear el logo donde esta?*')
+reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${q}!*`)		
+logo = `https://api.zeks.xyz/api/bneon?apikey=apivinz&text=${q}`
+sendFileFromUrl(logo, image, {quoted: fimg, caption: '*🔥 Logos By Joseph 🔥*', sendEphemeral: true})
+break
+					case 'matrix':
+if (!q) return reply('*Y el texto para crear el logo donde esta?*')
+reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${q}!*`)		
+logo = `https://api.zeks.xyz/api/matrix?apikey=apivinz&text=${q}`
+sendFileFromUrl(logo, image, {quoted: fimg, caption: '*🔥 𝘓𝘰𝘨𝘰𝘴 𝘉𝘺 𝘚𝘢𝘮𝘶𝟥𝟥𝟢 🔥*', sendEphemeral: true})
+break
 
 /******JUEGOS SHANDUY LA PUTA MADRE NO TE OLVIDES******/
 					
