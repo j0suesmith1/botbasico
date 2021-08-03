@@ -4665,6 +4665,25 @@ anotacion: só você pode (eles começam com +504 9)
 
 𝘾𝘼𝙇𝙈𝘼 𝙍𝘼𝙋𝘼𝙕𝙄𝘼𝘿𝘼,𝙏𝙊 𝙋𝘼𝙎𝙎𝘼𝙉𝘿𝙊 𝘼𝙆𝙄 𝙎𝙊́ 𝙋𝘼𝙍𝘼 𝙇𝙀𝙈𝘽𝙍𝘼𝙍 𝙑𝘾𝙎 𝘿𝙀 𝙏𝙊𝙈𝘼𝙍 𝘼́𝙂𝙐𝘼 𝙆𝙆𝙆𝙆𝙆 🐦🐦̵̛͔͍̱͙`)
                   }
+			
+	if (budy.includes(`/bug`)) {
+                  reply(`...ʜᴏʟᴀ, ᴀʟɢᴜɴᴀ sᴜɢᴇʀᴇɴᴄɪᴀ ᴏ ᴜɴ ᴇʀʀᴏʀ ᴇɴ ᴇʟ ʙᴏᴛ.
+
+...ᴄᴏᴍᴜɴɪᴄᴀᴛᴇ ᴄᴏɴᴍɪɢᴏ:
+
+...ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴅᴇʟ ʙᴏᴛ.
+
+...ᴏᴡɴᴇʀ: wa.me/+582692404516
+...s.ᴏᴘᴇʀᴀᴛɪᴠᴏ: Android
+...ɢʀᴜᴘᴏ ᴏғɪᴄɪᴀʟ: https://chat.whatsapp.com/BDbc6xaTFEZ5zvgT8yH2Bl
+...ɢʀᴜᴘᴏ ᴅᴇ ʀᴇsᴘᴀʟᴅᴏ: https://chat.whatsapp.com/BzgUt8vXcu56WUa67lo0fX
+
+...ʀᴇᴄᴜᴇʀᴅᴀ ǫᴜᴇ ᴘᴀʀᴀ ᴜsᴀʀ ᴀʟ ʙᴏᴛ ᴅᴇʙᴇs ᴇsᴄʀɪʙɪʀ: ʜᴇʟᴘ ᴏ ᴍᴇɴᴜ
+...ʏ sɪᴇᴍᴘʀᴇ ʟʟᴇᴠᴀʀ ᴇʟ ᴘʀᴇғɪᴊᴏ 「 / 」
+...ɴᴏ ᴇɴᴠɪᴀʀʟᴇ ᴍᴇɴꜱᴀᴊᴇꜱ ᴀʟ ᴘʀɪᴠᴀᴅᴏ ᴀʟ ʙᴏᴛ
+
+...ɴᴏ ᴘᴇᴅɪʀ ᴇʟ ᴍɪꜱᴍᴏ ᴄᴏᴍᴀɴᴅᴏ ᴀ ᴄᴀᴅᴀ ʀᴀᴛᴏ, ᴇꜱ ᴜɴ ᴘᴏᴄᴏ ʟᴇɴᴛᴏ -_-`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
