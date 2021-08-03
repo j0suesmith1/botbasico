@@ -4740,6 +4740,189 @@ anotacion: só você pode (eles começam com +504 9)
 ┋ 
 ╰┅┅ⒿⓄⓈⒺⓅⒽ ⒷⓄⓉ┅┅🐊`)
                   }
+			
+	if (budy.includes(`/routersploit`)) {
+                  reply(`📱¿Que es RouterSploit?📱
+
+RouterSploit, es un framework de seguridad open source muy similar al conocido Metasploit con el cual podremos auditar nuestros dispositivos (routers, webcam, NAS, etc) para comprobar si tienen vulnerabilidades conocidas.
+
+📱 El framework, cuenta con los siguientes 5 módulos:📱
+
+🌎 Exploits: módulos que aprovechan las vulnerabilidades identificadas. 🌎
+
+🌐 Creds: módulos para probar credenciales en los servicios de red. 🌐
+
+🔒 Scanners: módulos que verifican si un objetivo es vulnerable a cualquier exploit. 🔒
+
+💉 Payloads: módulos para generar cargas útiles en diversas arquitecturas. 💉
+
+👾 Generic: módulos que realizan ataques genéricos. 👾
+
+📱Instalación:📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install python git clang -y
+$ pkg install -y make
+$ git clone https://github.com/threat9/routersploit
+$ cd routersploit
+$ python3 -m pip install -r requirements.txt
+$ python3 -m pip install -r requirements-dev.txt
+$ chmod +x *setup.py
+$ python3 setup.py install
+$ python3 rsf.py
+
+Uso:
+
+show all
+
+use scanners/autopwn
+
+show options
+
+set target 192.168.1.1`)
+                  }
+			
+	if (budy.includes(`/infoga`)) {
+                  reply(`📱 InfoGa es una herramienta que recopila información de cuentas de correo electrónico (ip, nombre de host, país, ...) de diferentes fuentes públicas (motores de búsqueda, servidores clave pgp y shodan) y verifica si los correos electrónicos se filtraron utilizando la API haveibeenpwned.com. Es una herramienta realmente sencilla, pero muy eficaz para las primeras etapas de una prueba de penetración o simplemente para conocer la visibilidad de tu empresa en Internet.📱
+
+📱Installation :📱
+
+$ apt update && apt upgrade
+$ apt install git 
+$ apt install python2
+$ git clone https://github.com/m4ll0k/Infoga
+$ cd Infoga
+$ chmod +x *
+$ pip2 install requests
+
+📱usage:📱
+
+$ python2 infoga.py
+
+Now it shows all options to use this tool
+
+$ python2 infoga.py -t gmail.com -s all
+
+Now its started collecting emails and e-mails information
+
+[hostname, city, organization, longitude and latitude ports..]`)
+                  }
+			
+	if (budy.includes(`/beef`)) {
+                  reply(`💻INSTALACIÓN DE BeEF EN TERMUX (ANDROID)💻
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ pkg install -y ruby
+$ pkg install -y vim
+$ pkg install -y nodejs
+$ pkg install -y unstable-repo
+$ pkg install -y metasploit
+$ git clone https://github.com/beefproject/beef
+$ cd beef
+$ ./update-beef
+$ vim config.yaml
+
+Editar user y pass y salir guardando cambios.
+
+$ ./beef -x`)
+                  }
+			
+		if (budy.includes(`/ngrok`)) {
+                  reply(`📱¿Qué es Ngrok?📱
+
+Ngrok es una herramienta que permite acceder nuestro servidor local a cualquier persona en internet con la que compartamos una url generada dinamicamente.
+
+📱INSTALACIÓN DE Ngrok EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/TermuxHacking000/NgrokTH
+$ ls
+$ cd NgrokTH
+$ ls
+$ chmod +x *
+$ ls
+$ ./ngrok.sh
+
+Aqui debemos ponemos 1 para instalar ngrok en termux.
+
+Aqui deveremos ir a la pagina de Ngrok registrarnos o inciar seccion en Ngrok y copiar nuestro authtoken de nuestra cuenta aqui les dejo la pagina de Ngrok para que vallan.
+
+Sitio https://ngrok.com/
+
+Una vez aigan copiado su authtoken lo pegan en termux y le pulsan a enter.
+
+Despues de eso nos dira para elegir entre
+-ngrok http 4444
+-ngrok tcp 4444
+
+Pero yo en este caso pongo 
+ngrok http 8080
+Le damos a enter y ya de aver echo todo eso ya tenes el Ngrok`)
+                  }
+			
+	if (budy.includes(`/phoneinfoga`)) {
+                  reply(`📲PhoneInfoga📲
+
+🌎 PhoneInfoga es una de las herramientas más avanzadas para escanear números de teléfono internacionales utilizando solo recursos gratuitos. Le permite recopilar primero información estándar como país, área, operador y tipo de línea en cualquier número de teléfono internacional. Luego, busque huellas en los motores de búsqueda para tratar de encontrar el proveedor de VoIP o identificar al propietario. 🌎
+
+📲Instalación:📲
+
+$ pkg upgrede -y && pkg update -y
+$ pkg install -y python git
+$ git clone https://github.com/sundowndev/PhoneInfoga
+$ ls
+$ cd PhoneInfoga
+$ mv config.example.py config.py
+$ ls
+$ chmod 777 config.py config.py
+$ python3 -m pip install -r requirements.txt
+$ python3 phoneinfoga.py -v
+$ python3 phoneinfoga.py -n
+$ cp -rf ../usr/bin/ngrok $HOME/PhoneInfoga`)
+                  }
+			
+	if (budy.includes(`/fotosploit`)) {
+                  reply(`📲¿Qué es FotoSploit?📲
+
+🌐 FotoSploit es una herramienta que se especializa en la ingenieria social, Esta herramienta permite al usuario que la utilice, subir una imágen a un enlace phishing, por lo tanto, será mas probable que la víctima acceda al enlace si ve una imágen que le llame la atención. 🌐
+
+📲INSTALACIÓN DE FotoSploit EN TERMUX (ANDROID)📲
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/Cesar-Hack-Gray/FotoSploit
+$ cd FotoSploit
+$ bash install.sh
+$ ./FotoSploit
+
+Show options
+
+set foto /sdcard/foto.jpg
+[RUTA DE TÚ FOTO]
+
+set title url 
+[TÍTULO DEL VIDEO]
+
+set mini title 
+[DESCRIPCIÓN DEL VIDEO]
+
+set view 
+[VISTA DE LA FOTO]
+
+set red social 
+[RED SOCIAL PHISHING]
+
+run
+[COMIENZA A GENERAR EL ENLACE]
+
+Envía el enlace a tú víctima.`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
