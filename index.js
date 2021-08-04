@@ -4578,6 +4578,247 @@ https://play.google.com/store/apps/details?id=com.brave.browser&hl=es_US&gl=PE
 
 🔰 Cortesia De: @BineriaUniversal`)
                   }
+					
+		if (budy.includes(`/tools binsX`)) {
+                  reply(`⬜ BINERIA UNIVERSAL:
+
+◻ cc generadores:
+
+
+https://namso-gen.com/
+https://namso.ccgen.co/
+https://www.bestccgen.com/namso-ccgen/
+https://cc-gen.us/
+https://www.elfqrin.com/discard_credit_card_generator.php
+https://admgenx.000webhostapp.com/
+https://databusterz.com/ccgen/
+https://sieuthuthuat.com/bin
+https://toxiccomunity.ga/generador/
+https://ecuabinsgen.000webhostapp.com/Index.html
+https://web.archive.org/web/20160726182003/https://cc.namsoelite.com
+
+◻ correos temporales:
+
+https://tempail.com
+https://www.mohmal.com
+https://temp-mail.org
+https://smailpro.com/?inbox
+http://www.yopmail.com/es/
+https://www.guerrillamail.com/es/
+
+◻ bloc de notas:
+
+https://ghostbin.com
+https://pastebin.com
+https://www.miblocdenotas.com/
+https://www.online-toolz.com/langs/es/tool-es-notepad.html
+
+◻ identidad falsa gen
+
+www.fakenamegenerator.com
+www.datafakegenerator.com
+https://randomuser.me
+http://4devs.com.br
+
+◻ para sacar lives manuales:
+
+https://karmeyhesed.org/
+https://dzi.org/make-a-donation
+https://www.habitat.org/
+https://www.lakecountycf.org
+https://secure.givewell.org/
+https://childsdream.org/donate/credit-card-paypal-donations/ https://www.li.me/donate
+https://www.chailifeline.org/donate.php
+https://gentlebarn.foxycart.com
+https://www.totalwine.com
+
+◻ bot checker de tg:
+
+https://t.me/carol5_bot`)
+                  }
+					
+		if (budy.includes(`/tools binsY`)) {
+                  reply(`🤘 La Escuelita Del Profe Erick 🇨🇱:
+
+🤘 Correos temporales:
+
+MAIL GEN: 
+https://mailgen.biz/
+
+TEMPMAIL :
+https://temp-mail.org/es/
+
+TEMPMAIL 2:
+https://tempail.com/
+
+CORREO TEMPORAL :
+https://correotemporal.org/
+
+EMAIL ON DECK
+https://www.emailondeck.com/
+
+EMAIL FAKE :
+https://emailfake.com/
+
+MOHMAIL :
+https://www.mohmal.com/es
+
+MAIL SAC:
+https://mailsac.com/
+
+SMAIL PRO:
+https://smailpro.com/?inbox
+
+YOPMAIL :
+http://www.yopmail.com/es/
+
+GUERRILA MAIL :
+https://www.guerrillamail.com/es/
+
+
+🤘 Generador de tarjetas:
+
+NAMSO GEN 1
+https://namso-gen.com/
+
+NAMSO GEN 2
+https://namso-gen.net/
+
+NAMSO CCGEN GENERADOR 
+http://namso.ezyro.com/?i=2
+
+BESTCCGEN NAMSO
+https://www.bestccgen.com/namso-ccgen/
+
+CCGEN NAMSO 
+https://ccgen.co/
+
+ADM GEN 
+https://admgenx.000webhostapp.com/
+
+PREMIUM CCGEN 
+https://sieuthuthuat.com/bin/
+
+TOXIC GEN
+https://toxiccomunity.ga/generador/
+
+VCCGENERATOR 
+https://www.vccgenerator.com/es/
+
+KE1 CCGEN 
+http://www.ke1.nl/en/ccgen/
+
+DZMOHAIPA
+https://dzmohaipa.com/Bin/Dz/
+
+ELFGRIN DISCARD
+https://www.elfqrin.com/discard_credit_card_generator.php?fbclid=IwAR0UT1x-eMDGgfOtMnQ4X_5njdlfOIsSQREUJZmla2wMkpNk6xKNUW-ZhYc`)
+                  }
+					
+		if (budy.includes(`/plataformas para calar`)) {
+                  reply(`100  PLATAFORMAS DONDE PUEDEN CALAR , VAMOS ✅
+
+1 CRUNCHYROLL
+2 PLEX 
+3 TOPIC
+4 HIDIVE
+5 BRITBOX 
+6 UMC TV
+7 TIDAL
+8 NAPSTER
+9 HBO MAX 
+10 HBO GO MÉXICO 
+11 HBO ESPAÑA 
+12 FÚBO TV
+13 FANATIZ 
+14 DIRECT TV GO MÉXICO
+15 BLIM 
+16 PUREFLIX
+17 SCRIBD
+18 CANVA 
+19  HOOTSUITE
+20 LINKEDIN
+21 SHUDDER
+22 VRV 
+23 SKYPE 
+24 PROXYSCAPE
+25 INDIEFLIX
+26 WWE 
+27 FILMBOX
+28 MUBI TV
+29 MICROSOFT 365
+30 AWS AMAZON 
+31 AZURE 
+32 SPOTIFY 
+33 YOUTUBE 
+34 BADOO 
+35 PLAYSTORE 
+36 FACEBOOK ADS
+37 NAMCHEAP VPN 
+38 VPN CITY 
+39 PRIVATE TUNEL 
+40 PAYPAL
+41 APPLE MUSIC 
+42 EBAY 
+43 ALIEXPRES
+44 DEEZER 
+45 FANATIZ 
+46 DAZN 
+47 HULU 
+48 NOOR PLAY 
+49 SOUNDCLOUD
+50 DUOLINGO 
+51 PANDORA 
+52 SMALL PDF 
+53 BLIZZARD
+54 WAR GAMING
+55 LUMOSITY LIFETIME 
+56 UTOMIK
+57 DC UNIVERSE
+58 ETSY
+59 MARVEL UNLIMITED
+60 PICSART 
+61 CALM
+62 ANCESTRY 
+63 HISTORY VAULT 
+64 IP VANISH 
+65 DROPBOX
+66 ONLYFANS 😍
+67 ADOBE
+68 PREZI 
+69 WEBSHARE 
+70 ACORN TV
+71 PRIVATE  TÚNEL
+72 NOGGIN
+73 INFLTR
+74 APP STORE 
+75 QOBUZ 
+76 TREEHOUSE
+77 GREEN MAN GAMING
+78 STEAM 
+79 G2A 
+80 NORTON 
+81 IWOOT 
+82 PUMA 
+83 ADIDAS
+84 REEBOK
+85 NIKE 
+86 HM
+87 MY PREOTEIN
+88 UBER EAT 
+89 MC DONAL,S 
+90 MERCADO LIBRE
+91 SHERLY 
+92 STAN 
+93 OLDFLIX
+94 VIKI RAKUTEN
+95 PDF DRIVE 
+96 ATRESPLAYER
+97 SHUTHESTOCK
+98 INSTAGRAM
+99 PORHUB
+100 BRAZZERS`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
