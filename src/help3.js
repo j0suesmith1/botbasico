@@ -9,29 +9,25 @@ const help3 = (prefix, pushname) => {
 ┃╭╱╱▕╋╋╋╋▏╲╲╮
 ┃╰╯╯┈╲▂▂╱┈╰╰
 ┃
-┃⛧ Introducción Bins
-┃⛧ Crear Cuentas Con Bins
-┃⛧ Encontrar Un Bin
-┃⛧ Verificar Un Bin
-┃⛧ Sacar Lives Manuales
-┃⛧ Sacar Cuentas Autopagables
-┃⛧ Crear Cuentas Sin Bins
-┃⛧ Carding Limite
-┃⛧ Paginas Cardeables
-┃⛧ Paginas SMS
-┃⛧ VPN Hackeadas
-┃⛧ Navegadores Privados
-┃⛧ Checker Gratis
-┃⛧ Metodos
-┃⛧ Gen 109
-┃⛧ Group
-┃⛧ Plataformas Para Calar
-┃⛧ APK Binero
-┃⛧ BINS
-┃⛧ Bonus
+┃⛧ introducción bins
+┃⛧ crear cuentas con bins
+┃⛧ Crear cuentas sin bins
+┃⛧ encontrar un bin
+┃⛧ verificar un bin
+┃⛧ sitios lives manuales
+┃⛧ introducción carding
+┃⛧ sitios cardeables
+┃⛧ sitios sms
+┃⛧ vpn hackeadas
+┃⛧ navegadores privados
+┃⛧ tools binX
+┃⛧ tools binY
+┃⛧ plataformas para calar
+┃⛧ apk binero
+┃⛧ bins today
 ┃
 ┗━━━❰̤̤፝ۜ֟͜͜͡😼️̤̤̤፝ۜ֟͜͜͡❱NO SPAM❰̤̤፝ۜ֟͜͜͡😼️̤̤̤፝ۜ֟֟͜͜͡❱`
 
 }
 
-exports.help3 = juegos
+exports.help3 = help3
