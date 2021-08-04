@@ -4509,6 +4509,75 @@ Recommended use Poland card`)
  Ⓜ️sᴍs ʀᴇᴄᴇᴘᴛɪᴏɴ: https: //smsreceiving.com
  Ⓜ️ᴛʀᴀsʜ ᴍᴏʙɪʟᴇ https://es.mytrashmobile.com/nu`)
                   }
+					
+		if (budy.includes(`/vpn hackeadas`)) {
+                  reply(`⚜ VPN Premiun ⚜
+
+🔰 Express VPN
+
+https://www.mediafire.com/file/63pwypprb06vefz/ExpressVPN+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+🔰 VPNhub
+
+https://www.mediafire.com/file/g3vx5vco6ylkfng/VPNhub+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+🔰 Hola VPN Plus
+
+https://www.mediafire.com/file/ypk0qflrvlltitx/Hola+VPN+Plus+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+🔰 HotsPot Shield VPN
+
+https://www.mediafire.com/file/89myobgx3ip5qda/Hotspot+Shield+VPN+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+🔰 Tech VPN Pro
+
+https://www.mediafire.com/file/pm6tnbrzly6pydb/Tech+VPN+Pro+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+🔰 UFO VPN Basic
+
+https://www.mediafire.com/file/zu2t58szoiowvn4/UFO+VPN+Basic+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+🔰 Combo VPN
+
+https://www.mediafire.com/file/qn4fxca1ni13pki/Combo+VPN+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+🔰 VPN Proxy Master By L. Hacking
+
+https://www.mediafire.com/file/5qhmn5bx86icpiu/Proxy_Master.apk/file
+
+🔰 Turbo VPN
+
+https://www.mediafire.com/file/8iohxjcxup4nred/Turbo+VPN+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+
+🔰 Melon VPN
+
+https://www.mediafire.com/file/lq3izyfz4xlzfro/MELON+VPN+𝗕𝗶𝗻𝗲𝗿𝗶𝗮+𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹.apk/file
+
+🔰 Cortesia De: @BineriaUniversal`)
+                  }
+					
+		if (budy.includes(`/navegadores privados`)) {
+                  reply(`⚜ Navegadores Privados ⚜
+
+🔰 DuckDuckGo
+
+https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&hl=es_US&gl=PE
+
+🔰 FireFox Focus
+
+https://play.google.com/store/apps/details?id=org.mozilla.focus
+
+🔰 Navegador Web Dolphin Browser
+
+https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser
+
+🔰 Brave Browser
+
+https://play.google.com/store/apps/details?id=com.brave.browser&hl=es_US&gl=PE
+
+🔰 Cortesia De: @BineriaUniversal`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
