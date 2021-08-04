@@ -5010,9 +5010,9 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️`)
                   }
-       if (budy.startsWith(`:v`)) {
-        const none = fs.readFileSync('./mp3/viejo1.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+       if (budy.startsWith(`?`)) {
+        const none = fs.readFileSync('./mp3/Yo Te Quiero Dar.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp3', ptt:true})
                   }
 	if (budy.startsWith(`La toca 7w7`)) {
         const none = fs.readFileSync('./anishan/anime5.mp3');
