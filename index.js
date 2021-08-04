@@ -257,7 +257,7 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `Hola @${num.split('@')[0]}\nBienvenid@ a *${mdata.subject}* el mejor grupo de WhatsApp 👌\n\nUn gusto conocerte 🤟\n\nSigue las reglas del grupo si no pa fuera mi loco los admins te eliminan 😝\n\nPara utilizar el bot registrate con el comando ${prefix}daftar y tu nombre\n\nPara ver los demas comandos utiliza ${prefix}help\n\nOjito con el spam 🧐\n\n`
+				teks = `Hola @${num.split('@')[0]}\nBienvenid@ a *${mdata.subject}* Gracias por unirte a la familia 🤗\n\nPara utilizar el bot registrate con el comando ${prefix}daftar y tu nombre\n\nPara ver los demas comandos utiliza ${prefix}help\n\nOjito con el spam ☠\n\n`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
