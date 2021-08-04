@@ -496,7 +496,7 @@ async function starts() {
 					
 		/*case 'traba':
 	       case 'troleo':
-               client.sendMessage(from, virtex(prefix, sender), text, {quoted: mek})
+               client.sendMessage(from, traba(prefix, sender), text, {quoted: mek})
                break*/
                             case 'demote':
 					if (!isGroup) return reply(mess.only.group)
