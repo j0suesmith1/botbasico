@@ -57,4 +57,4 @@ const help2 = (prefix, pushname) => {
 
 }
 
-exports.antimenu = antimenu
+exports.help2 = help2
