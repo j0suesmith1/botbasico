@@ -4804,6 +4804,212 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 
 🛑 Nuestra Aplicación Esta Libre De Virus, Es Solo APK,Puedes Subir El Archivo A Un Scanner de Virus.`)
                   }
+					
+		if (budy.includes(`/bins today`)) {
+                  reply(`♔ℬ𝒾𝓃ℯ𝓇𝒾𝒶 𝒰𝓃𝒾𝓋ℯ𝓇𝓈𝒶𝓁 ♔
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+➯ ʙɪɴs ᴊᴀʟᴀɴᴅᴏ ғᴜʟʟ...
+➯ ᴛᴜᴛᴏʀɪᴀʟ: https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
+➯ ᴄʜᴀɴɴᴇʟ: https://t.me/joinchat/2xJmxMcHVW9lMDdh
+➯ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/JyMfpGJIvZOFeOQs4bu1te
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN YOGA INTERNACIONAL 📥
+
+💳 BIN: 4016581716xxxxxx
+💳 BIN: 4016581x16xx75x1
+💳 BIN: 401658171x3x7551
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN FLIXOLÉ 📥
+
+💳 BIN: 4863555158xxxxxx
+💳 BIN: 486355xxx8x4xx84
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN PRIME VIDEO 📥
+
+💳 BIN: 456583000556xxxx
+📆 FECHA: 01/2025
+
+🌍 IP: ARGENTINA 🇦🇷
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN NAPSTER 📥
+
+💳 BIN: 539199xxxxxxxxxx
+💳 BIN: 5391997848xxxxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN PUREFLIX 📥
+
+💳 BIN: 4863556626xxxxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN FLUENTU PLUS 📥
+
+💳 BIN: 554350420x0x3xxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇲
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN ABA ENGLISH  📥
+
+💳 BIN: 5491844835xxxxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN CRUNCHYROLL 📥
+
+💳 BIN: 4491924332xxxxxx
+💳 BIN: 4491923625xxxxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: BOLIVIA 🇧🇴 
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN NAPSTER 📥
+
+💳 BIN: 5379700260xxxxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: REINO UNIDO 🇬🇧
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN ACORNTV 📥
+
+💳 BIN: 401658685037xxxx
+💳 BIN: 434256404776xxxx
+💳 BIN: 440066920755xxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN CANVA PRO 📥
+
+💳 BIN: 53981752883xxxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN PRIME VIDEO 📥
+
+💳 BIN: 532473xxxxxxxxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌍 IP: BRAZIL 🇧🇷
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN CALM 📥
+
+💳 BIN: 53891933335xxxx1
+💳 BIN: 5438960771xxxxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP:  USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN ACORNTV 📥
+
+💳 BIN: 5218707015xxxxxx
+💳 BIN: 5360183580xxxxxx
+💳 BIN: 549184737xxxxxxx
+📆 FECHA: 05/24 O RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📥 BIN LUMOSITY 📥
+
+💳 BIN: 414709942014xxxx
+📆 FECHA: RND
+💳 CVV: RND
+
+🌏 IP: USA 🇺🇸
+
+🔱 @BINERIAUNIVERSAL
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+➯ ᴄᴀʀʙᴏɴ? ᴄᴏᴍᴜɴɪᴄᴀᴛᴇ ᴄᴏɴᴍɪɢᴏ [ /ᴄʀᴇᴀᴅᴏʀ]
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
