@@ -5029,8 +5029,8 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Todo De Lacoste.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Onichan`)) {
-        const none = fs.readFileSync('./anishan/anime1.mp3');
+	if (budy.startsWith(`/death bed`)) {
+        const none = fs.readFileSync('./mp3/death bed.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`Pasen sexo`)) {
