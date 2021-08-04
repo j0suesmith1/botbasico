@@ -131,7 +131,7 @@ const help = (prefix) => {
 ├•͜͡➣ números virtuales
 ├•͜͡➣ Número virtual +1
 ├•͜͡➣ número virtual +994
-├•͜͡➣ buzones
+├•͜͡➣ traba
 ├•͜͡➣ trava
 ├•͜͡➣ destrava
 ├•͜͡➣ blocklist
