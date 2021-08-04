@@ -4344,6 +4344,171 @@ Seleccionar la opción número "3" y pulsar enter`)
 
 ◽Porfavor Respetar Las Reglas Del Grupo y Disfrutar Tu Estadía.`)
                   }
+					
+		if (budy.includes(`/sitios cardeables`)) {
+                  reply(`Sitios cardeables 2021
+
+games STEAM :
+www.gamecards.com
+www.instant-gaming.com
+www.kinguin.net -> Skrill
+www.getgamesgo.com
+www.bundlestars.com -> It's a very very good site
+www.dlgamer.us
+www.yuplay.com
+www.elitekeys.com
+www.gog.com
+www.offgamers.com
+www.gamersgate.com
+www.go2arena.com
+Method : You must have a good card and work GOOD LUCK
+
+
+
+Website: www.scufgaming.com
+Items: Xbox Controllers
+Method: Bill=Ship
+Shipping: Worldwide
+
+Website: www.hollisterco.com
+Items: Clothing
+Method: Bill=Ship
+Shipping: Worldwide
+
+Website: www.littlecaesars.com
+Items: Food Giftcard
+Method: Bill=Ship
+Shipping: USA
+
+Website: www.tomtop.com
+Items: Electronic
+Method: Bill=Ship
+Shipping: Worldwide
+
+
+Website: www.steaknshake.com
+Items: Food Giftcard
+Method: Bill=Ship
+Shipping: USA
+
+
+
+website: www.abercrombie.com
+Items: Clothing
+Method: Bill=Ship
+Shipping: Worldwide
+
+Website: www.footlocker.com
+Items: Clothing/Shoes
+Method: Bill=Real, Ship=Your Drop
+
+Shipping: Worldwide
+
+Items: Clothing
+Method: Bill=Ship
+Shipping: Worldwide
+Website: www.SOLRepublic.com
+
+Items: HeadPhones
+Method: Bill=Ship
+Shipping: USA\Canada ONLY
+
+https://skreened.com/
+EASY/ CLOTHES
+
+this is very cheap n easy to card
+https://cheap-forex-vps.com/
+
+GAME KEYS
+
+mmoga.net
+g2play.net
+simplycdkeys.com
+allcdkey.com
+kinguin.net
+humblebundle.com
+gog.com
+activision.com
+eurotrucksimulator2.com
+gamersgate.com
+cdkeyhouse.com
+gamekeystore.net
+elitekeys.com
+steampowered.com
+cdkeys.com.au (easiest)
+
+
+https://www.lasenza.com/ (.co.uk ships to UK, and does have vbv or msc)
+Same bill+ship (Your drop address)
+Does NOT have vbv or msc
+Shipping to USA, and UK if using the co.uk domain
+(for ladies, this is basically same quality as victoria secret)
+
+https://www.agentprovocateur.com/ (This is basically the LV of women lingerie in the UK, you can card gift vouchers and sell for profit on eBay or local marketplace. - Use EU non-vbv/msc for best results)
+Same bill+ship (Your drop address)
+Does HAVE vbv and msc
+Shipping Worldwide
+
+https://www.ryanair.com/en (flight booking)
+Cardholder billing + traveler name/details
+Does NOT have vbv or msc
+Use EU CCV for best result
+
+www.yancor.com (Mens fashion/designer clothes.)
+Pay through PayPal without VBV/MSC. Or through Skrill with VBV/MSC bypass with AMEX.
+Use billing same as Card holder, sock5/vpn match country of card.
+Recommended use Poland card`)
+                  }
+					
+		if (budy.includes(`/sitios sms`)) {
+                  reply(`🔰 SITIOS HQ PARA VERIFICACIÓN DE SMS DE BYPASS 🔰
+
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ ᴀɴ sᴍs: https://receive-a-sms.com/
+ Ⓜ️sᴍs ʀᴇᴄᴇɪᴠᴇ ғʀᴇᴇ: https://smsreceivefree.com/
+ Ⓜ️ᴏɴʟɪɴᴇ sᴍs: https://sms-online.co/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ: https://smsreceiveonline.com/
+ Ⓜ️ɢᴇᴛ ᴀ ғʀᴇᴇ sᴍs ɴᴜᴍʙᴇʀ: https://getfreesmsnumber.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs: http://sms-receive.net/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ.ɴᴇᴛ: https://www.receivesmsonline.net/
+ Ⓜ️ғʀᴇᴇ sᴍs ᴄʜᴇᴄᴋs: http://www.freesmsverifications.com/
+ Ⓜ️7 sɪᴍ.ɴᴇᴛ: http://7sim.net
+ Ⓜ️ʜs3x: http://hs3x.com
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ ғʀᴇᴇ sᴍs: http://receivefreesms.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ ғʀᴇᴇ sᴍs.ɴᴇᴛ: http://receivefreesms.net/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ.ɪɴ: http://receivesmsonline.in/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ: https://receive-sms-online.com/
+ Ⓜ️sᴇᴇ sᴍs: https://www.smsver.com/
+ Ⓜ️ɢʀᴏᴏᴠʟ: https://www.groovl.com/
+ Ⓜ️sᴍs.sᴇʟʟᴀɪᴛᴇ: http://sms.sellaite.com/
+ Ⓜ️sᴇɴᴅ sᴍs ɴᴏᴡ: http://www.sendsmsnow.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ.ᴇᴜ: http://receivesmsonline.eu/
+ Ⓜ️ᴘʀᴏᴏᴠʟ: https://www.proovl.com/numbers
+ Ⓜ️ᴀɴᴏɴ sᴍs: https://anon-sms.com/
+ Ⓜ️ʜɪᴅᴇ ᴍʏ ɴᴜᴍʙᴇʀs: http://hidemynumbers.com/
+ Ⓜ️ᴘɪɴɢᴇʀ: https://www.pinger.com/
+ Ⓜ️ғʀᴇᴇ ᴏɴʟɪɴᴇ ᴘʜᴏɴᴇ: https://www.freeonlinephone.org/
+ Ⓜ️5sɪᴍ: https://5sim.net/
+ Ⓜ️sᴋʏᴄᴀʟʟʙᴅ ғʀᴇᴇ ᴠɪʀᴛᴜᴀʟ ɴᴜᴍʙᴇʀ: http: //www.freevirtu...r.skycallbd.com/
+ Ⓜ️ᴄᴀᴘᴛᴜʀᴇ sᴍs: https://catchsms.com/
+ Ⓜ️sᴍs ɢᴇᴛ: http://smsget.net
+ Ⓜ️1s2ᴜ: https://1s2u.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs: http://getsms.org/
+ Ⓜ️ᴠʀɪᴛᴛʏ: https://virtty.com/
+ Ⓜ️ᴛᴇxᴛ ᴀɴʏᴡʜᴇʀᴇ: http://www.textanywhere.net/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ.ᴍᴇ: http://receivesmsonline.me/
+ Ⓜ️ᴛᴇᴍᴘᴏʀᴀʀʏ ᴇᴍᴀɪʟs: https://www.temp-mails.com/
+ Ⓜ️ᴘᴜʀᴄʜᴀsᴇ ᴠɪʀᴛᴜᴀʟ ɴᴜᴍʙᴇʀ: http://www.virtualnumberbuy.com/
+ Ⓜ️ғʀᴇᴇ ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ: http://freereceivesmsonline.com/
+ Ⓜ️ɴᴅᴛᴀɴ sᴍs: https://sms.ndtan.net/
+ Ⓜ️sᴍs ʟɪsᴛᴇɴ: https://smslisten.com/
+ Ⓜ️ғʀᴇᴇ ᴠɪʀᴛᴜᴀʟ sᴍs ɴᴜᴍʙᴇʀ: https://freevirtualsmsnumber.com/
+ Ⓜ️sᴍs ᴛɪʙᴏ: https://smstibo.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ɴᴜᴍʙᴇʀ: https://receivesmsnumber.com/
+ Ⓜ️ғʀᴇᴇ sᴍs ᴄᴏᴅᴇ: https://freesmscode.com/
+ Ⓜ️ᴏɴʟɪɴᴇ sᴍs ɴᴜᴍʙᴇʀs: https://smsnumbersonline.com/
+ Ⓜ️sᴍs ʀᴇᴄᴇᴘᴛɪᴏɴ: https: //smsreceiving.com
+ Ⓜ️ᴛʀᴀsʜ ᴍᴏʙɪʟᴇ https://es.mytrashmobile.com/nu`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
