@@ -4813,7 +4813,7 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 ➯ ʙɪɴs ᴊᴀʟᴀɴᴅᴏ ғᴜʟʟ...
 ➯ ᴛᴜᴛᴏʀɪᴀʟ: https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 ➯ ᴄʜᴀɴɴᴇʟ: https://t.me/joinchat/2xJmxMcHVW9lMDdh
-➯ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/JyMfpGJIvZOFeOQs4bu1te
+➯ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/BDbc6xaTFEZ5zvgT8yH2Bl
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
