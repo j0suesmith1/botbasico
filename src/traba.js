@@ -1,4 +1,4 @@
-const virtex = (prefix, pushname) => {
+const traba = (prefix, pushname) => {
 	return `Te comistes el troleo 🤙🤪
 
 
@@ -2294,4 +2294,4 @@ const virtex = (prefix, pushname) => {
 *9999999* *ผิดุท้่เึางืผิดุท้่เึางื*`
 }
 
-exports.virtex = virtex
+exports.traba = traba
