@@ -11,12 +11,8 @@ const version = (prefix, pushname) => {
 
 ᴇɴ ᴄᴀꜱᴏ ᴅᴇ ɴᴏ ꜰᴜɴᴄɪᴏɴᴀʀ ᴀʟɢᴜɴ ᴄᴏᴍᴀɴᴅᴏ, ᴄᴏᴍᴜɴɪᴄᴀᴛᴇ ᴄᴏɴᴍɪɢᴏ ᴜꜱᴀɴᴅᴏ /ᴄʀᴇᴀᴅᴏʀ :3
 
-
-*BLOG DE SHANBOT*
-
-https://cutt.ly/jmSF2RN
-
-ву ѕнαη∂υу
+ɢʀᴜᴘᴏ ᴏғɪᴄɪᴀʟ: https://chat.whatsapp.com/BDbc6xaTFEZ5zvgT8yH2Bl
+ɢʀᴜᴘᴏ ᴅᴇ ʀᴇsᴘᴀʟᴅᴏ: https://chat.whatsapp.com/BzgUt8vXcu56WUa67lo0fX
 `
 
 }
