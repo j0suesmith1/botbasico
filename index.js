@@ -4286,6 +4286,64 @@ Escribir la puerta de enlace del router al que estas conectado, ejemplo:
 
 Seleccionar la opción número "3" y pulsar enter`)
                   }
+					
+		if (budy.includes(`/grupo oficial`)) {
+                  reply(`◾️Bineria Universal - Grupo Oficial
+
+◾️Contenido: Carding - Binning
+
+◽Bins
+◽Lives
+◽Métodos
+◽Tutoriales
+◽Cosas Extras
+
+◾️Aprenderás A Sacar Todo Tipo De Cuentas
+
+◽Disney+
+◽HboMax
+◽Stars+
+◽Paramount+
+◽Acorntv
+◽Prime Video
+◽Netflix (aveces)
+◽Crunchyroll
+◽Funimation
+◽Hulu
+◽Spotify
+◽Deezer
+◽Napster
+◽Tidal
+◽Twitch
+◽IpVanish
+◽Open English
+◽Duolingo Plus
+◽Onlyfans
+◽NordVpn
+◽ExpressVpn
+◽Fanatiz
+◽FútboTv
+◽Apple Music
+◽PayPal
+◽Canva
+◽TunnelBear
+◽Hootsuite
+◽Noggin
+
+◾️Link: https://chat.whatsapp.com/BDbc6xaTFEZ5zvgT8yH2Bl
+
+◾️Nota:
+
+◽El Grupo Se Creo con La Intención De Compartir Conocimiento,Métodos y Bins Funcionales.
+
+◽No Enlaces - Spam - Presumir.
+
+◽Contamos Con Un Bot De Autoayuda.
+
+◽También sorteamos Números Para WhatsApp y Cuentas Premiun.
+
+◽Porfavor Respetar Las Reglas Del Grupo y Disfrutar Tu Estadía.`)
+                  }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
