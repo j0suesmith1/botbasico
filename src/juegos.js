@@ -1,20 +1,37 @@
-const juegos = (prefix, pushname) => {
+const help3 = (prefix, pushname) => {
     return `
-*Comandos De Juegos 👾*
- 
-${prefix}rankgay
-Conoce a el top de los mas gays del grupo
-
-${prefix}gay
-Conoce que tan gay eres 😎
-
-${prefix}cuties
-Prueba tu suerte en el medidor de fan de cuties 😱
-
-_*En futuras versiones colocare mas juegos :)*_
-     
-ву ѕнαη∂υу`
+┏━━━➴ꦿ𝗝𝗼𝘀𝗲𝗽𝗵 𝗕𝗼𝘁 𝗩6
+┃
+┃╭╮╮╱▔▔▔▔╲╭╭╮ 
+┃╰╲╲▏▂╲╱▂▕╱╱╯
+┃┈┈╲▏▇▏▕▇▕╱┈┈
+┃┈┈╱╲▔▕▍▔╱╲┈┈ 
+┃╭╱╱▕╋╋╋╋▏╲╲╮
+┃╰╯╯┈╲▂▂╱┈╰╰
+┃
+┃⛧ Introducción Bins
+┃⛧ Crear Cuentas Con Bins
+┃⛧ Encontrar Un Bin
+┃⛧ Verificar Un Bin
+┃⛧ Sacar Lives Manuales
+┃⛧ Sacar Cuentas Autopagables
+┃⛧ Crear Cuentas Sin Bins
+┃⛧ Carding Limite
+┃⛧ Paginas Cardeables
+┃⛧ Paginas SMS
+┃⛧ VPN Hackeadas
+┃⛧ Navegadores Privados
+┃⛧ Checker Gratis
+┃⛧ Metodos
+┃⛧ Gen 109
+┃⛧ Group
+┃⛧ Plataformas Para Calar
+┃⛧ APK Binero
+┃⛧ BINS
+┃⛧ Bonus
+┃
+┗━━━❰̤̤፝ۜ֟͜͜͡😼️̤̤̤፝ۜ֟͜͜͡❱NO SPAM❰̤̤፝ۜ֟͜͜͡😼️̤̤̤፝ۜ֟֟͜͜͡❱`
 
 }
 
-exports.juegos = juegos
+exports.help3 = juegos
