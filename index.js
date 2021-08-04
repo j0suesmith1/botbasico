@@ -494,7 +494,7 @@ async function starts() {
 		client.sendMessage(from, shantera(prefix, sender), text, {quoted: mek})
 		break
 					
-		/*case 'virtex':
+		/*case 'traba':
 	       case 'troleo':
                client.sendMessage(from, virtex(prefix, sender), text, {quoted: mek})
                break*/
@@ -537,19 +537,6 @@ async function starts() {
 						client.groupMakeAdmin(from, mentioned)
 					}
 					break
-		case 'neon':
-if (!q) return reply('*Y el texto para crear el logo donde esta?*')
-reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${q}!*`)		
-logo = `https://api.zeks.xyz/api/bneon?apikey=apivinz&text=${q}`
-sendFileFromUrl(logo, image, {quoted: fimg, caption: '*🔥 Logos By Joseph 🔥*', sendEphemeral: true})
-break
-					case 'matrix':
-if (!q) return reply('*Y el texto para crear el logo donde esta?*')
-reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${q}!*`)		
-logo = `https://api.zeks.xyz/api/matrix?apikey=apivinz&text=${q}`
-sendFileFromUrl(logo, image, {quoted: fimg, caption: '*🔥 𝘓𝘰𝘨𝘰𝘴 𝘉𝘺 𝘚𝘢𝘮𝘶𝟥𝟥𝟢 🔥*', sendEphemeral: true})
-break
-
 /******JUEGOS SHANDUY LA PUTA MADRE NO TE OLVIDES******/
 					
 case 'gay':
@@ -841,7 +828,7 @@ break
 						fs.writeFileSync('./src/antilink.json', JSON.stringify(antilink))
 						reply('❬ ✅ ❭ La funcion de antilink esta deshabilitada en este grupo')
 					} else {
-						reply('Coloque *antimenu para ver los comandos')
+						reply('Coloque /help para ver los comandos')
 					}
 					break
 			        case 'linkgroup':
@@ -1317,53 +1304,8 @@ break
 						fs.unlinkSync(rano)
 					})
 					break
-			case 'apk binero':
-case 'apk binero':
-case 'apk binero':
-result = fs.readFileSync(`./media/Bineria Universal.apk`)
-samu330.sendMessage(from, result, document, {
-mimetype: 'application/vnd.android.package-archive', filename: 'Bineria Universal', quoted: fdoc})
-reply(`🍟 Nuevas Funciones Añadidas 🍟
-
-♻️ Los Mejores cc Generadores
-♻️ Varios Correos Temporales
-♻️ Generador De Identidad Falsa
-♻️ Generador De Cuentas Premiun
-♻️ Script Funcionales Para Termux
-
-📥 Introducción Al Tema Bins
-
-🛃 Aprenderas A Sacar Todo Tipo De Cuentas [Free Trials] En Video. Alguna De Estas Son 👇
-
-🇧🇷 Napster Premiun
-🇧🇷 Duolingo Plus
-🇧🇷 Utomik Premiun
-🇧🇷 NamechapVPN Premiun
-🇧🇷 Disney Plus
-🇧🇷 Blim TV
-🇧🇷 Pandora
-🇧🇷 Scribd
-🇧🇷 Canva Pro
-🇧🇷 History Vault
-🇧🇷 Spotify Premiun
-🇧🇷 Prime Video
-🇧🇷 Flix Olé
-🇧🇷 AviraVPN
-🇧🇷 Prime Video
-🇧🇷 Noggin
-🇧🇷 Dropbox
-🇧🇷 Deezer
-🇧🇷 21Naturals
-🇧🇷 Eset Antivirus
-🇧🇷 Microsoft 365
-
-📬 Esto y Mucho Más Disponible Aqui 👇
-
-https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
-
-
-🛑 Nuestra Aplicación Esta Libre De Virus, Es Solo APK,Puedes Subir El Archivo A Un Scanner de Virus.`)
-break
+					
+					
                 default:
                 if (budy.includes(`/que es un bin`)) {
                   reply(`PARA LOS QUE NO SABEN HACER CUENTAS....ESTE ES UN TUTORIAL TEÓRICO PARA QUE SEPAN A LO QUE SE ESTAN METIENDO.
@@ -1846,7 +1788,7 @@ Iba a utilizar Napster para enseñarles, pero Alemania fue baneada de sus servid
 [✓] La interfaz de la pagina es bastante intuitiva,fácil de entender y usarla.`)
                   }
                  
-		if (budy.includes(`/carding limite`)) {
+		if (budy.includes(`/carding límite`)) {
                   reply(`Tutorial Carding Avanzado
 
 Necesitas dinero para ganar dinero. Simple y claro.
@@ -2939,7 +2881,7 @@ Bueno Geys espero les haya servido esta breve introducción recuerda que si quie
 💎 Cortesia de: @BineriaUniversal`)
                   }
 					
-		if (budy.includes(`/introduccion carding`)) {
+		if (budy.includes(`/introducción carding`)) {
                   reply(`Bueno aprovechando que el amigo SP3L1N4X  dejo una pequeña introduccion al Carding
 
 Manual de Carding
@@ -4818,6 +4760,49 @@ https://www.elfqrin.com/discard_credit_card_generator.php?fbclid=IwAR0UT1x-eMDGg
 98 INSTAGRAM
 99 PORHUB
 100 BRAZZERS`)
+                  }
+					
+		if (budy.includes(`/apk binero`)) {
+                  reply(`🍟 Nuevas Funciones Añadidas 🍟
+
+♻️ Los Mejores cc Generadores
+♻️ Varios Correos Temporales
+♻️ Generador De Identidad Falsa
+♻️ Generador De Cuentas Premiun
+♻️ Script Funcionales Para Termux
+
+📥 Introducción Al Tema Bins
+
+🛃 Aprenderas A Sacar Todo Tipo De Cuentas [Free Trials] En Video. Alguna De Estas Son 👇
+
+🇧🇷 Napster Premiun
+🇧🇷 Duolingo Plus
+🇧🇷 Utomik Premiun
+🇧🇷 NamechapVPN Premiun
+🇧🇷 Disney Plus
+🇧🇷 Blim TV
+🇧🇷 Pandora
+🇧🇷 Scribd
+🇧🇷 Canva Pro
+🇧🇷 History Vault
+🇧🇷 Spotify Premiun
+🇧🇷 Prime Video
+🇧🇷 Flix Olé
+🇧🇷 AviraVPN
+🇧🇷 Prime Video
+🇧🇷 Noggin
+🇧🇷 Dropbox
+🇧🇷 Deezer
+🇧🇷 21Naturals
+🇧🇷 Eset Antivirus
+🇧🇷 Microsoft 365
+
+📬 Esto y Mucho Más Disponible Aqui 👇
+
+https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
+
+
+🛑 Nuestra Aplicación Esta Libre De Virus, Es Solo APK,Puedes Subir El Archivo A Un Scanner de Virus.`)
                   }
        if (budy.startsWith(`:v`)) {
         const none = fs.readFileSync('./mp3/viejo1.mp3');
