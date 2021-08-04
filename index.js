@@ -5013,20 +5013,20 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Yo Te Quiero Dar.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp3', ptt:true})
                   }
-	if (budy.startsWith(`La toca 7w7`)) {
-        const none = fs.readFileSync('./anishan/anime5.mp3');
+	if (budy.startsWith(`/explicito`)) {
+        const none = fs.readFileSync('./mp3/Explicito.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Quien es tu sempai botsito`)) {
-        const none = fs.readFileSync('./anishan/anime4.mp3');
+	if (budy.startsWith(`/cradles`)) {
+        const none = fs.readFileSync('./mp3/Cradles.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Me gimes 7u7`)) {
-        const none = fs.readFileSync('./anishan/anime3.mp3');
+	if (budy.startsWith(`/deep end`)) {
+        const none = fs.readFileSync('./mp3/Deep End.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Te amo botsito uwu`)) {
-        const none = fs.readFileSync('./anishan/anime2.mp3');
+	if (budy.startsWith(`/toco de lacoste`)) {
+        const none = fs.readFileSync('./mp3/Todo De Lacoste.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`Onichan`)) {
