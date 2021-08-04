@@ -1,18 +1,15 @@
 const version = (prefix, pushname) => {
     return `
-*ѕнαηвσт ву ѕнαη∂υу*
+*ᴊᴏꜱᴇᴘʜ ʙᴏᴛ*
 
-*Actualizado:* 25 de julio de 2021
-*Versión actual:* 3.2
-*Ofrecida por:* ѕнαη∂υу™
+*ᴀᴄᴛᴜᴀʟɪᴢᴀᴅᴏ:* 10 ᴅᴇ ᴀɢᴏꜱᴛᴏ ᴅᴇ 2021
+*ᴠᴇʀꜱɪᴏɴ ᴀᴄᴛᴜᴀʟ:* 10.1
+*ᴏꜰʀᴇᴄɪᴅᴀ ᴘᴏʀ:* ᴊᴏꜱᴇᴘʜ
 
 
-*INFORME*
+*ɴᴏᴛᴀ*
 
-Si no funciona el comando *play o *play2 checa el blog del bot y mira la version que poses 
-Ya que ire cambiando mi apikey de mi bot para que siga en funcionamiento
-Cambiare la apikey pasando un mes o si veo muchos atercados o robos
-Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
+ᴇɴ ᴄᴀꜱᴏ ᴅᴇ ɴᴏ ꜰᴜɴᴄɪᴏɴᴀʀ ᴀʟɢᴜɴ ᴄᴏᴍᴀɴᴅᴏ, ᴄᴏᴍᴜɴɪᴄᴀᴛᴇ ᴄᴏɴᴍɪɢᴏ ᴜꜱᴀɴᴅᴏ /ᴄʀᴇᴀᴅᴏʀ :3
 
 
 *BLOG DE SHANBOT*
