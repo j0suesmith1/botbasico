@@ -63,7 +63,7 @@ const { desmenu } = require('./src/desmenu')
 const { version } = require('./src/version')
 const { juegos } = require('./src/juegos')
 const { shantera } = require('./src/shantera')
-const { antimenu } = require('./src/antimenu')
+const { help2 } = require('./src/antimenu')
 const { welmenu } = require('./src/welmenu')
 const { otak } = require('./src/otak')
 /*const { mediamenu } = require('./database/menu/mediamenu')
@@ -3287,62 +3287,7 @@ Michael domina`)
 ...ɴᴏ ᴘᴇᴅɪʀ ᴇʟ ᴍɪꜱᴍᴏ ᴄᴏᴍᴀɴᴅᴏ ᴀ ᴄᴀᴅᴀ ʀᴀᴛᴏ, ᴇꜱ ᴜɴ ᴘᴏᴄᴏ ʟᴇɴᴛᴏ -_-`)
                   }
 			
-	if (budy.includes(`/menu Termux`)) {
-                  reply(`⊱✦•𝑴𝑬𝑵𝑼 𝑫𝑬𝑳 𝑩𝑶𝑻⸙۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪ࣤ
- 
-╭┅┅┅ⒸⓄⓂⒶⓃⒹⓄⓈ┅┅┅🌐
-┋
-┋ routersploit
-┋ infoga
-┋ beef
-┋ ngrok
-┋ phoneinfoga
-┋ fotosploit
-┋ sqlmap
-┋ bingen
-┋ socialsploit
-┋ tool-x
-┋ grabscam
-┋ hammer
-┋ kali-nethunter
-┋ cupp
-┋ infectador-framework
-┋ evil-create-framework
-┋ weeman
-┋ fuerza bruta facebook
-┋ wiki-termux
-┋ t-phish
-┋ red_hawk
-┋ doxweb
-┋ recon-spider
-┋ fsociety
-┋ fbi
-┋ seeker
-┋ aiophish
-┋ funlett
-┋ termux-ubuntu
-┋ ip-tracer
-┋ scorpfish v2
-┋ golismero
-┋ angryfuzzer
-┋ recon-dog
-┋ darkfly-tool
-┋ sherlock
-┋ evilurl
-┋ falsify
-┋ syso-termux
-┋ kickthemoutprojet
-┋
-┋ 💎 NOTA:
-
-┋
-┋ Use los scripts con sabiduria!
-
-┋ Queda bajo su propio criterio
-┋ 
-╰┅┅ⒿⓄⓈⒺⓅⒽ ⒷⓄⓉ┅┅🐊`)
-                  }
-			
+					
 	if (budy.includes(`/routersploit`)) {
                   reply(`📱¿Que es RouterSploit?📱
 
