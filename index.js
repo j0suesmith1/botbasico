@@ -5009,7 +5009,7 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️`)
                   }
-       if (budy.startsWith(`?`)) {
+       if (budy.startsWith(`/te quiero dar`)) {
         const none = fs.readFileSync('./mp3/Yo Te Quiero Dar.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
