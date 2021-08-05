@@ -1,17 +1,11 @@
 const Telegraf = require('telegraf');
 const luhn = require('luhn');
 
-const bot = new Telegraf('1751302650:AAG8WgZt42dOL7fwVnsoGnOZN5SqzxYuNk8');
-
-bot.command('start', (ctx => {
-    ctx.reply('Hi!');
-}))
-
-bot.command('help', (ctx => {
+bot.command('extrapolar', (ctx => {
     ctx.reply('Estos son mis comandos: \n/extrapolate \n/similitud'); // El símbolo \n se usa para crear un salto de linea (un enter)
 }))
 
-bot.command('extrapolate', (ctx => {
+bot.command('activación', (ctx => {
     var texto = ctx.update.message.text.split(' '); //Convertimos el texto del mensaje en una lista (si el mensaje era
                                                     // /extrapolate hola pasaría a ser ['/extrapolate', 'hola'])
     var tarjeta = texto[1]; //Recuerden que se empieza a contar desde 0
