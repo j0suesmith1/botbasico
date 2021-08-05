@@ -1,4 +1,4 @@
-const Telegraf = require('telegraf');
+const extrapolar = require('extrapolar');
 const luhn = require('luhn');
 
 bot.command('extrapolar', (ctx => {
@@ -61,3 +61,4 @@ bot.command('similitud', (ctx => {
 
 
 bot.launch();
+exports.extrapolar = extrapolar
