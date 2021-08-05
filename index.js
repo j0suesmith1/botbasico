@@ -5092,8 +5092,8 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Black Lance.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Paraguayo`)) {
-        const none = fs.readFileSync('./mp3/gaspi11.mp3');
+	if (budy.startsWith(`/te vas`)) {
+        const none = fs.readFileSync('./mp3/Te Vas.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`?`)) {
