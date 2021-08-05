@@ -1,4 +1,4 @@
-const help2 = (prefix, pushname) => {
+const menutermux = (prefix, pushname) => {
     return `
 ⊱✦•𝑴𝑬𝑵𝑼 𝑫𝑬𝑳 𝑩𝑶𝑻⸙۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪۪ࣤ
  
@@ -57,4 +57,4 @@ const help2 = (prefix, pushname) => {
 
 }
 
-exports.help2 = help2
+exports.menutermux = menutermux
