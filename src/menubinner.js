@@ -1,4 +1,4 @@
-const help3 = (prefix, pushname) => {
+const menubinner = (prefix, pushname) => {
     return `
 ┏━━━➴ꦿ𝗝𝗼𝘀𝗲𝗽𝗵 𝗕𝗼𝘁 𝗩6
 ┃
@@ -30,4 +30,4 @@ const help3 = (prefix, pushname) => {
 
 }
 
-exports.help3 = help3
+exports.menubinner = menubinner
