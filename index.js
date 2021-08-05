@@ -5088,8 +5088,8 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Death Bed.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Pasen sexo`)) {
-        const none = fs.readFileSync('./mp3/fernan.mp3');
+	if (budy.startsWith(`/black lance`)) {
+        const none = fs.readFileSync('./mp3/Black Lance.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`Paraguayo`)) {
