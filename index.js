@@ -64,8 +64,6 @@ const { version } = require('./src/version')
 const { menubinner } = require('./src/menubinner')
 const { shantera } = require('./src/shantera')
 const { welmenu } = require('./src/welmenu')
-const { luhn } = require('./src/luhn')
-const { extrapolar } = require('./src/extrapolar')
 /*const { mediamenu } = require('./database/menu/mediamenu')
 const { educationmenu } = require('./database/menu/educationmenu')
 const { downloadermenu } = require('./database/menu/downloadermenu')
@@ -5066,7 +5064,7 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 ┋ 
 ╰┅┅ⒿⓄⓈⒺⓅⒽ ⒷⓄⓉ┅┅🐊`)
                   }
-       if (budy.startsWith(`/te quiero dar`)) {
+       if (budy.startsWith(`/yo te quiero dar`)) {
         const none = fs.readFileSync('./mp3/Yo Te Quiero Dar.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
