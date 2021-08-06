@@ -5100,16 +5100,16 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Deejaymixx.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Gaspi corte`)) {
-        const none = fs.readFileSync('./mp3/gaspi12.mp3');
+	if (budy.startsWith(`/freak`)) {
+        const none = fs.readFileSync('./mp3/Freak.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Gaspi buenos dias`)) {
-        const none = fs.readFileSync('./mp3/gaspi13.mp3');
+	if (budy.startsWith(`/aire`)) {
+        const none = fs.readFileSync('./mp3/Aire.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Enano`)) {
-        const none = fs.readFileSync('./mp3/gaspi14.mp3');
+	if (budy.startsWith(`/insultame`)) {
+        const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`Buenas noches`)) {
@@ -5128,12 +5128,12 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/sombare12.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-        if (budy.startsWith(`Calefon`)) {
-        const none = fs.readFileSync('./mp3/sombare11.mp3');
+        if (budy.startsWith(`putos`)) {
+        const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`Bot de mierda`)) {
-        const none = fs.readFileSync('./mp3/sombare10.mp3');
+        const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`Apurate bot`)) {
