@@ -87,7 +87,7 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'VERSION:3.0\n' 
             + 'FN:Joseph\n' // Nombre
             + 'ORG:Joseph;\n' // Propietario
-            + 'TEL;type=CELL;type=VOICE;waid=51961361181:+51 961 361 181\n' // ID de WhatsApp + número de teléfono
+            + 'TEL;type=CELL;type=VOICE;waid=58269240516:+58 269-2404516\n' // ID de WhatsApp + número de teléfono
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
@@ -259,7 +259,7 @@ async function starts() {
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
-				teks = `ADIOS @${num.split('@')[0]}👋\n\nLa proxima ves que regresas te matamosss ☠`
+				teks = `ADIOS @${num.split('@')[0]}👋\n\nNadie te extrañará kk`
 				client.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}})
 			}
 		} catch (e) {
@@ -378,7 +378,7 @@ async function starts() {
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Adios kk 😂👋")
+			reply("Adios ojala nunca regreses 😂👋")
 		}, 0)
 	}
 		
@@ -492,7 +492,7 @@ async function starts() {
 		client.sendMessage(from, shantera(prefix, sender), text, {quoted: mek})
 		break
 					
-		/*case 'traba':
+		/*case 'virtex':
 	       case 'troleo':
                client.sendMessage(from, traba(prefix, sender), text, {quoted: mek})
                break*/
@@ -763,14 +763,14 @@ break
 					}, 2000)
                      setTimeout( () => {
 					client.updatePresence(from, Presence.composing) 
-					client.sendMessage(from, 'Chao Pana 👋', text) // ur cods
+					client.sendMessage(from, 'Adios, Ojala no regreses 👋', text) // ur cods
 					}, 0)
                      break
        /*case 'ownergrup':
 				  case 'ownergroup':
                client.updatePresence(from, Presence.composing) 
               options = {
-          text: `El NEFASTO de este grupo es :@${from.split("-")[0]}`, 
+          text: `El Dueño de este grupo es :@${from.split("-")[0]}`, 
           contextInfo: { mentionedJid: [from] }
            }
            client.sendMessage(from, options, text, { quoted: mek } )
@@ -2726,7 +2726,7 @@ Contactenos a la siguiente dirección de correo electrónico si necesita ayuda o
 Microsoft_Outlook@hotmail.com`)
                   }
 					
-		if (budy.includes(`/introduccion bins`)) {
+		if (budy.includes(`/introducción bins`)) {
                   reply(`📢 INTRODUCCION BINS ✅
 
 🔱 PRIMERO QUE NADA DEBEMOS SABER CADA COSA QUE VAMOS USAR OK.
