@@ -5064,6 +5064,36 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 ┋ 
 ╰┅┅ⒿⓄⓈⒺⓅⒽ ⒷⓄⓉ┅┅🐊`)
                   }
+					
+		if (budy.includes(`/menubinner`)) {
+                  reply(`┏━━━➴ꦿ𝗝𝗼𝘀𝗲𝗽𝗵 𝗕𝗼𝘁 𝗩6
+┃
+┃╭╮╮╱▔▔▔▔╲╭╭╮ 
+┃╰╲╲▏▂╲╱▂▕╱╱╯
+┃┈┈╲▏▇▏▕▇▕╱┈┈
+┃┈┈╱╲▔▕▍▔╱╲┈┈ 
+┃╭╱╱▕╋╋╋╋▏╲╲╮
+┃╰╯╯┈╲▂▂╱┈╰╰
+┃
+┃⛧ introducción bins
+┃⛧ crear cuentas con bins
+┃⛧ Crear cuentas sin bins
+┃⛧ encontrar un bin
+┃⛧ verificar un bin
+┃⛧ sitios lives manuales
+┃⛧ introducción carding
+┃⛧ sitios cardeables
+┃⛧ sitios sms
+┃⛧ vpn hackeadas
+┃⛧ navegadores privados
+┃⛧ tools binX
+┃⛧ tools binY
+┃⛧ plataformas para calar
+┃⛧ apk binero
+┃⛧ bins today
+┃
+┗━━━❰̤̤፝ۜ֟͜͜͡😼️̤̤̤፝ۜ֟͜͜͡❱NO SPAM❰̤̤፝ۜ֟͜͜͡😼️̤̤̤፝ۜ֟֟͜͜͡❱``)
+                  }
        if (budy.startsWith(`/yo te quiero dar`)) {
         const none = fs.readFileSync('./mp3/Yo Te Quiero Dar.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
