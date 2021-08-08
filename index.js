@@ -61,7 +61,6 @@ const { menuadmin } = require('./src/menuadmin')
 const { nsfwmenu } = require('./src/nsfwmenu')
 const { desmenu } = require('./src/desmenu')
 const { version } = require('./src/version')
-const { menubinner } = require('./src/menubinner')
 const { shantera } = require('./src/shantera')
 const { welmenu } = require('./src/welmenu')
 /*const { mediamenu } = require('./database/menu/mediamenu')
@@ -255,11 +254,11 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `Hola @${num.split('@')[0]}\nBienvenid@ a *${mdata.subject}* Gracias por unirte a la familia 🤗\n\nPara utilizar el bot registrate con el comando ${prefix}daftar y tu nombre\n\nPara ver los demas comandos utiliza ${prefix}help\n\nOjito con el spam ☠\n\n`
+				teks = `Hola @${num.split('@')[0]}\nBienvenid@ a ${mdata.subject} Gracias por unirte a la familia 🤗\n\nEsperamos que te la pases a gusto en este grupo ✨\n\nRecuerda siempre seguir las reglas y mantener una formalidad respetuosa 😉\n\nPara utilizar al bot registrate con el comando ${prefix}daftar y tu nombre\n\nPara ver los demás comandos utiliza ${prefix}help\n\n`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
-				teks = `ADIOS @${num.split('@')[0]}👋\n\nNadie te extrañará kk`
+				teks = `NI MODO 🥱 @${num.split('@')[0]} ADIOS KK 👋\n\nOjala le baya bien, y más despues..... que lo atropelle un tren!!🚉🤣`
 				client.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}})
 			}
 		} catch (e) {
@@ -378,7 +377,7 @@ async function starts() {
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Adios ojala nunca regreses 😂👋")
+			reply("ADIÓS OJALÁ NO TE VUELVA A VER MÁS KK 😂👋")
 		}, 0)
 	}
 		
@@ -763,7 +762,7 @@ break
 					}, 2000)
                      setTimeout( () => {
 					client.updatePresence(from, Presence.composing) 
-					client.sendMessage(from, 'Adios, Ojala no regreses 👋', text) // ur cods
+					client.sendMessage(from, 'ADIOS 👋👋👋', text) // ur cods
 					}, 0)
                      break
        /*case 'ownergrup':
@@ -784,14 +783,14 @@ break
 					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Marca al que vamos a funar')
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					if (mentioned.length > 1) {
-						teks = 'Pedido recibido, adios no te extrañaremos kk 👋 :\n'
+						teks = 'Pedido recibido con éxito, espero no verte otra ves por acá 🤮 :\n'
 						for (let _ of mentioned) {
 							teks += `@${_.split('@')[0]}\n`
                                                 }
 						mentions(teks, mentioned, true)
 						client.groupRemove(from, mentioned)
 					} else {
-						mentions(`Pedido recibido con éxito, adiós no te extrañaremos kk 👋 : @${mentioned[0].split('@')[0]}`, mentioned, true)
+						mentions(`Pedido recibido con éxito, espero no verte otra ves por acá 🤮 : @${mentioned[0].split('@')[0]}`, mentioned, true)
 						client.groupRemove(from, mentioned)
 					client.sendMessage(mentioned, 'Chao puta gorda', text)
 					}
