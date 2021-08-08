@@ -86,7 +86,7 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'VERSION:3.0\n' 
             + 'FN:Joseph\n' // Nombre
             + 'ORG:Joseph;\n' // Propietario
-            + 'TEL;type=CELL;type=VOICE;waid=58269240516:+58 269-2404516\n' // ID de WhatsApp + número de teléfono
+            + 'TEL;type=CELL;type=VOICE;waid=582692404514:+58 269-2404514\n' // ID de WhatsApp + número de teléfono
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
