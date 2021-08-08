@@ -5023,7 +5023,7 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 ╰┅┅ⒿⓄⓈⒺⓅⒽ ⒷⓄⓉ┅┅🐊`)
                   }
 					
-		if (budy.includes(`/menubinner`)) {
+		if (budy.includes(`/menubinero`)) {
                   reply(`┏━━━➴ꦿ𝗝𝗼𝘀𝗲𝗽𝗵 𝗕𝗼𝘁 𝗩6
 ┃
 ┃╭╮╮╱▔▔▔▔╲╭╭╮ 
@@ -5084,7 +5084,7 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`?`)) {
-        const none = fs.readFileSync('./mp3/Deejaymixx.mp3');
+        const none = fs.readFileSync('./mp3/Volver A Verte.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`/freak`)) {
@@ -5099,12 +5099,48 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Buenas noches`)) {
-        const none = fs.readFileSync('./mp3/gaspi15.mp3');
+	if (budy.startsWith(`te robare tu numero`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Alto temazo`)) {
-        const none = fs.readFileSync('./mp3/sombare14.mp3');
+	if (budy.startsWith(`te robare tu número`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+	if (budy.startsWith(`te mandare a soporte`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+	if (budy.startsWith(`te dejare sin wasap`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+	if (budy.startsWith(`te dejare sin whatsapp`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+	if (budy.startsWith(`atacare tu grupo`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+	if (budy.startsWith(`atacaré tu grupo`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+	if (budy.startsWith(`reportare tu numero`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+	if (budy.startsWith(`reportaré tu numero`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+		  if (budy.startsWith(`reportare tu número`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+		  if (budy.startsWith(`lammer`)) {
+        const none = fs.readFileSync('./mp3/maton.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
         if (budy.startsWith(`Bot puto`)) {
@@ -5123,7 +5159,7 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Apurate bot`)) {
+	if (budy.startsWith(`bot gey`)) {
         const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }			
@@ -5135,8 +5171,8 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-		if (budy.startsWith(`chica lgante`)) {
-        const none = fs.readFileSync('./mp3/chica lgante.mp3');
+		if (budy.startsWith(`ª`)) {
+        const none = fs.readFileSync('./mp3/Nunca Me Amo.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 				if (isGroup && isSimi && budy != undefined) {
