@@ -143,10 +143,5 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 
 
 
-## Y Listo Ya Estara En Funcionamiento. Espero Te Alla Ayudado :)
-
-
-
-## by shanduy
-
+## Y Listo Ya Estara En Funcionamiento.
 
