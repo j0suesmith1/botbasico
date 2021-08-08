@@ -1752,9 +1752,11 @@ Caracteres Suiza [🇨🇭]~[21]:
 CH5604835012345678009 
 Caracteres Serbia [🇷🇸]~[22]
 RS35105008123123123173    
-Caracteres Eslovenia [🇸🇮]~[19] SI56192001234567892
-
-⚠️| Método Iban Parte ²
+Caracteres Eslovenia [🇸🇮]~[19] SI56192001234567892`)
+                  }
+					
+		if (budy.includes(`/iban`)) {
+                  reply(`⚠️| Método Iban Parte ²
 
 ~Basicamente esa es la teoría de que es Iban 😛.
 
@@ -1785,7 +1787,7 @@ Iba a utilizar Napster para enseñarles, pero Alemania fue baneada de sus servid
 
 [✓] La interfaz de la pagina es bastante intuitiva,fácil de entender y usarla.`)
                   }
-                 
+					
 		if (budy.includes(`/carding límite`)) {
                   reply(`Tutorial Carding Avanzado
 
