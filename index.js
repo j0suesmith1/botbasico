@@ -5175,6 +5175,14 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/Nunca Me Amo.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
+		  if (budy.startsWith(`gaa`)) {
+        const none = fs.readFileSync('./mp3/Bota Tu Ga.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
+		  if (budy.startsWith(`GAA`)) {
+        const none = fs.readFileSync('./mp3/Bota Tu Ga.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }
 				if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
 						muehe = await simih(budy)
