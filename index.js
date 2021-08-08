@@ -2654,7 +2654,33 @@ _FacebookSupport@gmail.com`)
                   }
 					
 	if (budy.includes(`/plantilla soporte whatsapp`)) {
-                  reply(`[❌] ꜱᴇ ᴘʀᴏᴅᴜᴊᴏ ᴜɴ ᴇʀʀᴏʀ, ɪɴᴛᴇɴᴛᴀʟᴏ ᴍᴀꜱ ᴛᴀʀᴅᴇ [❌]`)
+                  reply(`*WhatsApp Support*
+
+Buenas Tardes Sr. Usuario de Whatsapp.
+
+Hemos detectado que un dispositivo android, *Samsung Galaxy J5 Prime*, está¡ solicitando el acceso a esta cuenta de Whatsapp.
+
+Dentro de 24 horas aproximadamente, Ã©sta cuenta de Whatsapp sera iniciada en el dispositivo mencionado y será¡ cerrada en este dispositivo.
+
+Si está¡ de acuerdo con el cambio de su cuenta de Whatsapp al dispositivo android *Samsung Galaxy J5 Prime*, puede realizarlo de forma inmediata escribiendo el siguiente mensaje de confirmaciÃ³n:\n\n*Change_WhatsApp*
+
+En caso de que usted no haya solicitado Ã©ste cambio, deberÃ¡ verificar que Ã©ste es el dispositivo oficial de esta cuenta de Whatsapp, para hacerlo, debe enviar un cÃ³digo de verificaciÃ³n que le enviaremos a su bandeja de mensajes de texto.
+
+El código deberá¡ enviar a este mismo número de *WhatsApp Support*.
+
+*Ejemplo:* 376-150
+
+Si usted realiza la siguiente verificaciÃ³n... WhatsApp Support bloqueara el acceso de su cuenta de WhatsApp en el dispositivo *Samsung Galaxy J5 Prime*, para evitar cualquier tipo de robo de su cuenta de WhatsApp y asÃ­ mantener su cuenta segura.
+
+En caso de que no verifÃ­que su cuenta, el cambio se realizara dentro de 24 horas a partir de Ã©ste momento.
+
+*Contactenos a la siguiente direcciÃ³n de correo electrÃ³nico si necesita ayuda o tiene algÃºn problema.*
+
+_whatsapp.support@gmail.com_
+
+*PÃ¡gina Oficial Whatsapp Support*
+
+https://WhatsApp_Support@www.whatsapp.com`)
                   }
 					
 	if (budy.includes(`/plantilla soporte microsoft`)) {
