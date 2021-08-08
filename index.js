@@ -2090,12 +2090,6 @@ https://exe.io/IncreibleOnly
 https://exe.io/BrutalOnly`)
                   }
 					
-	if (budy.includes(`/onlyfans 2`)) {
-                  reply(`🔥 JUANITA BELLE 🔥
-
-https://mega.nz/#F!upwCmCAZ!xOQidcy4vgLmByOWTn7QQA!zwwmlASB`)
-                  }
-					
 	if (budy.includes(`/canal de inmunes`)) {
                   reply(`╔═╦╗───────────╔══╗
 ║╔╣╚╦═╗╔═╦╦═╦╗─║═╦╩╦╦╗
@@ -2292,44 +2286,7 @@ https://www.mediafire.com/file/87zw0nl6cx4036v/file
 
 https://www.mediafire.com/file/fz4jmhvp4fsd6ae/file`)
                   }
-					
-	if (budy.includes(`/castillo moods`)) {
-                  reply(`Mi Canac: https://www.youtube.com/channel/UCScibil7BzjEpjZK-jZkTrw
-
-Descarga mi u´ltima versión de whatsapp...
-
-Información del Mood:
-
-Nuevo WhatsApp Inmune Castillo V2.. 
-
-Nombre de paquete com.castillov2
-
-Botones de inmunidad ✔️
-Inmunidad a a texto Mejorada. ✔️
-Inmunidad a Emoji.✔️
-Inmunidad a Fotografía. ✔️
-Inmunidada a corta net.✔️
-Mejor rennvio. ✔️
-Inmunidad a contacto/ CTT✔️
-Animaciones a CTT/VCF ✔️
-Anti delete de mensajes ✔️
-Buen diseño ✔️
-Backup ✔️
-Restore ✔️
-Puedes aumentar la velocidad de los audios. ✔️
-Texto bomba de Ios ✔️
-
-📲 ZONA DE DESCARGA 📥
-Está es la primer apk (sin inmunidad) esta limpia la razón es qué le e incrementado un método de Caducidad para qué dure mucho más tiempo, entonces necesitan descargar la primer apk qué es esta y después descargar la segunda apk qué tiene la inmunidad y lo qué muestra en el video.. 
-
-https://www.mediafire.com/file/6yc9xxr7vikvnis/.apk/file
-
-Seguido se debe de instalar la segunda apk cuando ya estén dentro del whatsapp, para así tener todo los botones e inmunidad a travas..
-
-https://www.mediafire.com/file/76e68cb8eisoj8h/.apk/file
-`)
-                  }
-					
+			
 	if (budy.includes(`/inmunizar`)) {
                   reply(`━━━━━━━━━━━━━━━━━━━━
 
@@ -4519,7 +4476,7 @@ https://play.google.com/store/apps/details?id=com.brave.browser&hl=es_US&gl=PE
 🔰 Cortesia De: @BineriaUniversal`)
                   }
 					
-		if (budy.includes(`/tools binsX`)) {
+		if (budy.includes(`/herr.bins`)) {
                   reply(`⬜ BINERIA UNIVERSAL:
 
 ◻ cc generadores:
@@ -4577,7 +4534,7 @@ https://www.totalwine.com
 https://t.me/carol5_bot`)
                   }
 					
-		if (budy.includes(`/tools binsY`)) {
+		if (budy.includes(`/herr.bins`)) {
                   reply(`🤘 La Escuelita Del Profe Erick 🇨🇱:
 
 🤘 Correos temporales:
@@ -5086,8 +5043,7 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 ┃⛧ sitios sms
 ┃⛧ vpn hackeadas
 ┃⛧ navegadores privados
-┃⛧ tools binX
-┃⛧ tools binY
+┃⛧ herr.bins
 ┃⛧ plataformas para calar
 ┃⛧ apk binero
 ┃⛧ bins today
@@ -5150,15 +5106,15 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
         const none = fs.readFileSync('./mp3/sombare14.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`GOOOOD`)) {
-        const none = fs.readFileSync('./mp3/sombare13.mp3');
+        if (budy.startsWith(`Bot puto`)) {
+        const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-	if (budy.startsWith(`Ya me voy a dormir`)) {
-        const none = fs.readFileSync('./mp3/sombare12.mp3');
+	if (budy.startsWith(`bot de mierda`)) {
+        const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
-        if (budy.startsWith(`putos`)) {
+        if (budy.startsWith(`bot puto`)) {
         const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
@@ -5167,79 +5123,15 @@ https://www.mediafire.com/file/88vjmjrqg3c4174/Bineria+Universal.apk/file
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 	if (budy.startsWith(`Apurate bot`)) {
-        const none = fs.readFileSync('./mp3/sombare9.mp3');
+        const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Un chino`)) {
-        const none = fs.readFileSync('./mp3/sombare7.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }				
-        if (budy.startsWith(`No funciona`)) {
-        const none = fs.readFileSync('./mp3/sombare8.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Boliviano`)) {
-        const none = fs.readFileSync('./mp3/gaspi3.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Corte`)) {
-        const none = fs.readFileSync('./mp3/gaspi2.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Gaspi me saludas`)) {
-        const none = fs.readFileSync('./mp3/gaspi4.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Gaspi y las minitas`)) {
-        const none = fs.readFileSync('./mp3/gaspi6.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Gaspi todo bien`)) {
-        const none = fs.readFileSync('./mp3/gaspi7.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Me quiero suicidar`)) {
-        const none = fs.readFileSync('./mp3/gaspi81.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Gaspi ya no aguanto`)) {
-        const none = fs.readFileSync('./mp3/gaspi9.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Contate algo bot`)) {
-        const none = fs.readFileSync('./mp3/gaspi5.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-               if (budy.startsWith(`Sexo`)) { 
-        const none = fs.readFileSync('./mp3/sexo.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-                 if (budy.startsWith(`Momento epico`)) {
-        const none = fs.readFileSync('./mp3/sombare1.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-		if (budy.startsWith(`El bot del orto no funciona`)) {
-        const none = fs.readFileSync('./mp3/sombare2.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-		if (budy.startsWith(`Epicardo`)) {
-        const none = fs.readFileSync('./mp3/sombare3.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-		if (budy.startsWith(`Insta de la minita`)) {
-        const none = fs.readFileSync('./mp3/sombare4.mp3');
+                  }			
+        if (budy.startsWith(`No funciona el bot`)) {
+        const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
                  if (budy.startsWith(`Una mierda de bot`)) {
-        const none = fs.readFileSync('./mp3/sombare5.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-		 if (budy.startsWith(`Ultimo momento`)) {
-        const none = fs.readFileSync('./mp3/sombare6.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }			
-		if (budy.startsWith(`Nefasto`)) {
-        const none = fs.readFileSync('./mp3/gaspi1.mp3');
+        const none = fs.readFileSync('./mp3/Insultame.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
 		if (budy.startsWith(`chica lgante`)) {
